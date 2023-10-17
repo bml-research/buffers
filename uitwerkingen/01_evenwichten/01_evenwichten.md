@@ -1,6 +1,6 @@
 ![Hanze](../../hanze/hanze.png)
 
-[Terug naar de hoofdpagina uitwerkingen](../uitwerkingen.md)
+[Terug naar de hoofdpagina ](../index.md)
 
 # Uitwerkingen les 1
 
@@ -135,7 +135,7 @@ Er zal meer product gevormd worden om het in evenwicht te brengen. Dus reactie z
 
 --- 
 
-[Terug naar de hoofdpagina uitwerkingen](../uitwerkingen.md)
+[Terug naar de hoofdpagina ](../index.md)
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
