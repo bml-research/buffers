@@ -22,6 +22,14 @@ d. Een katalysator versnelt een chemische reactie maar het evenwicht verschuift 
 
 ### Opgave 3
 
+a. Merk op dat C betrokken is bij beide reacties. Omdat stof C samen met stof E omgezet wordt in stof F zal de concentratie C afnemen. Hierdoor verschuift evenwicht 1 naar rechts.
+b. Reactie 2 is een aflopende reactie. Extra toevoeging van stof F heeft geen invloed op de concentratie van stof A. Deze blijft dus gelijk.
+c. Dan zou de concentratie van A toenemen. Evenwicht 1 verschuift naar links.
+
+### Opgave 4
+
+a. Meer H zorgt voor een verschuiving van evenwicht 1. Hierdoor verschuift ook evenwicht 2. Beide evenwichten verschuiven dus naar rechts. 
+b. Evenwicht 1 verschuift naar links en evenwicht 2 verschuift naar rechts.
 
 
 --- 
