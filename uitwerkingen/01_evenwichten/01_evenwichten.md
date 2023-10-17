@@ -85,7 +85,7 @@ $m=n\cdot M = 9,75\cdot10^{-13} \cdot 56.0774 = 5,47\cdot10^{-11} \ g$
 
 $N_2 + 3H_2 \rightleftarrows 2NH_3$  
 
-$Q = \frac{[NH_3]^2}{[N_2]\cdot[H_2]^3} = 1,7\cdot10^2$  
+$K_{eq} = \frac{[NH_3]^2}{[N_2]\cdot[H_2]^3} = 1,7\cdot10^2$  
 
 $n_{N_2} = 1,57 \ mol$  
 $n_{H_2} = 1,92 \ mol$  
@@ -127,7 +127,7 @@ $K_{eq} = \frac{(7,3\cdot10^{-1})^2}{1,1\cdot10^{-6}\cdot(2,1\cdot10^{-1})^2} = 
 
 $K_{eq} = \frac{[NO_2]^2}{[NO]^2\cdot[O_2]} = 6,9\cdot10^5$  
 
-$K{eq} = \frac{0,8^2}{0,06^2 \cdot 1} = 178$  
+$Q = \frac{0,8^2}{0,06^2 \cdot 1} = 178$  
 
 $178< 6,9\cdot10^5$  
 
