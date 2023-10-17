@@ -2,10 +2,6 @@
 
 # Bereiden van Buffers en Oplossingen
 
-## Docenten
-
-- Gert Hofstede
-- Jurre Hageman
 
 ## Hoofdpagina
 
@@ -13,8 +9,13 @@
 
 ![Pic](./impression/impression.jpg)
 *<sub>Source: https://commons.wikimedia.org/wiki/File:Quattro_II_triple_quadropole_mass_spectrometer.jpg</sub>*
+
+## Docenten
+
+- [Docenten](./docenten/docenten.md)
+
 ## Inhoud
-- [Opdrachten lessen](./opdrachten/opdrachten.md)
+<!--- [Opdrachten lessen](./opdrachten/opdrachten.md)-->
 - [Uitwerkingen lessen](./uitwerkingen/uitwerkingen.md)
 
 
