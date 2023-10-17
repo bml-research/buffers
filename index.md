@@ -8,7 +8,7 @@
 ---
 
 ![Pic](./impression/impression.png)
-*<sub>pH meters in 1937, 1960 and 2008. Source: https://en.wikipedia.org/wiki/PH_meter</sub>*
+*<sub>pH meters in 1937, 1960 and 2008. Bron: https://en.wikipedia.org/wiki/PH_meter</sub>*
 
 ## Docenten
 
