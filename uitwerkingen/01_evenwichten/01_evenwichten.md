@@ -125,15 +125,24 @@ $K_{eq} = \frac{(7,3\cdot10^{-1})^2}{1,1\cdot10^{-6}\cdot(2,1\cdot10^{-1})^2} = 
 
 ### Opgave 5
 
+$2NO + O_2 \rightleftarrows 2NO_2$  
+
 $K_{eq} = \frac{[NO_2]^2}{[NO]^2\cdot[O_2]} = 6,9\cdot10^5$  
 
-$Q = \frac{0,8^2}{0,06^2 \cdot 1} = 178$  
+$n_{NO} = 0,06 \ mol$
+$n_{O_2} = 1 \ mol$
+$n_{NO_2} = 0,8 \ mol$
 
-$178< 6,9\cdot10^5$  
+$c_{NO} = \frac{0,06}{5} = 0,012\ mol/L$
+$c_{O_2} = \frac{1}{5} =  0,2\ mol/L$
+$c_{NO_2} = \frac{0,8}{5} = 0,16\ mol/L$
+
+$Q = \frac{0,16^2}{0,012^2 \cdot 0,2} = 889$  
+
+$889< 6,9\cdot10^5$  
 
 Er zal meer product gevormd worden om het in evenwicht te brengen. Dus reactie zal dus naar rechts verschuiven.  
 
->Let op: in antwoordmodel staat 889 als antwooord ipv 178  
 
 --- 
 
