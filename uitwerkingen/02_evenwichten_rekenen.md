@@ -64,7 +64,7 @@ $x^2 = 1,9\cdot10^{-23} \cdot 0,05 = 9,5 \cdot10^{-25}$
 $x = \sqrt{9,5 \cdot10^{-25}} = 9,75 \cdot10^{-13} \ mol$
 
 Dus in gram:  
-$M_{w \ CaO} = 56.0774 \ mol/g$
+$M_{w \ CaO} = 56.0774 \ mol/g$  
 $m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56.0774 = 5,47\cdot10^{-11} \ g$
 
 
