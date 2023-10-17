@@ -2,7 +2,7 @@
 
 [Terug naar de hoofdpagina ](../index.md)
 
-# Uitwerkingen les 1
+# Uitwerkingen evenwichten
 
 ---
 
