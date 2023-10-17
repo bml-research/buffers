@@ -1,6 +1,6 @@
-![Hanze](../../hanze/hanze.png)
+![Hanze](../hanze/hanze.png)
 
-[Terug naar de hoofdpagina ](../../index.md)
+[Terug naar de hoofdpagina ](../index.md)
 
 # Uitwerkingen Evenwichten 
 
@@ -14,7 +14,7 @@
 
 --- 
 
-[Terug naar de hoofdpagina ](../../index.md)
+[Terug naar de hoofdpagina ](../index.md)
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
