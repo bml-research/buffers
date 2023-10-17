@@ -7,8 +7,8 @@
 
 ---
 
-![Pic](./impression/impression.jpg)
-*<sub>Source: https://en.wikipedia.org/wiki/Solution#/media/File:SaltInWaterSolutionLiquid.jpg</sub>*
+![Pic](./impression/impression.png)
+*<sub>pH meters in 1937, 1960 and 2008. Source: https://en.wikipedia.org/wiki/PH_meter</sub>*
 
 ## Docenten
 
