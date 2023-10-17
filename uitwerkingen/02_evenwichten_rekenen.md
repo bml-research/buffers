@@ -20,10 +20,20 @@ $K_{eq} = \frac{x \cdot x}{[CaCO_3] -x} = 1,9\cdot10^{-23}$
 $x^2 = 1,9\cdot10^{-23}(0,023 -x)$
 $0 = -x^2 - 1,9\cdot10^{-23}x + 4,37\cdot10^{-25}$ 
 $x = \frac{-b\pm\sqrt{b^2-4ac}}{2a} = \frac{-1,9\cdot10^{-23}\pm\sqrt{-1,9\cdot10^{-23}-4\cdot-1\cdot4,37\cdot10^{-25} }}{2\cdot -1}$
-$x = -6,61\cdot10^{-13}\  mol$
-$x = 6,61\cdot10^{-13}\  mol$
+$x = -6,61\cdot10^{-13}\  mol$  
+$x = 6,61\cdot10^{-13}\  mol$  
 Dus in gram:
-$m=n\cdot M = 6,62\cdot10^{-13} \cdot 100,09 = 6,61\cdot10^{-11} \ g$  
+$m=n\cdot M_w = 6,62\cdot10^{-13} \cdot 100,09 = 6,61\cdot10^{-11} \ g$  
+
+Of (eenvoudiger):  
+$\frac{0,023}{1,9\cdot10^{-23}} >> 1000$ dus x is verwaarloosbaar (in optellen of aftrekken).  
+
+$K_{eq} = \frac{x \cdot x}{[CaCO_3] -x} = 1,9\cdot10^{-23}$  
+$K_{eq} = \frac{x \cdot x}{[CaCO_3] -0} = 1,9\cdot10^{-23}$  
+$x^2 = 1,9\cdot10^{-23} \cdot 0,023 = 4,37 \cdot10^{-25}$  
+$x = \sqrt{4,37 \cdot10^{-25}} = 6,61 \cdot10^{-13} \ mol$  
+Dus in gram:  
+$m=n\cdot M_w = 6,61\cdot10^{-13} \cdot 100,09 = 6,62\cdot10^{-11} \ g$  
 
 
 ### Opgave 1
@@ -39,21 +49,23 @@ $0 = -x^2 - 1,9\cdot10^{-23}x + 9,5\cdot10^{-25}$
 $x = \frac{-b\pm\sqrt{b^2-4ac}}{2a} = \frac{-1,9\cdot10^{-23}\pm\sqrt{(-1,9\cdot10^{-23})^2-4\cdot-1\cdot9,5\cdot10^{-25} }}{2\cdot -1}$  
 $x = -9,75\cdot10^{-13}\  mol$  
 $x = 9,75\cdot10^{-13}\  mol$  
-$M_{w \ CaO} = 56.0774 \ mol/g$
-$m=n\cdot M = 9,75\cdot10^{-13} \cdot 56.0774 = 5,47\cdot10^{-11} \ g$
+$M_{w \ CaO} = 56.0774 \ mol/g$  
+$m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56.0774 = 5,47\cdot10^{-11} \ g$  
 
-Of: $\frac{0,023}{1,9\cdot10^{-23}} >> 1000$ dus x is verwaarloosbaar.
+Of (eenvoudiger):  
+$\frac{0,023}{1,9\cdot10^{-23}} >> 1000$ dus x is verwaarloosbaar.  
 
-Dus:
+Dus:  
 
 $K_{eq} = \frac{x \cdot x}{[CaCO_3] -x} = 1,9\cdot10^{-23}$  
+$K_{eq} = \frac{x \cdot x}{[CaCO_3] -0} = 1,9\cdot10^{-23}$  
 
 $x^2 = 1,9\cdot10^{-23} \cdot 0,05 = 9,5 \cdot10^{-25}$
-$x = 9,75 \cdot10^{-13} \ mol$
+$x = \sqrt{9,5 \cdot10^{-25}} = 9,75 \cdot10^{-13} \ mol$
 
 Dus in gram:  
 $M_{w \ CaO} = 56.0774 \ mol/g$
-$m=n\cdot M = 9,75\cdot10^{-13} \cdot 56.0774 = 5,47\cdot10^{-11} \ g$
+$m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56.0774 = 5,47\cdot10^{-11} \ g$
 
 
 ### Opgave 2
