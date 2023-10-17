@@ -45,7 +45,9 @@ $0 = -x^2 - 1,9\cdot10^{-23}x + 4,37\cdot10^{-25}$
 $x = \frac{-b\pm\sqrt{b^2-4ac}}{2a} = \frac{-1,9\cdot10^{-23}\pm\sqrt{-1,9\cdot10^{-23}-4\cdot-1\cdot4,37\cdot10^{-25} }}{2\cdot -1}$  
 $x = -6,61\cdot10^{-13}\  mol$  
 $x = 6,61\cdot10^{-13}\  mol$  
+
 Dus in gram:  
+
 $m=n\cdot M = 6,62\cdot10^{-13} \cdot 100,09 = 6,61\cdot10^{-11} \ g$  
 
 
