@@ -2,10 +2,11 @@
 
 [Terug naar de hoofdpagina ](../../index.md)
 
-# Uitwerkingen Het principe van LeChatelier en het verschuiven van evenwichten
+# Uitwerkingen Evenwichten 
 
 ---
 
+## Het principe van LeChatelier en het verschuiven van evenwichten
 
 ### Opgave 1
 
