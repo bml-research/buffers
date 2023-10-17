@@ -17,6 +17,7 @@
 ## Inhoud
 
 - [Evenwichten](./uitwerkingen/01_evenwichten/01_evenwichten.md)
+- [Het principe van LeChatelier en het verschuiven van evenwichten](./uitwerkingen/02_lechatelier/02_lechatelier.md)
 
 
 --- 
