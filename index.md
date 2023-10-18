@@ -1,5 +1,10 @@
 ![Hanze](./hanze/hanze.png)
 
+  <head>
+    ...
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
+
 # Bereiden van Buffers en Oplossingen
 
 
