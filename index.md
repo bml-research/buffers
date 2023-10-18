@@ -21,6 +21,9 @@
 - [Het principe van LeChatelier en het verschuiven van evenwichten](./uitwerkingen/03_lechatelier.md)  
 - [Introductie zuren](./uitwerkingen/04_zuren.md)  
 - [Introductie basen](./uitwerkingen/05_basen.md)  
+- [Zuurconstanten](./uitwerkingen/06_zuurconstanten.md)
+
+
 
 
 
