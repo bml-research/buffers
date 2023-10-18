@@ -56,7 +56,7 @@ d. $K_a = \frac{[C_8H_{10}N_4O_2][H_3O^+]}{[C_8H_{11}N_4O_2^+]}$
 Het betreft een zuurconstante, want de reactie betreft de dissociatie van een zuur. 
 
 
---- 
+---  
 
 [Terug naar de hoofdpagina ](../index.md)
 
