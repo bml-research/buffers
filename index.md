@@ -23,6 +23,8 @@
 - [Introductie basen](./uitwerkingen/05_basen.md)  
 - [Zuurconstanten](./uitwerkingen/06_zuurconstanten.md)  
 - [Baseconstanten](./uitwerkingen/07_baseconstanten.md)  
+- [De Waterconstante](./uitwerkingen/08_waterconstante.md)  
+
 
 
 
