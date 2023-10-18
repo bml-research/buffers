@@ -4,7 +4,7 @@
 # Bereiden van Buffers en Oplossingen
 
 
-## Hoofdpagina
+## Hoofdpagina uitwerkingen
 
 ---
 
