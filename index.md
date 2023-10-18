@@ -24,7 +24,7 @@
 - [Introductie basen](./uitwerkingen/05_basen.md)  
 - [Zuurconstanten](./uitwerkingen/06_zuurconstanten.md)  
 - [Baseconstanten](./uitwerkingen/07_baseconstanten.md)  
-- [De Waterconstante](./uitwerkingen/08_waterconstante.md)  
+- [De Waterconstante](./uitwerkingen/08_de_waterconstante.md)  
 - [Zuur-base paren](./uitwerkingen/09_zuurbasenparen.md)  
 - [Van Ka naar Kb](./uitwerkingen/10_ka_naar_kb.md)  
 - [pKa en pKb waarden](./uitwerkingen/11_rekenen_pka.md)  
