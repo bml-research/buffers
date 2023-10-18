@@ -26,6 +26,9 @@
 - [Zuurconstanten](./uitwerkingen/06_zuurconstanten.md)  
 - [Baseconstanten](./uitwerkingen/07_baseconstanten.md)  
 - [De Waterconstante](./uitwerkingen/08_waterconstante.md)  
+- [Zuur-base paren](./uitwerkingen/09_zuurbasenparen.md)  
+
+
 
 
 
