@@ -10,13 +10,10 @@
 
 ### Opgave 1
 
-a. $[OH^-] = \frac{K_w}{{H_3O^+}}$
+a. $C_{10}H_{14}N_2 + H_2O \rightleftarrows C_{10}H_{15}N_2^+ + OH^-$  
+b. $C_{10}H_{15}N_2^+ + H_2O \rightleftarrows C_{10}H_{14}N_2 + H_3O^+$  
 
-Dus:
 
-$[OH^-] = \frac{10^{-14}}{{7,9 \cdot10^{-5}}} = 1,3\cdot10^{-10} \ mol/L$
-
-b. Deze oplossing is zuur
 
 ### Opgave 2
 
@@ -25,6 +22,34 @@ b. Deze oplossing is zuur
 ### Opgave 3
 
 
+1a. C10H14N2 + H2O		C10H15N2+ + OH-
+1b. C10H15N2++ H2O		C10H14N2 + H3O+
+1c. basisch
+2a. C9H8O4 + H2O		C9H7O4- + H3O+
+2b. C9H7O4-
+2c. C9H7O4-  + H2O		C9H8O4 + OH-
+2d. zuur
+3a. NH4CL + H2O		NH3 + H3O+ + Cl-
+3b. zuur 
+3c. NH3 + HCl			NH4Cl
+3d. 1,9 104 mol ammonia en 1,9 104 mol zoutzuur.
+3e. 457 m3 zoutzuur
+3f. 442 m3 ammonia
+4a. HCOOH + H2O		HCOO- + H3O+
+
+	Ka = [HCOO-][OH-]
+	          [HCOOH]
+4b. HCOO-
+4c. HCOO- + H2O		HCOOH	 + OH-
+4d. Kb = [HCOOH][OH-]
+	    [HCOO-]
+	baseconstante. 
+5a. C8H10N4O2 + H2O			C8H11N4O2+ + OH-
+5b. C8H11N4O2+
+5c. C8H11N4O2+ + H2O			C8H10N4O2 + H3O+
+5d. 	Ka = [C8H10N4O2][H3O+]
+	             [C8H11N4O2+]
+	Zuurconstante, want de reactie betreft de dissociatie van een zuur. 
 
 
 --- 
