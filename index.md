@@ -19,6 +19,9 @@
 - [Evenwichten opstellen](./uitwerkingen/01_evenwichten_opstellen.md)
 - [Rekenen aan evenwichten ](./uitwerkingen/02_evenwichten_rekenen.md)
 - [Het principe van LeChatelier en het verschuiven van evenwichten](./uitwerkingen/03_lechatelier.md)
+- [Introductie zuren](./uitwerkingen/04_zuren.md)
+
+
 
 
 --- 
