@@ -18,7 +18,7 @@ c. Deze zal basisch worden. Wanneer je nicotine (een zwakke base) oplost in wate
 
 a. $C_9H_8O_4 + H_2O \rightleftarrows C_9H_7O_4^- + H_3O^+$  
 b. $C_9H_7O_4^-$  
-c. $C_9H_7O_4^- + H_2O \rightleftarrows C_9_H_8O_4 + OH^-$  
+c. $C_9H_7O_4^- + H_2O \rightleftarrows C_9H_8O_4 + OH^-$  
 d. Deze zal zuur worden. 
 
 
