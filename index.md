@@ -28,6 +28,8 @@
 - [Zuur-base paren](./uitwerkingen/09_zuurbasenparen.md)  
 - [Van Ka naar Kb](./uitwerkingen/10_ka_naar_kb.md)  
 - [pKa en pKb waarden](./uitwerkingen/11_rekenen_pka.md)  
+- [Rekenen zwakke zuren en basen](./uitwerkingen/12_rekenen_zuur_base.md)  
+
 
 
 
