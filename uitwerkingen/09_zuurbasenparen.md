@@ -16,39 +16,44 @@ c. Deze zal basisch worden. Wanneer je nicotine (een zwakke base) oplost in wate
 
 ### Opgave 2
 
+a. $C_9H_8O_4 + H_2O \rightleftarrows C_9H_7O_4^- + H_3O^+$  
+b. $C_9H_7O_4^-$  
+c. $C_9H_7O_4^- + H_2O \rightleftarrows C_9_H_8O_4 + OH^-$  
+d. Deze zal zuur worden. 
 
 
 ### Opgave 3
 
+a. $NH_4Cl + H_2O \rightleftarrows NH_3 + H_3O^+ Cl$  
+b. Zuur  
+c. $NH_3 (g) + HCl (aq) \rightleftarrows NH_4Cl$  
+d. Zie berekening hieronder:
+Een ton is 1000 kg = $1\cdot10^6 \ g$  
+$Mw_{NH_4} = 53,491 \ g/mol$  
+$n = \frac{m}{M_w} = \frac{1\cdot10^6}{53,491} = 18695 mol$  
+De reactanten reageren in een 1 op 1 verhouding tot 1 mol dus:
+18695 mol ammonia en 18695 mol zoutzuur.
+e. $\rho = \frac{m}{V}$  
+dus:
+$m = n * M = 18695 * 36,46 = 681619.7 \ g = 6,82 \cdot10^5 g$
+$V = \frac{m}{\rho} = \frac{6,82 \cdot10^5}{1,490} = 457718 \ dm^3 = 458 \ m^3$
+f. $18695 * 22,4 = 418768 \ dm^3 = 419 \ m^3$
 
-1a. C10H14N2 + H2O		C10H15N2+ + OH-
-1b. C10H15N2++ H2O		C10H14N2 + H3O+
-1c. basisch
-2a. C9H8O4 + H2O		C9H7O4- + H3O+
-2b. C9H7O4-
-2c. C9H7O4-  + H2O		C9H8O4 + OH-
-2d. zuur
-3a. NH4CL + H2O		NH3 + H3O+ + Cl-
-3b. zuur 
-3c. NH3 + HCl			NH4Cl
-3d. 1,9 104 mol ammonia en 1,9 104 mol zoutzuur.
-3e. 457 m3 zoutzuur
-3f. 442 m3 ammonia
-4a. HCOOH + H2O		HCOO- + H3O+
+### Opgave 4
 
-	Ka = [HCOO-][OH-]
-	          [HCOOH]
-4b. HCOO-
-4c. HCOO- + H2O		HCOOH	 + OH-
-4d. Kb = [HCOOH][OH-]
-	    [HCOO-]
-	baseconstante. 
-5a. C8H10N4O2 + H2O			C8H11N4O2+ + OH-
-5b. C8H11N4O2+
-5c. C8H11N4O2+ + H2O			C8H10N4O2 + H3O+
-5d. 	Ka = [C8H10N4O2][H3O+]
-	             [C8H11N4O2+]
-	Zuurconstante, want de reactie betreft de dissociatie van een zuur. 
+a. $HCOOH + H_2O \rightleftarrows HCOO^- + H_3O^+$  
+b. $HCOO^-$  
+c. $HCOO^- + H2O \rightleftarrows HCOOH + OH^-$  
+d. $K_b = \frac{[HCOOH][OH^-]}{[HCOO^-]}$  
+Het betreft een baseconstante. 
+
+### Opgave 5
+
+a. $C_8H_{10}N_4O_2 + H_2O \rightleftarrows C_8H_{11}N_4O_2^+ + OH^-$  
+b. $C_8H_{11}N_4O_2^+$  
+c. $C_8H_{11}N_4O_2^+ + H_2O \rightleftarrows C_8H_{10}N_4O_2 + H_3O^+$  
+d. $K_a = \frac{[C_8H_{10}N_4O_2][H_3O^+]}{[C_8H_{11}N_4O_2^+]}$  
+Het betreft een zuurconstante, want de reactie betreft de dissociatie van een zuur. 
 
 
 --- 
