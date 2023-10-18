@@ -12,8 +12,7 @@
 
 a. $C_{10}H_{14}N_2 + H_2O \rightleftarrows C_{10}H_{15}N_2^+ + OH^-$  
 b. $C_{10}H_{15}N_2^+ + H_2O \rightleftarrows C_{10}H_{14}N_2 + H_3O^+$  
-
-
+c. Deze zal basisch worden. Wanneer je nicotine (een zwakke base) oplost in water, zal de oplossing basisch worden, omdat een deel van de nicotine dissocieert. Hierbij ontstaat $OH^-$. 
 
 ### Opgave 2
 
