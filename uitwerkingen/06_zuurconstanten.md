@@ -27,7 +27,7 @@ a. $HCl + H_2O \rightarrow Cl^- + H_3O^+$
 
 $Ka = \frac{[Cl^-]\cdot[H_3O^+]}{[HCl]}$
 
-b. oneindig hoog
+b. oneindig hoog. Je kunt dus eigenlijk ook geen goede evenwichtsvoorwaarde opstellen, omdat er geen sprake is van een evenwicht.  
 
 ### Opgave 4
 
