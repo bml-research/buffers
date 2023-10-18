@@ -1,10 +1,5 @@
 ![Hanze](./hanze/hanze.png)
 
-  <head>
-    ...
-    <link rel="shortcut icon" type="image/x-icon" 
-      href="{{ "/assets/images/favicon.ico"  | https://bml-research.github.io/buffers/ }}">
-  </head>
 
 # Bereiden van Buffers en Oplossingen
 
