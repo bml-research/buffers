@@ -10,21 +10,8 @@
 
 ### Opgave 1
 
+test
 
-### Opgave 2
-
-  
-
-### Opgave 3
-
-a 
-
-
-### Opgave 4
-
- 
-
-### Opgave 5
 
 
 
