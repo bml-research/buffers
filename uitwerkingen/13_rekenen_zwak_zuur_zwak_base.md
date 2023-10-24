@@ -59,24 +59,24 @@ $n =\frac{m}{M_w} = \frac{1}{180,16} = 5,55\cdot10^{-3} \ mol$
 
 b.  
 
-$c = \frac{n}{V} = \frac{5,6\cdot10^{-3}}{0,1} = 5,55\cdot10^{-2} \ M$  
+$c = \frac{n}{V} = \frac{5,55\cdot10^{-3}}{0,1} = 5,55\cdot10^{-2} \ M$  
 
 c.  
 $C_9H_8O_4 + H_2O \rightleftarrows C_9H_7O_4^- + H_3O^+$  
 d. -  
-e. x mag verwaarloosd worden want $\frac{CHA}{Ka} = 168$  
+e. x mag verwaarloosd worden want $\frac{C_{HA}}{Ka} > 100$  
 f. $Ka = \frac{x2}{5,55\cdot10^{-2}}$  
 g.  
 $x^2 = 5,8\cdot10^{-5} \cdot 5,55\cdot10^{-2} = 3,22 \cdot 10^{-6}$  
 $x = \sqrt{3,22 \cdot 10^{-6}} = 1,79 \cdot 10^{-3}\ M$
 
 
-2h. $1,79 \cdot 10^{-3}$ / M.  
->Let op: in antwoorden: 4,3 10-3 M H3O+
+2h. $1,79 \cdot 10^{-3}$ \ M.  
+>Let op: in antwoorden: $4,3\cdot10^{-3} \ M H_3O^+$
 
 2i. $pH = -\log{1,79 \cdot 10^{-3}} = 2,75$  
 
->Let op: in antwoorden: 2,4  
+>Let op: in antwoorden: $2,4$  
 
 ---
 In progress...  
