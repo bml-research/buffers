@@ -27,7 +27,7 @@ $M_{w \ CaO} = 56.0774 \ mol/g$
 $m=n\cdot M_w = 6,62\cdot10^{-13} \cdot 56,0774 = 3,71\cdot10^{-11} \ g$  
 
 Of (eenvoudiger):  
-$\frac{0,023}{1,9\cdot10^{-23}} >> 1000$ dus x is verwaarloosbaar (in optellen of aftrekken).  
+$\frac{0,023}{1,9\cdot10^{-23}} >> 100$ dus x is verwaarloosbaar (in optellen of aftrekken).  
 
 $K_{eq} = \frac{x \cdot x}{[CaCO_3] -x} = 1,9\cdot10^{-23}$  
 $K_{eq} = \frac{x \cdot x}{[CaCO_3] -0} = 1,9\cdot10^{-23}$  
@@ -56,7 +56,7 @@ $M_{w \ CaO} = 56,0774 \ mol/g$
 $m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56,0774 = 5,47\cdot10^{-11} \ g$  
 
 Of (eenvoudiger):  
-$\frac{0,023}{1,9\cdot10^{-23}} >> 1000$ dus x is verwaarloosbaar.  
+$\frac{0,023}{1,9\cdot10^{-23}} >> 100$ dus x is verwaarloosbaar.  
 
 Dus:  
 
