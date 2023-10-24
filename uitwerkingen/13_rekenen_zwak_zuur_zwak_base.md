@@ -71,7 +71,7 @@ $x^2 = 5,8\cdot10^{-5} \cdot 5,55\cdot10^{-2} = 3,22 \cdot 10^{-6}$
 $x = \sqrt{3,22 \cdot 10^{-6}} = 1,79 \cdot 10^{-3}\ M$
 
 
-2h. $1,79 \cdot 10^{-3}$ \ M.  
+2h. $1,79 \cdot 10^{-3}$ / M.  
 >Let op: in antwoorden: 4,3 10-3 M H3O+
 
 2i. $pH = -\log{1,79 \cdot 10^{-3}} = 2,75$  
