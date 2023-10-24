@@ -41,26 +41,46 @@ $pH = -\log{H_3O^+} = -\log{7,64\cdot10^{-3}} = 2,2$
 Of (eenvoudiger):  
 Als stelregel hiervoor geldt dat als de beginconcentratie van het zuur meer dan 100x zo groot is als de Ka, je x mag verwaarlozen. Dat is hier het geval!  
 
-$x^2 = \frac{5,8 \cdot 10^{-5} }{1} = 5,8 \cdot 10^{-5}$  
-$x = \sqrt{5,8 \cdot 10^{-5}} = 0.00762 \ M$
+$x^2 = 5,8 \cdot 10^{-5} \cdot 1 = 5,8 \cdot 10^{-5}$  
+$x = \sqrt{5,8 \cdot 10^{-5}} = 0.00762 \ M$  
 
 
 De pH van de oplossing is dan:  
 
-$pH = -\log{H_3O^+} = -\log{7,62\cdot10^{-3}} = 2,1$
+$pH = -\log{H_3O^+} = -\log{7,62\cdot10^{-3}} = 2,1$  
 
 >Er is dus een heel klein verschil tussen beide methoden. Het betreft echter maar een klein verschil en de tweede methode is wat eenvoudiger in uitwerking en zal vanaf nu verder gebruikt worden (indien toegestaan).
 
+### Opgave 2
 
-2a. 5,6 mmol aspirine
-2b. 5,6 10-2 M aspirine
-2c. C9H8O4 + H2O		C9H7O4 + H3O+
-2d. - 
-2e. x mag verwaarloosd worden (CHA/Ka = 168).
-2f. Ka = x2/5,55.....10-2 M
-2g. x = 4,3 10-3
-2h. 4,3 10-3 M H3O+
-2i. pH = 2,4
+a.  
+$m = 1 \ g$  
+$n =\frac{m}{M_w} = \frac{1}{180,16} = 5,55\cdot10^{-3} \ mol$  
+
+b.  
+
+$c = \frac{n}{V} = \frac{5,6\cdot10^{-3}}{0,1} = 5,55\cdot10^{-2} \ M$  
+
+c.  
+$C_9H_8O_4 + H_2O \rightleftarrows C_9H_7O_4^- + H_3O^+$  
+d. -  
+e. x mag verwaarloosd worden want $\frac{CHA}{Ka} = 168$  
+f. $Ka = \frac{x2}{5,55\cdot10^{-2}}$  
+g.  
+$x^2 = 5,8\cdot10^{-5} \cdot 5,55\cdot10^{-2} = 3,22 \cdot 10^{-6}$  
+$x = \sqrt{3,22 \cdot 10^{-6}} = 1,79 \cdot 10^{-3}\ M$
+
+
+2h. $1,79 \cdot 10^{-3}$ \ M.  
+>Let op: in antwoorden: 4,3 10-3 M H3O+
+
+2i. $pH = -\log{1,79 \cdot 10^{-3}} = 2,75$  
+
+>Let op: in antwoorden: 2,4  
+
+---
+In progress...  
+
 3a. C3H6O3 + H2O		C3H5O3- + H3O+
        Ka = [C3H5O3-][ H3O+]
 	     [C3H6O3]
