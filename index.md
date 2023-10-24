@@ -29,6 +29,9 @@
 - [Van Ka naar Kb](./uitwerkingen/10_ka_naar_kb.md)  
 - [pKa en pKb waarden](./uitwerkingen/11_rekenen_pka.md)  
 - [Rekenen aan sterke zuren en sterke basen](./uitwerkingen/12_rekenen_zuur_base.md)  
+- [Rekenen aan zwakke zuren en zwakke basen](./uitwerkingen/13_rekenen_zwak_zuur_zwak_base%20copy.md)  
+
+
 
 
 
