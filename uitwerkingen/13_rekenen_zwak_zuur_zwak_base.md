@@ -120,7 +120,7 @@ $pH = -\log{2,72 \cdot 10^{-3}} = 2,6$
 
 a.  
 $C_3H_6O_2 + H_2O \rightleftarrows C_3H_5O_2^- + H_3O^+$  
-$K_a = \frac{[OH^-][NH_4^+]}{[C_3H_6O_2]}$
+$K_a = \frac{[H_3O^+][C_3H_5O_2^-]}{[C_3H_6O_2]}$
 b.  
 $c = 300 \ mg/ 4,0 \ mL = 75\ g/L$
 $n = \frac{75}{74,08} = 1,01 \ mol$  
@@ -131,18 +131,31 @@ $x = \sqrt{1,36 \cdot10^{-5}} = 3,69 \cdot 10^{-3} \ M$
 $pH = -\log{3,69 \cdot 10^{-3}} = 2,4$  
 
 
+### Opgave 6
+
+a.  
+$NH_3 + H_2O \rightleftarrows NH_4^+ + OH^-$  
+$K_a = \frac{[OH^-][NH_4^+]}{[NH_3]}$
+b.  
+$c = 4 \ g/ 500 \ mL = 2\ g/L$
+$n = \frac{2}{17,031} = 0,117 \ mol$  
+$c = 0,117 \ M$  
+$K_b = 1,8\cdot10{-5}$  
+$x^2 = 1,8 \cdot10^{-5} \cdot 0,117 = 2,11 \cdot10^{-6}$  
+$x = \sqrt{2,11 \cdot10^{-6}} = 1,45 \cdot 10^{-3} \ M$  
+$pOH = -\log{1,45 \cdot 10^{-3}} = 2,84$  
+$pH = 14-2,84 = 11,2$  
+
+>Let op: antwoordmodel wijkt af:
+[OH-] = 2,9 10-3 M
+pOH = 2,5
+pH = 11,5
+
+
 ---
 In progress...  
 
 
-
-
-6a. NH3 + H2O			NH4+ + OH-
-6b. Kb = 	[OH-][NH4+]
-		    [NH3]
-6c. [OH-] = 2,9 10-3 M
-6d. pOH = 2,5
-6e. pH = 11,5
 7a. C6H5NO2 + H2O		C6H6NO2+ + OH-
 7b. Kb = [C6H6NO2+][OH-]
 	    [C6H5NO2]
