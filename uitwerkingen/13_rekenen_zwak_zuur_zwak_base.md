@@ -170,18 +170,25 @@ $pH = 14-6,86 = 7,1$
 c.  
 Ja dat is te verwachten. Aniline is een zeer zwakke base (met erg lage Kb waarde) en je lost ook nog eens maar heel weinig van deze stof op. Er zal dus zeer weinig $OH^-$ gevormd worden. De pH zal dus amper stijgen.   
 
----
-In progress...  
 
+### Opgave 8
 
-8a. C21H22N2O2 + H2O		C21H23N2O2+ + OH-
-       Kb = [C21H23N2O2+][OH-]
-	      [C21H22N2O2]
-8b. pH = 9,1 
-8c. 12,3 ml
-
-
-
+a.  
+$C_{21}H_{22}N_2O_2 + H_2O \rightleftarrows C_{21}H_{23}N_2O_2^+ + OH^-$  
+$K_b = \frac{[C_{21}H_{23}N_2O_2^+][OH^-]}{[C_{21}H_{22}N_2O_2]}$  
+b.  
+$pK_b = 8,26$  
+$c = 1\ g/100\ mL = 10\ g/L$  
+$n = \frac{10}{334,419}= 0,0299 \ mol$  
+$c = 0,0299 \ mol/L$  
+$K_b = 10^-{8,26} = 5.50 \cdot 10^{-9}$  
+$x^2 = 5.50 \cdot10^{-9} \cdot 0,0299 = 1,64 \cdot10^{-10}$  
+$x = \sqrt{1,64 \cdot10^{-10}} = 1,28 \cdot 10^{-5} \ M$  
+$pOH = -\log{1,28 \cdot 10^{-5}} = 4,89$  
+$pH = 14-4,89 = 9,1$  
+d.  
+$m_{dodelijk} = 82 \cdot 1,5 = 123 \ mg = 0,123 \ g$  
+$V_{dodelijk} = \frac{m_{dodelijk}}{c} = \frac{0,123}{10} = 0,0123 \ L = 12,3 \ mL$
 
 --- 
 
