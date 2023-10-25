@@ -78,15 +78,33 @@ $x = \sqrt{3,22 \cdot 10^{-6}} = 1,79 \cdot 10^{-3}\ M$
 
 >Let op: in antwoorden: $2,4$  
 
+### Opgave 3
+
+a.  
+$C_3H_6O_3 + H_2O \rightleftarrows C_3H_5O_3^ - + H_3O^ +$  
+$K_a = \frac{[C_3H_5O_3^-][ H_3O^+]}{[C_3H_6O_3]}$  
+
+b.  
+$n = \frac{m}{M_w} = \frac{5}{90,08} = 0,055 \ mol$  
+$c = \frac{0,055}{1} = 0,056 \ M$  
+
+c.  
+$K_a = 1,38\cdot 10^{-4}$  
+Je mag x verwaarlozen want $C_{HA}/K_a = 402$ (groter dan 100)  
+
+d.
+$K_a = \frac{x^2}{c}$
+$1,38\cdot 10^{-4} = \frac{x^2}{0,056}$  
+$x^2 = 1,38\cdot 10^{-4} \cdot 0,056 = 7,66\cdot10^{-6}$
+$x = \sqrt{7,66\cdot10^{-6}} = 2,76 \cdot 10^{-3} \ M$
+
+$pH = -\log{2,76 \cdot 10^{-3}} = 2,6$
+
 ---
 In progress...  
 
-3a. C3H6O3 + H2O		C3H5O3- + H3O+
-       Ka = [C3H5O3-][ H3O+]
-	     [C3H6O3]
-3b. 5,6 10-2 M melkzuur
-3c. Je mag x verwaarlozen (CHA/Ka = 402)
-3d. pH = 2,6
+
+
 4a. HCOOH + H2O		HCOO- + H3O+
       Ka = [HCOO-][ H3O+]
 	     [HCOOH]
