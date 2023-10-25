@@ -97,19 +97,28 @@ $K_a = \frac{x^2}{c}$
 $1,38\cdot 10^{-4} = \frac{x^2}{0,056}$  
 $x^2 = 1,38\cdot 10^{-4} \cdot 0,056 = 7,66\cdot10^{-6}$  
 $x = \sqrt{7,66\cdot10^{-6}} = 2,76 \cdot 10^{-3} \ M$
-
 $pH = -\log{2,76 \cdot 10^{-3}} = 2,6$
+
+
+### Opgave 4
+
+a.  
+$HCOOH + H_2O \rightleftarrows HCOO^- + H_3O^+$  
+$K_a = \frac{HCOO^-][H_3O^+]}{[HCOOH]}$  
+b.  
+$pKa = 3,77$  
+$c = 2 \ mg/mL = 2\ g/L$  
+$n = \frac{2}{46,03} = 0,0434 \ mol$  
+$c = 0,0434 \ M$  
+$K_a = 10^{-3,77}= 1,70 \cdot10^{-4}$  
+$x^2 = 1,70 \cdot10^{-4} \cdot 0,0434 = 7,38 \cdot10^{-6}$  
+$x = \sqrt{7,38 \cdot10^{-6}} = 2,72 \cdot 10^{-3} \ M$  
+$pH = -\log{2,72 \cdot 10^{-3}} = 2,6$  
 
 ---
 In progress...  
 
 
-
-4a. HCOOH + H2O		HCOO- + H3O+
-      Ka = [HCOO-][ H3O+]
-	     [HCOOH]
-4b. Ka = 1,70 10-4
-4c. pH = 2,6
 5a. C3H6O2 + H2O		C3H5O2- + H3O+
        Ka = [C3H5O2-][ H3O+]
 	      [C3H6O2]
