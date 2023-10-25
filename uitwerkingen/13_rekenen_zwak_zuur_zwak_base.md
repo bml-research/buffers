@@ -115,14 +115,28 @@ $x^2 = 1,70 \cdot10^{-4} \cdot 0,0434 = 7,38 \cdot10^{-6}$
 $x = \sqrt{7,38 \cdot10^{-6}} = 2,72 \cdot 10^{-3} \ M$  
 $pH = -\log{2,72 \cdot 10^{-3}} = 2,6$  
 
+
+### Opgave 5
+
+a.  
+$C_3H_6O_2 + H_2O \rightleftarrows C_3H_5O_2^- + H_3O^+$  
+$K_a = \frac{[OH^-][NH_4^+]}{[C_3H_6O_2]}$
+b.  
+$c = 300 \ mg/ 4,0 \ mL = 75\ g/L$
+$n = \frac{75}{74,08} = 1,01 \ mol$  
+$c = 1,01 \ M$  
+$K_a = 10^{-4,87}= 1,34 \cdot10^{-5}$  
+$x^2 = 1,34 \cdot10^{-5} \cdot 1,01 = 1,36 \cdot10^{-5}$  
+$x = \sqrt{1,36 \cdot10^{-5}} = 3,69 \cdot 10^{-3} \ M$  
+$pH = -\log{3,69 \cdot 10^{-3}} = 2,4$  
+
+
 ---
 In progress...  
 
 
-5a. C3H6O2 + H2O		C3H5O2- + H3O+
-       Ka = [C3H5O2-][ H3O+]
-	      [C3H6O2]
-5b. pH = 2,4
+
+
 6a. NH3 + H2O			NH4+ + OH-
 6b. Kb = 	[OH-][NH4+]
 		    [NH3]
