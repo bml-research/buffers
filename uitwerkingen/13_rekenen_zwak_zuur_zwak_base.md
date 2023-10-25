@@ -135,7 +135,7 @@ $pH = -\log{3,69 \cdot 10^{-3}} = 2,4$
 
 a.  
 $NH_3 + H_2O \rightleftarrows NH_4^+ + OH^-$  
-$K_a = \frac{[OH^-][NH_4^+]}{[NH_3]}$
+$K_b = \frac{[OH^-][NH_4^+]}{[NH_3]}$
 b.  
 $c = 4 \ g/ 500 \ mL = 2\ g/L$
 $n = \frac{2}{17,031} = 0,117 \ mol$  
@@ -152,15 +152,28 @@ pOH = 2,5
 pH = 11,5
 
 
+### Opgave 7
+
+a.  
+$C_6H_5NO_2 + H_2O \rightleftarrows C_6H_6NO_2^+ + OH^-$  
+b.  
+$K_b = \frac{[C_6H_6NO_2^+][OH^-]}{[C_6H_5NO_2]}$
+$pKb = 9,42$  
+$c = 50 \ \mu g/10\ mL = 5\ mg/L = 5\cdot10^{-3} \ g/L$  
+$n = \frac{5\cdot10^{-3}}{93,13} = 5,36\cdot10^{-5} \ mol$
+$c = 5,36\cdot10^{-5}\ M$ 
+$K_b = 10^{-9,42} = 3,55\cdot10^{-10}$  
+$x^2 = 3,55\cdot10^{-10} \cdot 5,36\cdot10^{-5} = 1,90 \cdot10^{-14}$  
+$x = \sqrt{1,90 \cdot10^{-14}} = 1,38 \cdot 10^{-7} \ M$  
+$pOH = -\log{1,38 \cdot 10^{-7}} = 6,86$  
+$pH = 14-6,86 = 7,1$  
+c.  
+Ja dat is te verwachten. Aniline is een zeer zwakke base en je lost ook nog eens maar heel weinig van deze stof op. Er zal dus zeer weinig $OH^-$ gevormd worden. De pH zal dus amper stijgen.   
+
 ---
 In progress...  
 
 
-7a. C6H5NO2 + H2O		C6H6NO2+ + OH-
-7b. Kb = [C6H6NO2+][OH-]
-	    [C6H5NO2]
-        pH = 7,1
-7c. Ja, want aniline is een heel zwakke base (met een heel lage Kb) en je lost ook nog eens maar heel weinig van deze stof op. Er zal zeer weinig OH- gevormd worden en de pH zal dus amper stijgen. 
 8a. C21H22N2O2 + H2O		C21H23N2O2+ + OH-
        Kb = [C21H23N2O2+][OH-]
 	      [C21H22N2O2]
