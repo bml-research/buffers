@@ -93,9 +93,9 @@ $K_a = 1,38\cdot 10^{-4}$
 Je mag x verwaarlozen want $C_{HA}/K_a = 402$ (groter dan 100)  
 
 d.
-$K_a = \frac{x^2}{c}$
+$K_a = \frac{x^2}{c}$  
 $1,38\cdot 10^{-4} = \frac{x^2}{0,056}$  
-$x^2 = 1,38\cdot 10^{-4} \cdot 0,056 = 7,66\cdot10^{-6}$
+$x^2 = 1,38\cdot 10^{-4} \cdot 0,056 = 7,66\cdot10^{-6}$  
 $x = \sqrt{7,66\cdot10^{-6}} = 2,76 \cdot 10^{-3} \ M$
 
 $pH = -\log{2,76 \cdot 10^{-3}} = 2,6$
