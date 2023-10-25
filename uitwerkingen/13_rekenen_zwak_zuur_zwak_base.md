@@ -168,7 +168,7 @@ $x = \sqrt{1,90 \cdot10^{-14}} = 1,38 \cdot 10^{-7} \ M$
 $pOH = -\log{1,38 \cdot 10^{-7}} = 6,86$  
 $pH = 14-6,86 = 7,1$  
 c.  
-Ja dat is te verwachten. Aniline is een zeer zwakke base en je lost ook nog eens maar heel weinig van deze stof op. Er zal dus zeer weinig $OH^-$ gevormd worden. De pH zal dus amper stijgen.   
+Ja dat is te verwachten. Aniline is een zeer zwakke base (met erg lage Kb waarde) en je lost ook nog eens maar heel weinig van deze stof op. Er zal dus zeer weinig $OH^-$ gevormd worden. De pH zal dus amper stijgen.   
 
 ---
 In progress...  
