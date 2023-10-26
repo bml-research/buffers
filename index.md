@@ -30,16 +30,7 @@
 - [pKa en pKb waarden](./uitwerkingen/11_rekenen_pka.md)  
 - [Rekenen aan sterke zuren en sterke basen](./uitwerkingen/12_rekenen_zuur_base.md)  
 - [Rekenen aan zwakke zuren en zwakke basen](./uitwerkingen/13_rekenen_zwak_zuur_zwak_base.md)  
-
-
-
-
-
-
-
-
-
-
+- [Zuur-base reacties](./uitwerkingen/14_zuur_base_reacties.md)
 
 
 --- 
