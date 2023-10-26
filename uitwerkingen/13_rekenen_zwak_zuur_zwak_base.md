@@ -99,7 +99,6 @@ $x^2 = 1,38\cdot 10^{-4} \cdot 0,056 = 7,66\cdot10^{-6}$
 $x = \sqrt{7,66\cdot10^{-6}} = 2,76 \cdot 10^{-3} \ M$
 $pH = -\log{2,76 \cdot 10^{-3}} = 2,6$
 
-
 ### Opgave 4
 
 a.  
@@ -115,7 +114,6 @@ $x^2 = 1,70 \cdot10^{-4} \cdot 0,0434 = 7,38 \cdot10^{-6}$
 $x = \sqrt{7,38 \cdot10^{-6}} = 2,72 \cdot 10^{-3} \ M$  
 $pH = -\log{2,72 \cdot 10^{-3}} = 2,6$  
 
-
 ### Opgave 5
 
 a.  
@@ -129,7 +127,6 @@ $K_a = 10^{-4,87}= 1,34 \cdot10^{-5}$
 $x^2 = 1,34 \cdot10^{-5} \cdot 1,01 = 1,36 \cdot10^{-5}$  
 $x = \sqrt{1,36 \cdot10^{-5}} = 3,69 \cdot 10^{-3} \ M$  
 $pH = -\log{3,69 \cdot 10^{-3}} = 2,4$  
-
 
 ### Opgave 6
 
@@ -170,7 +167,6 @@ $pH = 14-6,86 = 7,1$
 c.  
 Ja dat is te verwachten. Aniline is een zeer zwakke base (met erg lage Kb waarde) en je lost ook nog eens maar heel weinig van deze stof op. Er zal dus zeer weinig $OH^-$ gevormd worden. De pH zal dus amper stijgen.   
 
-
 ### Opgave 8
 
 a.  
@@ -190,7 +186,7 @@ d.
 $m_{dodelijk} = 82 \cdot 1,5 = 123 \ mg = 0,123 \ g$  
 $V_{dodelijk} = \frac{m_{dodelijk}}{c} = \frac{0,123}{10} = 0,0123 \ L = 12,3 \ mL$
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
 
