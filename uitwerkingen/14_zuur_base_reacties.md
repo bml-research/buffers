@@ -57,7 +57,7 @@ $m_{200\%} = 12 \ mg$
 dus:  
 $\frac{267}{12} = 22,25 \ maal$  
 1 tablet weegt dus:  
-$m_{tablet} = \frac{100}{22,5} = 4,44 \ g$  
+$m_{tablet} = \frac{100}{22,25} = 4,49 \ g$  
 
 
 ---
