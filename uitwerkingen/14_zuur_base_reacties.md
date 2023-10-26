@@ -40,6 +40,11 @@ $x^2 = 3,79 \cdot 10^{-5} \cdot 0,0304 = 1,19 \cdot10^{-6}$
 $x = \sqrt{1,19 \cdot10^{-6}} = 1,09 \cdot 10^{-3} \ M$  
 $pH = -\log{1,09 \cdot 10^{-3}} = 3,0$  
 
+
+>Let op: komt niet overeen met de antwoorden.
+a. 0.0152 M
+pH = 3.11
+
 b.  
 Reactie 1 op 1 (1-waardig zuur en 1-waardige base).  
 Dus nodig is:  
@@ -63,23 +68,9 @@ $m_{tablet} = \frac{100}{22,25} = 4,49 \ g$
 
 ---
 
-## Antwoorden voorbeeld tentamenvragen
+## Antwoorden Werkcollegeopgaven
 
-### Opgave 1. 
-
-a. $CaCO_3 + 2H_3O^+ \rightarrow Ca^{2+} + 3H_2O + CO_2$
-
-(b) HCl is een sterk zuur en CH3COOH is een zwak zuur. Beiden hebben een pH van 2,50, dus [H3O+] is bij beiden even groot. Echter, omdat CH3COOH een zwak zuur is, fungeert dit als een ‘voorraadvat’ van H3O+: het evenwicht verschuift steeds verder naar rechts als er base wordt toegevoegd. Dus: er lost meer CaCO3 op in azijnzuur oplossing 2 dan in zoutzuur oplossing 1.
-
-(c) Het wordt 106× verdund, dus [H3O+] wordt 3,2·10–9 mol/L
- Dan zou de pH = –log[H3O+] = 8,5 worden, maar dit kan niet want we hebben hier te maken met een zuur, dus wordt de pH 7, omdat alleen het waterevenwicht bepalend is.
-
-Vraag 2. 
-a. 0.0152 M
-pH = 3.11
-b. 0,57 ml
-c. 8333%
-d.  4,5 gram
+### Opgave 15. 
 
 
 
