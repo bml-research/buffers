@@ -34,7 +34,8 @@ $c = 500 \ mg/150 \ mL = 3,33 \ g/L$
 $n = \frac{3,33}{219,23} = 0,0304 \ mol$
 $c = 0,0304 \ M$  
 $K_a = \frac{x \cdot x}{c - x}$  
-$\frac{C_A}{K_a} = \frac{0,0304}{3,79 \cdot 10^{-5}} = 780$ Dus x mag verwaarloosd worden.  
+$\frac{C_A}{K_a} = \frac{0,0304}{3,79 \cdot 10^{-5}} = 780$  
+Dus x mag verwaarloosd worden.  
 $x^2 = 3,79 \cdot 10^{-5} \cdot 0,0304 = 1,19 \cdot10^{-6}$  
 $x = \sqrt{1,19 \cdot10^{-6}} = 1,09 \cdot 10^{-3} \ M$  
 $pH = -\log{1,09 \cdot 10^{-3}} = 3,0$  
