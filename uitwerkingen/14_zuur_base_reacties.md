@@ -75,11 +75,23 @@ $m_{tablet} = \frac{100}{22,25} = 4,49 \ g$
 $CaO + H_2O → Ca(OH)_2$  
 $n = \frac{0,28}{74,09} = 0,0038 \ mol$  
 $c = \frac{0,0038}{1} = 0,0038 \ M$
-$pOH = -\log{0,0038} = 2,42$
+$pOH = -\log{0,0038} = 2,42$  
 $pH = 14-2,42 = 11,6$  
 
 
 ### Opgave 16
+
+1. nee, citroenzuur is zuur, keukenzout is geen base.  
+2. nee, ammonia is base, soda ook.  
+3. natronloog en citroensap: ja.
+$3OH^- + C_6H_8O_7 \rightleftarrows 3H_2O + C_6H_5O_7^{3-}$  
+Let op: citroenzuur is een 3-waardig zuur en zal 3 protonen afstaan.  
+4. tafelazijn en 0,1 M ammonia: ja.  
+$CH_3COOH + NH_3 \rightleftarrows CH_3COO^− + NH_4^+$  
+
+
+
+
 
 --- 
 
