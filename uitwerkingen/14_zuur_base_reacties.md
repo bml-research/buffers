@@ -142,7 +142,7 @@ HA/Ka > 100
 Dus x verwaarlozen:  
 $x^2 = 1,8 \cdot 10^{-5} \cdot 1 = 1,8 \cdot 10^{-5}$  
 $x = \sqrt{1,8 \cdot 10^{-5}} = 0,0042 \ M$  
-Dus:
+Dus:  
 $c_{H_3O^+} = 0,0042 \ M$  
 $c_{CH_3COO^-} = 0,0042 \ M$  
 $c_{CH_3COOH} = 1 - 0,0042 = 0,9958 \ M$  
@@ -158,7 +158,7 @@ HA/Ka > 100
 Dus x verwaarlozen:  
 $x^2 = 1,8 \cdot 10^{-5} \cdot 0,1 = 1,8 \cdot 10^{-6}$  
 $x = \sqrt{1,8 \cdot 10^{-6}} = 1,34 \cdot 10^{-3} \ M$  
-Dus:
+Dus:  
 $c_{H_3O^+} = 1,34 \cdot 10^{-3} \ M$  
 $c_{CH_3COO^-} = 1,34 \cdot 10^{-3} \ M$  
 $c_{CH_3COOH} = 1 - 1,34 \cdot 10^{-3} = 0,9987 \ M$  
