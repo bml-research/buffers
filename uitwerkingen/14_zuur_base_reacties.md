@@ -81,6 +81,7 @@ $pH = 14-2,42 = 11,6$
 
 ### Opgave 16
 
+a.  
 1. nee, citroenzuur is zuur, keukenzout is geen base.  
 2. nee, ammonia is base, soda ook.  
 3. natronloog en citroensap: ja.
@@ -89,9 +90,30 @@ Let op: citroenzuur is een 3-waardig zuur en zal 3 protonen afstaan.
 4. tafelazijn en 0,1 M ammonia: ja.  
 $CH_3COOH + NH_3 \rightleftarrows CH_3COO^− + NH_4^+$  
 
+b.  
+Blauwzuurgas: $K_a = 4,9 \cdot 10^{–10}$  
+Ascorbinezuur: $pK_a = 4,2$ dus $K_a = 10^-4,2 = 6,3 \cdot 10^{-5}$  
+Morfine: $K_b = 1,6 \cdot 10^{-6}$ dus $pK_b = -\log{1,6 \cdot 10^{-6}} = 5,80$ dus $pK_a = 14 - 5,80 = 8,2$ dus $K_a = 10^{-8,2} = 6,25 \cdot 10^{-9}$  
+Monowaterstoffosfaation: pK_b = 6,79$ dus $pK_a = 14 - 6,79 = 7,21$ dus $K_a = 10^{-7,21} = 6,17 \cdot 10^{-8}$  
 
+Rangschikken op toenemende zuursterkte:  
 
+$K_a$	=	acid dissociation constant  
+Dus:  
 
+$K_a = \frac{[A^-] + [H^+]}{[HA]}$  
+
+Sterke zuren dissocieren (nagenoeg) volledig. Dus de noemer is heel klein en de teller heel hoog. De $K_a$ waarde neemt dus toe. Dus $K_a$ rangschikken van laag naar hoog:  
+
+|Stofnaam               |$K_a$                          |
+|:----------------------|:------------------------------|
+|Blauwzuurgas           |$K_a = 4,9 \cdot 10^{–10}$     | 
+|Morfine                |$K_a = 6,3 \cdot 10^{-9}$      |
+|Monowaterstoffosfaation|$K_a = 6,2 \cdot 10^{-8}$      | 
+|Ascorbinezuur          |$K_a = 6,3 \cdot 10^{-5}$      | 
+
+ 
+ 
 
 --- 
 
