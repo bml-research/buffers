@@ -101,7 +101,7 @@ Rangschikken op toenemende zuursterkte:
 $K_a$	=	acid dissociation constant  
 Dus:  
 
-$K_a = \frac{[A^-] + [H^+]}{[HA]}$  
+$K_a = \frac{[A^-][H^+]}{[HA]}$  
 
 Sterke zuren dissocieren (nagenoeg) volledig. Dus de noemer is heel klein en de teller heel hoog. De $K_a$ waarde neemt dus toe. Dus $K_a$ rangschikken van laag naar hoog:  
 
@@ -112,8 +112,59 @@ Sterke zuren dissocieren (nagenoeg) volledig. Dus de noemer is heel klein en de 
 |Monowaterstoffosfaation|$K_a = 6,2 \cdot 10^{-8}$      | 
 |Ascorbinezuur          |$K_a = 6,3 \cdot 10^{-5}$      | 
 
+
+### Opgave 17
+
+$HOCl + H_2O \rightleftarrows H_3O^+ + OCl^-$  
+$c = 0,10 M$  
+$pH = 4,23$  
+$[H_3O^+] = 10^{-4,23} = 5,89 \cdot 10^{-5}$  
+Ofwel:  
+$x = 5,89 \cdot 10^{-5}$  
+
+$K_a = \frac{[OCl^-][H_3O^+]}{[HOCl]}$   
+of:  
+$K_a = \frac{x \cdot x}{0,1 - x}$  
+$K_a = \frac{(5,89 \cdot 10^{-5})^2}{0,1 - 5,89 \cdot 10^{-5}} = 3,47 \cdot 10^{-8}$  
+
+>We zien dat HA/Ka > 100 dus deze werkwijze mag!
+
+### Opgave 18
+
+a. 1,00 M $CH_3COOH$  
  
- 
+$CH_3COOH + H_2O \rightleftarrows CH_3COO^- + H_3O^+$  
+$K_a = 1,8 \cdot 10^{-5}$
+
+$K_a = \frac{[CH_3COO^-][H_3O^+]}{[CH_3COOH]}$  
+$K_a = \frac{x \cdot x}{1 - x}$  
+HA/Ka > 100  
+Dus x verwaarlozen:  
+$x^2 = 1,8 \cdot 10^{-5} \cdot 1 = 1,8 \cdot 10^{-5}$  
+$x = \sqrt{1,8 \cdot 10^{-5}} = 0,0042 \ M$  
+Dus:
+$c_{H_3O^+} = 0,0042 \ M$  
+$c_{CH_3COO^-} = 0,0042 \ M$  
+$c_{CH_3COOH} = 1 - 0,0042 = 0,9958 \ M$  
+
+$pH = -\log{[H_3O^+]} = -\log{0,0042} = 2,4$  
+$pOH = 14-2,4= 11,6$  
+
+b. 0,01 M $CH_3COOH$ 
+
+$K_a = \frac{[CH_3COO^-][H_3O^+]}{[CH_3COOH]}$  
+$K_a = \frac{x \cdot x}{1 - x}$  
+HA/Ka > 100  
+Dus x verwaarlozen:  
+$x^2 = 1,8 \cdot 10^{-5} \cdot 0,1 = 1,8 \cdot 10^{-6}$  
+$x = \sqrt{1,8 \cdot 10^{-6}} = 1,34 \cdot 10^{-3} \ M$  
+Dus:
+$c_{H_3O^+} = 1,34 \cdot 10^{-3} \ M$  
+$c_{CH_3COO^-} = 1,34 \cdot 10^{-3} \ M$  
+$c_{CH_3COOH} = 1 - 1,34 \cdot 10^{-3} = 0,9987 \ M$  
+
+$pH = -\log{[H_3O^+]} = -\log{1,34 \cdot 10^{-3}} = 2,9$  
+$pOH = 14-2,9= 11,1$   
 
 --- 
 
