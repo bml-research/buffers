@@ -94,7 +94,7 @@ b.
 Blauwzuurgas: $K_a = 4,9 \cdot 10^{–10}$  
 Ascorbinezuur: $pK_a = 4,2$ dus $K_a = 10^-4,2 = 6,3 \cdot 10^{-5}$  
 Morfine: $K_b = 1,6 \cdot 10^{-6}$ dus $pK_b = -\log{1,6 \cdot 10^{-6}} = 5,80$ dus $pK_a = 14 - 5,80 = 8,2$ dus $K_a = 10^{-8,2} = 6,25 \cdot 10^{-9}$  
-Monowaterstoffosfaation: pK_b = 6,79$ dus $pK_a = 14 - 6,79 = 7,21$ dus $K_a = 10^{-7,21} = 6,17 \cdot 10^{-8}$  
+Monowaterstoffosfaation: $pK_b = 6,79$ dus $pK_a = 14 - 6,79 = 7,21$ dus $K_a = 10^{-7,21} = 6,17 \cdot 10^{-8}$  
 
 Rangschikken op toenemende zuursterkte:  
 
