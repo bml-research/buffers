@@ -106,29 +106,40 @@ $HCO_3^- + H_2O \rightleftarrows CO_3^{2-} + H_3O^+$
 e.
 $K_{a1} = \frac{[HCO_3^-][H_3O^+]}{[H_2CO_3]}$  
 
-$K_{a2} = \frac{[CO_3^{2-}][H_3O^+]}{[HCO_3^-]}
+$K_{a2} = \frac{[CO_3^{2-}][H_3O^+]}{[HCO_3^-]}$  
 
 f.  
 $K_{a2}$, want $HCO_3^-$ reageert als zuur in de tweede reactie van de zuren. En $K_{b2}$, want $HCO_3^-$ reageert als base in de tweede reactie van de basen.  
 
 ### Opgave 4
 
-4a. 	C2O42- + H2O			HC2O4- + OH-
-	HC2O4- + H2O			H2C2O4 + OH-
-4b. 	Kb1 = 	[HC2O4-][ OH-]
-		    [C2O42-]
-	Kb2 = 	[H2C2O4][ OH-]
-		    [HC2O4-]
-4c. 	C2O42-  (base) en HC2O4- (geconjugeerde zuur)
-	HC2O4-  (base) en H2C2O4 (geconjugeerde zuur)
-4d. 	H2C2O4 + H2O			HC2O4- + H3O+
-	HC2O4- + H2O			C2O42-   + H3O+
-4e. 	Ka1 = 	[HC2O4-][ H3O+]
-		       [H2C2O4]
-	Ka2 = 	[C2O42-][ H3O+]
-		       [HC2O4-]
-4f. 	Kb1, want C2O42- reageert in de eerste reactie van de basen als base. C2O42- heeft geen Ka, 	want het is geen zuur. 
+a.  
+$C_2O_4^{2-} + H_2O \rightleftarrows HC_2O_4^- + OH^-$  
 
+$HC_2O_4^- + H_2O \rightleftarrows H_2C_2O_4 + OH^-$  
+
+b.  
+$K_{b1} = \frac{[HC_2O_4^-][OH^-]}{[C_2O_4^{2-}]}$  
+
+$K_{b2} = \frac{[H_2C_2O_4][OH^-]}{[HC_2O_4^-]}$  
+
+c.  
+$C_2O_4^{2-}$  (base) en $HC_2O_4^-$ (geconjugeerde zuur).  
+$HC_2O_4^-$ (base) en $H_2C_2O_4$ (geconjugeerde zuur).  
+
+d.  
+$H_2C_2O_4 + H_2O \rightleftarrows HC_2O_4^- + H_3O^+$  
+
+$HC_2O_4^- + H_2O \rightleftarrows C_2O_4^{2-} + H_3O^+$  
+
+e.  
+$K_{a1} = \frac{[HC_2O_4^-][H_3O^+]}{[H_2C_2O_4]}$  
+
+$K_{a2} = \frac{[C_2O_4^{2-}][H_3O^+]}{[HC_2O_4^-]}$  
+
+f.  
+$K_{b1}$, want $C_2O_4^{2-}$ reageert in de eerste reactie van de basen als base.  
+$C_2O_4^{2-}$ heeft geen Ka, want het is geen zuur.  
 
 --- 
 
