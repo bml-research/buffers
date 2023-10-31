@@ -82,37 +82,36 @@ Dat betekent dat $H_2SO_4$ een sterk zuur (en $HSO_4^-$ is een zwak zuur).
 
 ### Opgave 3
 
----
+a.  
+$Na^+ + CO_3^{2-} + H_2O \rightleftarrows HCO_ 3^- + OH^- + Na^+$  
 
-In progress
+b.  
+Het natrium kun je wegstrepen uit de reactie. Het doet verder niets met de reactie (toeschouwer) en je kunt hem daarom wegstrepen. Dit maakt het opstellen van de evenwichtsvoorwaarde een stuk overzichtelijker:  
+$HCO_3^-+ H_2O \rightleftarrows H_2CO_3 + OH^-$  
 
+b.  
+$K_{b1} = \frac{[HCO_3^-][OH^-]}{[CO_3^{2-}]}$  
 
+$K_{b2} = \frac{[H_2CO_3][OH^-]}{[HCO_3^-]}$  
 
+c.  
+$CO_3^{2-}$  (base) en $HCO_3^-$ (geconjugeerde zuur)  
+$HCO_3^-$ (base) en $H_2CO_3$ (geconjugeerde zuur)  
 
+d.  
+$H_2CO_3 + H_2O \rightleftarrows HCO_3^- + H_3O^+$  
 
+$HCO_3^- + H_2O \rightleftarrows CO_3^{2-} + H_3O^+$  
 
+e.
+$K_{a1} = \frac{[HCO_3^-][H_3O^+]}{[H_2CO_3]}$  
 
+$K_{a2} = \frac{[CO_3^{2-}][H_3O^+]}{[HCO_3^-]}
 
+f.  
+$K_{a2}$, want $HCO_3^-$ reageert als zuur in de tweede reactie van de zuren. En $K_{b2}$, want $HCO_3^-$ reageert als base in de tweede reactie van de basen.  
 
-
-2f. 	
-
-3a. 	Na+ + CO32- + H2O			HCO3- + OH- + Na+
-	Het natrium kun je wegstrepen uit de reactie. Het doet verder niets met de reactie (= 	toeschouwer) en je kunt hem daarom wegstrepen. Dit maakt het opstellen van de 	evenwichtsvoorwaarde een stuk overzichtelijker
-	HCO3-+ H2O			H2CO3 + OH-
-3b. 	Kb1 = 	[HCO3-][ OH-]
-		    [CO32-]
-	Kb2 = 	[H2CO3][ OH-]
-		    [HCO3-]
-3c. 	CO32-  (base) en HCO3- (geconjugeerde zuur)
-	HCO3- (base) en H2CO3 (geconjugeerde zuur)
-3d. 	H2CO3 + H2O			HCO3- + H3O+
-	HCO3-+ H2O			CO32- + H3O+
-3e.	Ka1 = 	[HCO3-][ H3O+]
-		       [H2CO3]
-	Ka2 = 	[CO32-][ H3O+]
-		       [HCO3-]
-3f. 	Ka2, want HCO3- reageert als zuur in de tweede reactie van de zuren. En Kb2, want HCO3- 	reageert als base in de tweede reactie van de basen. 
+### Opgave 4
 
 4a. 	C2O42- + H2O			HC2O4- + OH-
 	HC2O4- + H2O			H2C2O4 + OH-
