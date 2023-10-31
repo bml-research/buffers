@@ -47,6 +47,40 @@ $K_{b3} = \frac{[C_6H_8O_7][OH^-]}{[C_6H_7O_7^-]}$
 f.  
 $K_{b2}$, want $C_6H_6O_7^{2-}$ reageert als base in de tweede reactie van de basen. En $K_{a3}$, want $C_6H_6O_7^{2-}$ reageert als zuur in de derde reactie van de zuren.
 
+### Opgave 2
+
+a.  
+$H_2SO_4 + H_2O \rightleftarrows HSO_4^- + H_3O^+$  
+$HSO_4^- + H_2O \rightleftarrows SO_4^{2-} + H_3O^+$  
+
+b.  
+$K_{a1} = \frac{[HSO_4^-][H_3O^+]}{[H_2SO_4]}$  
+
+$K_{a2} = \frac{[SO_4^{2-}][H_3O^+]}{[HSO_4^-]}$  
+
+c.  
+$H_2SO_4$ (zuur) en $HSO_4^-$ (geconjugeerde base)  
+
+$HSO_4^-$ (zuur) en $SO_4^{2-}$ (geconjugeerde base)  
+
+d.  
+$SO_4^{2-} + H_2O \rightleftarrows HSO_4^- + OH^-$  
+
+$HSO_4^- + H_2O \rightleftarrows H_2SO_4 + OH^-$  
+
+e.  
+$K_{b1} = \frac{[HSO_4^-][OH^-]}{[SO_4^{2-}]}$  
+
+$K_{b2} = \frac{[H_2SO_4][OH^-]}{[HSO_4^-]}$  
+
+
+f.  
+$K_{a2}$, want $HSO_4^-$ reageert als zuur in de tweede reactie van de zuren. En $K_{b2}$, want $HSO_4^-$ reageert als base in de tweede reactie van de basen.  
+
+g.  
+Dat betekent dat $H_2SO_4$ een sterk zuur (en $HSO_4^-$ is een zwak zuur).  
+
+### Opgave 3
 
 ---
 
@@ -55,22 +89,13 @@ In progress
 
 
 
-2a. 	H2SO4 + H2O			HSO4- + H3O+
-	HSO4- + H2O			SO42- + H3O+
-2b. 	Ka1 = 	[HSO4-][ H3O+] 
-		       [H2SO4]
-	Ka2 = 	[SO42-][ H3O+]
-		       [HSO4-]
-2c. 	H2SO4 (zuur) en HSO4- (geconjugeerde base)
-	HSO4- (zuur) en SO42- (geconjugeerde base)
-2d. 	SO42-+ H2O			HSO4- + OH-
-	HSO4- + H2O			H2SO4 + OH-
-2e.	Kb1 = 	[HSO4-][ OH-]
-		    [SO42-]
-	Kb2 = 	[H2SO4][ OH-]
-		    [HSO4-]
-2f. 	Ka2, want HSO4- reageert als zuur in de tweede reactie van de zuren. En Kb2, want HSO4- 	reageert als base in de tweede reactie van de basen. 
-2g.	Dat betekent dat H2SO4 een sterk zuur (en HSO4- is een zwak zuur)
+
+
+
+
+
+
+2f. 	
 
 3a. 	Na+ + CO32- + H2O			HCO3- + OH- + Na+
 	Het natrium kun je wegstrepen uit de reactie. Het doet verder niets met de reactie (= 	toeschouwer) en je kunt hem daarom wegstrepen. Dit maakt het opstellen van de 	evenwichtsvoorwaarde een stuk overzichtelijker
