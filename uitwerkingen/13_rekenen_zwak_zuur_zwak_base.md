@@ -15,7 +15,9 @@ $c_{azijnzuur} = 1 \ M$
 Reactie:
 $CH_3COOH + H_2O \rightleftarrows CH_3COO^- + H_3O^+$
 
-$K_a = \frac{[CH_3COO^-][H3O^+]}{[CH3COOH]}$ (let op: foutje in de reader)  
+$K_a = \frac{[CH_3COO^-][H3O^+]}{[CH3COOH]}$ 
+
+>(let op: foutje in de reader)  
 
 of:  
 
