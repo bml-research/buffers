@@ -32,6 +32,7 @@ $K_a = 3,79 \cdot 10^{-5}$
 $m = 500 mg$  
 $c = 500 \ mg/150 \ mL = 3,33 \ g/L$  
 $n = \frac{3,33}{219,23} = 0,0304 \ mol$  
+>Let op: 0,0152 mol  
 $c = 0,0304 \ M$  
 $K_a = \frac{x \cdot x}{c - x}$  
 $\frac{C_A}{K_a} = \frac{0,0304}{3,79 \cdot 10^{-5}} = 780$  
