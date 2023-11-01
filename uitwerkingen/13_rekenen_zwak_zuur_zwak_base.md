@@ -186,15 +186,3 @@ $V_{dodelijk} = \frac{m_{dodelijk}}{c} = \frac{0,123}{10} = 0,0123 \ L = 12,3 \ 
 
 [Terug naar de hoofdpagina ](../index.md)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>

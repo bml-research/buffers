@@ -34,16 +34,3 @@ $k_{eq}= \frac{[CH_3COO^-]^3\cdot[H^+]}{[C_6H_{12}O_6]}$
 --- 
 
 [Terug naar de hoofdpagina ](../index.md)
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
