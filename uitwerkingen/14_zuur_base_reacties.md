@@ -26,7 +26,7 @@ $C_{13}H_{18}O_2 + C_8H_9NO_2  \rightleftarrows C_{13}H_{17}O_2^- + C_8H_{10}NO_
 ## Opgave Pantotheenzuur 
 
 a.  
-$C_9H_{17}NO_5 + H_2O \rightleftarrows C_9H_{16}NO_5 + H_3O^+$
+$C_9H_{17}NO_5 + H_2O \rightleftarrows C_9H_{16}NO_5 + H_3O^+$  
 $K_a = \frac{[C_9H_{16}NO_5]][H_3O^+]}{[C_9H_{17}NO_5]}$  
 $K_a = 3,79 \cdot 10^{-5}$  
 $m = 500 mg$  
