@@ -139,6 +139,7 @@ $NH_3 + H_2O \rightleftarrows NH_4^+ + OH^-$
 $K_b = \frac{[OH^-][NH_4^+]}{[NH_3]}$  
 b.  
 $c = 4 \ g/ 500 \ mL = 2\ g/L$  
+>Let op: 8 g/L  
 $n = \frac{2}{17,031} = 0,117 \ mol$  
 $c = 0,117 \ M$  
 $K_b = 1,8\cdot10{-5}$  
