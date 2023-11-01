@@ -134,20 +134,15 @@ a.
 $NH_3 + H_2O \rightleftarrows NH_4^+ + OH^-$  
 $K_b = \frac{[OH^-][NH_4^+]}{[NH_3]}$  
 b.  
-$c = 4 \ g/ 500 \ mL = 2\ g/L$  
->Let op: 8 g/L  
-$n = \frac{2}{17,031} = 0,117 \ mol$  
-$c = 0,117 \ M$  
-$K_b = 1,8\cdot10{-5}$  
-$x^2 = 1,8 \cdot10^{-5} \cdot 0,117 = 2,11 \cdot10^{-6}$  
-$x = \sqrt{2,11 \cdot10^{-6}} = 1,45 \cdot 10^{-3} \ M$  
-$pOH = -\log{1,45 \cdot 10^{-3}} = 2,84$  
-$pH = 14-2,84 = 11,2$  
+$c = 4 \ g/ 500 \ mL = 8\ g/L$  
 
->Let op: antwoordmodel wijkt af:
-[OH-] = 2,9 10-3 M
-pOH = 2,5
-pH = 11,5
+$n = \frac{8}{17,031} = 0,470 \ mol$  
+$c = 0,470 \ M$  
+$K_b = 1,8\cdot10{-5}$  
+$x^2 = 1,8 \cdot10^{-5} \cdot 0,470 = 8,46 \cdot10^{-6}$  
+$x = \sqrt{8,46 \cdot10^{-6}} = 2,91 \cdot 10^{-3} \ M$  
+$pOH = -\log{2,91 \cdot 10^{-3}} = 2,53$  
+$pH = 14-2,53 = 11,5$  
 
 
 ### Opgave 7
