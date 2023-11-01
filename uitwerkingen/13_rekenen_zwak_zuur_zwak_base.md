@@ -17,7 +17,7 @@ $CH_3COOH + H_2O \rightleftarrows CH_3COO^- + H_3O^+$
 
 $K_a = \frac{[CH_3COO^-][H3O^+]}{[CH3COOH]}$ 
 
->(let op: foutje in de reader)  
+>(let op: foutje in de reader, zuur en base omgekeerd)  
 
 of:  
 
@@ -69,18 +69,14 @@ d. -
 e. x mag verwaarloosd worden want $\frac{C_{HA}}{Ka} > 100$  
 f. $Ka = \frac{x2}{5,55\cdot10^{-2}}$  
 g.  
-$x^2 = 5,8\cdot10^{-5} \cdot 5,55\cdot10^{-2} = 3,22 \cdot 10^{-6}$  
-$x = \sqrt{3,22 \cdot 10^{-6}} = 1,79 \cdot 10^{-3}\ M$
+$x^2 = 3,3\cdot10^{-4} \cdot 5,55\cdot10^{-2} = 1,83 \cdot 10^{-5}$  
+$x = \sqrt{1,83 \cdot 10^{-5}} = 4,28 \cdot 10^{-3}\ M$
 
 
-2h. $1,79 \cdot 10^{-3}\ M$.  
->Let op: in antwoorden: $4,3\cdot10^{-3} \ M H_3O^+$
->Ka is 3,3 10-4.
+2h. $4,28 \cdot 10^{-3}\ M$.  
 
-2i. $pH = -\log{1,79 \cdot 10^{-3}} = 2,75$  
+2i. $pH = -\log{4,28 \cdot 10^{-3}} = 2,4$  
 
->Let op: in antwoorden: $2,4$  
-> zie boven
 
 ### Opgave 3
 
