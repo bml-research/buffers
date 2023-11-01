@@ -75,10 +75,12 @@ $x = \sqrt{3,22 \cdot 10^{-6}} = 1,79 \cdot 10^{-3}\ M$
 
 2h. $1,79 \cdot 10^{-3}\ M$.  
 >Let op: in antwoorden: $4,3\cdot10^{-3} \ M H_3O^+$
+>Ka is 3,3 10-4.
 
 2i. $pH = -\log{1,79 \cdot 10^{-3}} = 2,75$  
 
 >Let op: in antwoorden: $2,4$  
+> zie boven
 
 ### Opgave 3
 
