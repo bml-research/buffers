@@ -30,8 +30,8 @@ $C_9H_{17}NO_5 + H_2O \rightleftarrows C_9H_{16}NO_5 + H_3O^+$
 $K_a = \frac{[C_9H_{16}NO_5]][H_3O^+]}{[C_9H_{17}NO_5]}$  
 $K_a = 3,79 \cdot 10^{-5}$  
 $m = 500 mg$  
-$c = 500 \ mg/150 \ mL = 3,33 \ g/L$
-$n = \frac{3,33}{219,23} = 0,0304 \ mol$
+$c = 500 \ mg/150 \ mL = 3,33 \ g/L$  
+$n = \frac{3,33}{219,23} = 0,0304 \ mol$  
 $c = 0,0304 \ M$  
 $K_a = \frac{x \cdot x}{c - x}$  
 $\frac{C_A}{K_a} = \frac{0,0304}{3,79 \cdot 10^{-5}} = 780$  
