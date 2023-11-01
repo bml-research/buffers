@@ -167,6 +167,10 @@ $c_{CH_3COOH} = 1 - 1,34 \cdot 10^{-3} = 0,9987 \ M$
 $pH = -\log{[H_3O^+]} = -\log{1,34 \cdot 10^{-3}} = 2,9$  
 $pOH = 14-2,9= 11,1$   
 
+
+
+
+
 --- 
 
 [Terug naar de hoofdpagina ](../index.md)
