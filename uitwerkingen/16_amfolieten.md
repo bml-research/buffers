@@ -46,16 +46,32 @@ Als base, dit amfoliet is een sterkere base dan een zuur want de $K_b$ is groter
 
 ### Opgave 2
 
+a.  
+$H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
 
-2a. 	H2PO4- + H2O 			HPO42- + H3O+	
-	H2PO4- + H2O 			H3PO4 + OH-	
-2b. 	Ka = 	[HPO42-][H3O+]
- 		    [H2PO4-]
-	Kb = 	[H3PO4][OH-]	
-		    [H2PO4-]
-2c. 	Ka = 6,2 10-8
-	Kb = 1,3 10-12
-2d. 	Als zuur, want de Ka is groter dan de Kb.
+$H_2PO_4^- + H_2O \rightleftarrows H_3PO_4 + OH^-$  
+
+b.  
+
+$K_a = \frac{[HPO_4^{2-}][H_3O^+]}{[H_2PO_4^-]}$  
+
+$K_b = 	\frac{[H_3PO_4][OH^-]}{[H_2PO_4^-]}$  
+
+c.
+$K_a = 6,2 \cdot 10^{-8}$  
+Dit is de $pK_{a2}$ van $H_3PO_4$  
+want:  
+$H_3PO_4 + H_2O \rightleftarrows H_2PO_4^- + H_3O^+$ (1)  
+$H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$ (2)  
+Dus de tweede reactie.  
+
+De $K_b$ kun je omrekenen uit de $K_{a1}$ van $H_3PO_4$ ($7,5 \cdot 10^{-3}$).  
+$pK_a = -\log{7,5 \cdot 10^{-3}} = 2,12$  
+$pK_b = 14 - 2,12 = 11,88$  
+$K_b = 10^{-11,88} = 1,3 \cdot 10^{-12}$  
+
+d. 
+Als zuur, dit amfoliet is een sterker zuur dan base want de $K_a$ is groter dan de $K_b$.  
 
 3. 	Ka = 1,7 10-5; Kb = 1,4 10-11. Als zuur. 
 
