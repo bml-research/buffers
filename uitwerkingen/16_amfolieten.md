@@ -73,7 +73,18 @@ $K_b = 10^{-11,88} = 1,3 \cdot 10^{-12}$
 d. 
 Als zuur, dit amfoliet is een sterker zuur dan base want de $K_a$ is groter dan de $K_b$.  
 
-3. 	Ka = 1,7 10-5; Kb = 1,4 10-11. Als zuur. 
+### Opgave 3
+
+$C_6H_8O_6 + H_2O \rightleftarrows C_6H_7O_7^- + H_3O^+$ (1)  
+$C_6H_7O_7^- + H_2O \rightleftarrows C_6H_6O_7^{2-} + H_3O^+$ (2)  
+$C_6H_6O_7^{2-} + H_2O \rightleftarrows C_6H_5O_7^{3-} + H_3O^+$ (3)  
+
+$K_a = 1,7 \cdot 10^{-5}$  
+De $K_b$ kun je omrekenen uit de $K_{a1}$ van $C_6H_8O_6$ ($7,1 \cdot 10^{-4}$).  
+$pK_a = -\log{7,1 \cdot 10^{-4}} = 3,15$  
+$pK_b = 14 - 3,15 = 10,85$  
+$K_b = 10^{-10,85} = 1,4 \cdot 10^{-11}$  
+Dit amfoliet is een sterker zuur dan base want de $K_a$ is groter dan de $K_b$.  
 
 
 --- 
