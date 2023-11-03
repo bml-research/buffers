@@ -34,6 +34,7 @@
 - [Zuur-base reacties](./uitwerkingen/14_zuur_base_reacties.md)
 - [Meerwaardige zuren](./uitwerkingen/15_meerwaardige_zuren.md)
 - [Amfolieten](./uitwerkingen/16_amfolieten.md)
+- [Werkcollege opgaven](./uitwerkingen/17_werkcollege_opgaven.md)
 
 
 
