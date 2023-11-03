@@ -11,7 +11,6 @@
 
 ### Opgave 19
 
-
 a.  
 $H_3O^+ + OH^- \rightarrow H_2O$  
 b.  
@@ -41,7 +40,20 @@ $c = \frac{n}{V} = \frac{0,001}{0,07} = 0,014 \ M$
 $pOH = -\log{0,014} = 1,85$  
 $pH = 14 - 1,85 = 12,2$  
 
+### Opgave 20
 
+$C_{21}H_{22}N_2O_2 + H_2O \rightleftarrows C_{21}H_{23}N_2O_2^+ + OH^-$  
+$c = 16 \ mg/100 \ mL = 0,160 \ g/L$  
+$M_w = 334,41 \ g/mol$  
+$n = \frac{0,160}{334,41} = 4,78 \cdot 10^{-4} \ mol$  
+$c = 4,78 \cdot 10^{-4} \ mol/L$  
+$K_b = 1,8 \cdot 10^{-6}$  
+$K_b = \frac{x \cdot x}{4,78 \cdot 10^{-4} -x}$  
+x mag verwaarloosd worden want $\frac{4,78 \cdot 10^{-4}}{1,8 \cdot 10^{-6}} > 100$  
+$x^2 = 1,8 \cdot 10^{-6} \cdot 4,78 \cdot 10^{-4} = 8,60 \cdot 10^{-10}$  
+$x = \sqrt{8,60 \cdot 10^{-10}} = 2,93 \cdot 10^{-5}$  
+$pOH = -\log{2,93 \cdot 10^{-5}} = 4,53$  
+$pH = 14 - 4,53 = 9,47$  
 
 --- 
 
