@@ -9,15 +9,46 @@
 
 ## De Henderson Hasselbalch-vergelijking
 
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
+
 ### Opgave 1
 
+a.  
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
+$8 = 4,7 + \log{\frac{[CH_3COO^-]}{[CH_3COOH]}}$  
+
+$\log{\frac{[CH_3COO^-]}{[CH_3COOH]}} = 8 - 4,7 = 3,3$
+
+$\frac{[CH_3COO^-]}{[CH_3COOH]} = 10^{3,3} = 1995,26$
+
+of:
+
+$\frac{[CH_3COO^-]}{[CH_3COOH]} = \frac{1995,26}{1}$  
+
+dus: 
+
+$CH_3COO^-:CH_3COOH$
+$1995,26:1$ (1996,26 delen)  
+
+Dus:  
+
+$\%_{base} = \frac{1995,26}{1995,26:1 + 1} \cdot 100 = 99,95\%$
 
 
-1a.  [CH3COO-]   = 1,8 103
-      [CH3COOH]	         1
-	oftewel:	[CH3COO-]   	:	[CH3COOH]
-			   1,8 103	:	          1
-1b. percentage CH3COO- = 99,9 %
+
+$\%_{zuur} = 100 - 99,95 = 0,05\%$
+
+>Let op: in antwoorden: $1,8 \cdot 10^3$ en 99,9%  
+
+
+---
+
+
+
+
+
 
 2a.  [CH3COO-]   =             1       .
        [CH3COOH]		1	
