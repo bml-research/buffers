@@ -35,6 +35,8 @@
 - [Meerwaardige zuren](./uitwerkingen/15_meerwaardige_zuren.md)
 - [Amfolieten](./uitwerkingen/16_amfolieten.md)
 - [Werkcollege opgaven](./uitwerkingen/17_werkcollege_opgaven.md)
+- [De Henderson Hasselbalch-vergelijking](./uitwerkingen/18_henderson_hasselbach.md)
+- [Buffers](./uitwerkingen/19_buffers.md)
 
 
 

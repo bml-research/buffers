@@ -55,6 +55,11 @@ $x = \sqrt{8,60 \cdot 10^{-10}} = 2,93 \cdot 10^{-5}$
 $pOH = -\log{2,93 \cdot 10^{-5}} = 4,53$  
 $pH = 14 - 4,53 = 9,47$  
 
+### Opgave 21
+
+
+
+
 --- 
 
 [Terug naar de hoofdpagina ](../index.md)
