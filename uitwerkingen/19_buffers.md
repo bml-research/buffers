@@ -142,10 +142,13 @@ $c_{A^-} = 31\% \cdot 0,1 = 0,031 \ mol$
 
 Na de toevoeging NaOH:  
 $[A^-] = 0,031 + 0,15 = 0,181 \ mol$  
-$[HA] = 0,069 - 0,15 = 0,54 \ M$  
+$[HA] = 0,069 - 0,15 = ??? \ M$  
+>Opgave klopt niet! 
+Komt negatief getal uit.
+
 Nu kunnen we vanuit deze verhoudingen de nieuwe pH berekenen:  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
-$pH = 3,15 + \log{\frac{0,46}{0,54}}$  
+  
 
 pH = 5,4  
 
