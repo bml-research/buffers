@@ -106,20 +106,38 @@ $1:2512$
 e.  
 In mol. Het gaat immers om het aantal moleculen.Wanneer je deze stoffen af moet wegen, zul je nog wel om moeten rekenen naar gram.  
 
+### Opgave 3
 
+a.  
+$m_{Na_2HPO_4} = 2 \ g$  
+$n_{Na_2HPO_4} = \frac{2}{141,96} = 0,0141 \ mol$  
+$c_{Na_2HPO_4} = \frac{0,0141}{0,5} = 0.0282 \ M = 28 \ mM$  
+$m_{KH_2PO_4} = 3 \ g$  
+$n_{KH_2PO_4} = \frac{3}{136,086} = 0,0220 \ mol$  
+$c_{KH_2PO_4} = \frac{0,0141}{0,5} = 0.0441 \ = 44 \ mM$  
+
+b.  
+$H_2PO_4^-$ (zuur) en $HPO_4^{2-}$ (base).  
+
+c.  
+$H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
+
+$K_a = \frac{[HPO_4^{2-}][H_3O^+]}{[H_2PO_4^-]}$
+
+d.  
+$K_a = 6,2 \cdot 10^{-8}$  
+$pKa = -\log{6,2 \cdot 10^{-8}} = 7,2$  
+
+e.  
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+$pH = 7,2 + \log{\frac{28}{44}} = 7,0$  
 
 ---
 
 
 
 
-3a. 28 mM HPO42- en 44 mM H2PO4-
-3b. H2PO4- (zuur) en HPO42- (base)
-3c. H2PO4- + H2O 			HPO42- + H3O+	
-	Ka = 	[HPO42-][H3O+]
- 		    [H2PO4-]
-3d. Ka = 6,2 10-8, pKa = 7,2
-3e. pH = 7,0
+
 
 4a. C8H16O2 + H2O		C8H16O2- + H3O+
 	Ka = 	[C8H16O2-][H3O+]
