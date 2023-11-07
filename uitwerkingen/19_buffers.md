@@ -54,9 +54,16 @@ $pK_a3 = -\log{4,8 \cdot 10^{-13}} = 12,3$
 
 ### Opgave 4
 
-Het belangrijkste zuur-base paar voor de buffering bij pH = 10,40 is HCO3- (zuur) en CO32- (base). 
-	      [CO32-]	:	[HCO3-]
-	   1,41 mol	:	 1 mol
+Het belangrijkste zuur-base paar voor de buffering bij pH = 10,40 is $HCO_3^-$ (zuur) en $CO_3^{2-}$ (base).  
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+$pK_a = -\log{5,6 \cdot 10^{-11}} = 10,25$
+$10,40 = 10,25 + \log{\frac{[A^-]}{[HA]}}$  
+$\log{\frac{[A^-]}{[HA]}} = 10,40 - 10,25 = 0,15$  
+$\frac{[A^-]}{[HA]} = 10^{0,15} = 1,41$  
+Dus:  
+$[CO_3^{2-}]:[HCO^{3-}] = 1,41:1$  
+
+### Opgave 5
 
 5a. Omdat het bloed gebufferd is. Bovendien wordt het CO2 ook weer afgevoerd via de longen. 
 5b. pH wordt 2,8. Dat betekent een pH-sprong van -4,6. 
