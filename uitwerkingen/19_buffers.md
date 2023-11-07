@@ -110,7 +110,7 @@ De $pK_a$ van 6,4 is zuur.
 Dicht bij de $pK_a$ is de buffercapaciteit het hoogste.  
 
 g.  
-$V_{citroenzuur} = 0,1 \ L$  
+$V = 0,1 \ L$  
 $c_{citroenzuur} = 1 \ M$  
 $n_{citroenzuur} = 1 \cdot 0,1 = 0,1 \ mol$  
 $pH = 2,8$  
@@ -123,9 +123,29 @@ $n_{NaOH} = 10 \cdot 0,015 = 0,15 \ mol$
 De reactie:  
 $C_6H_8O_7 + H_2O \rightleftarrows C_6H_7O_7^- + H_3O^+$  
 $H_3O^+ + OH^- \rightarrow H_2O$  
-De natronloog "trekt" dus als het ware de eerste reactie naar rechts toe.  
+De natronloog titreert het zure component naar het basische.  
+Dus:  
+$C_6H_7O_7^-$ wordt dus meer.  
+$C_6H_8O_7$ wordt dus minder.  
+
+Voor de toevoeging:  
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+$2,8 = 3,15 + \log{\frac{[A^-]}{[HA]}}$  
+$\log{\frac{[A^-]}{[HA]}} = 2,8 - 3,15 = -0,38$  
+$\frac{[A^-]}{[HA]} = 10^{-0,38} = 0,447$  
+$\frac{[A^-]}{[HA]} = \frac{0,447}{1}$  
+$[HA] = \frac{1}{0,447 + 1} * 100\% = 69\%$  
+dus:
+$c_{HA} = 69\% \cdot 0,1 = 0,069 \ mol$  
+$c_{A^-} = 31\% \cdot 0,1 = 0,031 \ mol$  
 
 
+Na de toevoeging NaOH:  
+$[A^-] = 0,031 + 0,15 = 0,181 \ mol$  
+$[HA] = 0,069 - 0,15 = 0,54 \ M$  
+Nu kunnen we vanuit deze verhoudingen de nieuwe pH berekenen:  
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+$pH = 3,15 + \log{\frac{0,46}{0,54}}$  
 
 pH = 5,4  
 
