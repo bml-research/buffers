@@ -112,7 +112,7 @@ Dicht bij de $pK_a$ is de buffercapaciteit het hoogste.
 g.  
 
 Je hebt een buffer van 1 deciliter 1,0 M citroenzuur bij pH = 2,8.  
-Hieraan voeg je 1 ml 10 M NaOH toe. Wat zal de pH van de oplossing worden?  
+Hieraan voeg je 1,5 ml 10 M NaOH toe. Wat zal de pH van de oplossing worden?  
 
 $V_{citroenzuur} = 0,1 \ L$  
 $c_{citroenzuur} = 1 \ M$  
