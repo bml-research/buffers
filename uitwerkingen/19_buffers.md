@@ -120,6 +120,13 @@ $V_{NaOH} = 0,015 \ L$
 $c_{NaOH} = 10 \ M$  
 $n_{NaOH} = 10 \cdot 0,015 = 0,15 \ mol$  
 
+De reactie:  
+$C_6H_8O_7 + H_2O \rightleftarrows C_6H_7O_7^- + H_3O^+$  
+$H_3O^+ + OH^- \rightarrow H_2O$  
+De natronloog "trekt" dus als het ware de eerste reactie naar rechts toe.  
+
+
+
 pH = 5,4  
 
 
