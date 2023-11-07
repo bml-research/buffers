@@ -16,7 +16,7 @@ a. Oplossingen 1 en 3
 b. Oplossing 3 (grotere buffercapaciteit)  
 
 ### Opgave 2
-Bijvoorbeeld azijnzuur ($Ka = 1,8 \cdot 10^{-5}$) of citroenzuur ($K_{a2} = 1,7 \cdot 10^{-5}$). Alle zuren met een $K_a$ in de buurt van 1,0 \cdot 10^{-5} zijn in principe geschikt, maar het liefst niet te duur en niet te giftig.  
+Bijvoorbeeld azijnzuur ($Ka = 1,8 \cdot 10^{-5}$) of citroenzuur ($K_{a2} = 1,7 \cdot 10^{-5}$). Alle zuren met een $K_a$ in de buurt van $1,0 \cdot 10^{-5}$ zijn in principe geschikt, maar het liefst niet te duur en niet te giftig.  
 
 ### Opgave 3
 
