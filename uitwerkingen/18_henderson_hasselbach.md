@@ -132,6 +132,28 @@ e.
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
 $pH = 7,2 + \log{\frac{28}{44}} = 7,0$  
 
+
+### Opgave 4
+
+a.  
+$C_8H_{16}O_2 + H_2O \rightleftarrows C_8H_{16}O_2^- + H_3O^+$  
+$K_a = \frac{[C_8H_{16}O_2^-][H_3O^+]}{[C_8H_{16}O_2]}$  
+
+b.  
+$m = 500 \ mg = 0,5 \ g$  
+$n = \frac{0,5}{144,21} = 0,00347 \ mol$  
+$c = \frac{0,00346}{0,1} = 0,0347 \ M = 3,47 \cdot 10^{-2} \ M$  
+$K_a = \frac{x \cdot x}{0,0347 -x}$  
+$\frac{c}{K_a} = \frac{0,0347}{1,58 \cdot 10^{-5}} =2196 $  
+Groter dan 100 dus x verwaarlozen.  
+$1,58 \cdot 10^{-5} = \frac{x \cdot x}{0,0347}$
+$x^2 = 1,58 \cdot 10^{-5} \cdot 0,0347 = 5,483 \cdot 10^{-7}$  
+$x = \sqrt{5,483 \cdot 10^{-7}} = 7,40 \cdot 10^{-4}$  
+$pH = -\log{7,40 \cdot 10^{-4}} = 3,13$  
+
+c.  
+
+
 ---
 
 
@@ -139,10 +161,7 @@ $pH = 7,2 + \log{\frac{28}{44}} = 7,0$
 
 
 
-4a. C8H16O2 + H2O		C8H16O2- + H3O+
-	Ka = 	[C8H16O2-][H3O+]
- 		    [C8H16O2]
-4b.molariteit valproïnezuur = 3,46 10-2M, pH = 3,13
+
 4c. 0,063 % C8H16O2
 
 
