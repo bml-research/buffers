@@ -52,8 +52,7 @@ $\frac{[CH_3COO^-]}{[CH_3COOH]} = \frac{1}{1}$
 
 dus: 
 
-$CH_3COO^-:CH_3COOH$
-$1:1$  
+$CH_3COO^-:CH_3COOH = 1:1$  
 
 b.  
 $pH = 3,7$  
@@ -68,8 +67,8 @@ $\frac{[CH_3COO^-]}{[CH_3COOH]} = \frac{0,1}{1}$
 
 dus: 
 
-$CH_3COO^-:CH_3COOH$
-$1:10$  
+$CH_3COO^-:CH_3COOH= 1:10$
+
 
 c.  
 $pH = 7,4$  
@@ -84,8 +83,7 @@ $\frac{[CH_3COO^-]}{[CH_3COOH]} = \frac{501}{1}$
 
 dus: 
 
-$CH_3COO^-:CH_3COOH$
-$501:1$  
+$CH_3COO^-:CH_3COOH = 501:1$  
 
 d.  
 $pH = 1,3$  
@@ -100,8 +98,8 @@ $\frac{[CH_3COO^-]}{[CH_3COOH]} = \frac{3,98 \cdot 10^{-4}}{1}$
 
 dus: 
 
-$CH_3COO^-:CH_3COOH$  
-$1:2512$  
+$CH_3COO^-:CH_3COOH = 1:2512$  
+
 
 e.  
 In mol. Het gaat immers om het aantal moleculen.Wanneer je deze stoffen af moet wegen, zul je nog wel om moeten rekenen naar gram.  

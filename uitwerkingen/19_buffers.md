@@ -12,22 +12,49 @@
 ### Opgave 1
 
 
-1a. oplossingen 1 en 3
-1b. oplossing 3 (grotere buffercapaciteit)
+a. Oplossingen 1 en 3  
+b. Oplossing 3 (grotere buffercapaciteit)  
 
-2. bijvoorbeeld azijnzuur (Ka = 1,8 10-5) of citroenzuur (Ka2 = 1,7 10-5). Alle zuren met een Ka in de buurt van 1,0 10-5 zijn in principe geschikt, maar het liefst niet te duur en niet te giftig. 
+### Opgave 2
+Bijvoorbeeld azijnzuur ($Ka = 1,8 \cdot 10^{-5}$) of citroenzuur ($K_{a2} = 1,7 \cdot 10^{-5}$). Alle zuren met een $K_a$ in de buurt van 1,0 \cdot 10^{-5} zijn in principe geschikt, maar het liefst niet te duur en niet te giftig.  
 
-3a. 	H3PO4  + H2O				H2PO4- + H3O+	
- 		H2PO4- + H2O 				HPO42- + H3O+ 	
-		HPO42- + H2O 				PO4-3 + H3O+	
-3b. pKa = 7,2; Kb = 1,4 10-12
-3c. als zuur
-3d. H2PO42- (zuur) en HPO42- (base)
-3e. 	[HPO42-]: [HPO42-]
-	    1,6	:       1
-3f. bij pH =2,1 en pH = 12,3
+### Opgave 3
+^
+a.  
+$H_3PO_4  + H_2O \rightleftarrows H_2PO_4^- + H_3O^+$  
+$H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
+$HPO_4^{2-} + H_2O \rightleftarrows PO_4^{-3} + H_3O+$  
 
-4. Het belangrijkste zuur-base paar voor de buffering bij pH = 10,40 is HCO3- (zuur) en CO32- (base). 
+b.  
+$pK_a2 = -\log{6,2 \cdot 10^{-8}} = 7,2$  
+$pK_a1 = -\log{7,3 \cdot^{-3}} = 2,14$
+$pK_b = 14 - 2,14 = 11,86$  
+$K_b = 10^{-11,86} = 1,4 10^{-12}$  
+
+c.  
+Als zuur want de $K_{a2}$ is hoger dan de $K_b$ waarde.  
+
+d.  
+$H_2PO_4^{2-}$ (zuur) en $HPO_4^{2-}$ (base)  
+
+e.  
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+$7,4 = 7,2 + \log{\frac{[A^-]}{[HA]}}$  
+$\log{\frac{[A^-]}{[HA]}} = 7,4 - 7,2 = 0,2$  
+$\frac{[A^-]}{[HA]} = 10^{0,2} = 1,6$  
+$\frac{[A^-]}{[HA]} = \frac{1,6}{1}$  
+
+$[HPO_4^{2-}]: [HPO_4^{2-}] = 1,6:1$  
+
+f.  
+Bij pH = 2,1 en pH = 12,3 want dit ligt dicht bij de andere pKa waarden.  
+$pK_a1 = -\log{7,3 \cdot 10^{-3}} = 2,1$  
+$pK_a3 = -\log{4,8 \cdot 10^{-13}} = 12,3$  
+
+
+### Opgave 4
+
+Het belangrijkste zuur-base paar voor de buffering bij pH = 10,40 is HCO3- (zuur) en CO32- (base). 
 	      [CO32-]	:	[HCO3-]
 	   1,41 mol	:	 1 mol
 
