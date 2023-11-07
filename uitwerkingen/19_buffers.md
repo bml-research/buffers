@@ -110,7 +110,11 @@ De $pK_a$ van 6,4 is zuur.
 Dicht bij de $pK_a$ is de buffercapaciteit het hoogste.  
 
 g.  
-$V = 0,1 \ L$  
+
+Je hebt een buffer van 1 deciliter 1,0 M citroenzuur bij pH = 2,8.  
+Hieraan voeg je 1 ml 10 M NaOH toe. Wat zal de pH van de oplossing worden?  
+
+$V_{citroenzuur} = 0,1 \ L$  
 $c_{citroenzuur} = 1 \ M$  
 $n_{citroenzuur} = 1 \cdot 0,1 = 0,1 \ mol$  
 $pH = 2,8$  
@@ -118,7 +122,7 @@ $pH = 2,8$
 
 $V_{NaOH} = 0,015 \ L$  
 $c_{NaOH} = 10 \ M$  
-$n_{NaOH} = 10 \cdot 0,015 = 0,15 \ mol$  
+$n_{NaOH} = 10 \cdot 0,0015 = 0,015 \ mol$  
 
 De reactie:  
 $C_6H_8O_7 + H_2O \rightleftarrows C_6H_7O_7^- + H_3O^+$  
@@ -141,17 +145,13 @@ $c_{A^-} = 31\% \cdot 0,1 = 0,031 \ mol$
 
 
 Na de toevoeging NaOH:  
-$[A^-] = 0,031 + 0,15 = 0,181 \ mol$  
-$[HA] = 0,069 - 0,15 = ??? \ M$  
->Opgave klopt niet! 
-Komt negatief getal uit.
+$[A^-] = 0,031 + 0,015 = 0,046 \ mol$  
+$[HA] = 0,069 - 0,015 =  0,054 \ mol$  
 
 Nu kunnen we vanuit deze verhoudingen de nieuwe pH berekenen:  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
-  
-
-pH = 5,4  
-
+$pH = 3,15 + log{\frac{0,046}{0,054}}$  
+$pH = 3,08$  
 
 --- 
 
