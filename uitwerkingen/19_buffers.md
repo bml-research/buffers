@@ -19,7 +19,7 @@ b. Oplossing 3 (grotere buffercapaciteit)
 Bijvoorbeeld azijnzuur ($Ka = 1,8 \cdot 10^{-5}$) of citroenzuur ($K_{a2} = 1,7 \cdot 10^{-5}$). Alle zuren met een $K_a$ in de buurt van 1,0 \cdot 10^{-5} zijn in principe geschikt, maar het liefst niet te duur en niet te giftig.  
 
 ### Opgave 3
-^
+
 a.  
 $H_3PO_4  + H_2O \rightleftarrows H_2PO_4^- + H_3O^+$  
 $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
