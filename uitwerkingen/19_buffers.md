@@ -150,6 +150,7 @@ $[HA] = 0,069 - 0,015 =  0,054 \ mol$
 
 Nu kunnen we vanuit deze verhoudingen de nieuwe pH berekenen:  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
 $pH = 3,15 + log{\frac{0,046}{0,054}}$  
 $pH = 3,08$  
 
