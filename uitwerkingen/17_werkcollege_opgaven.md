@@ -57,7 +57,46 @@ $pH = 14 - 4,53 = 9,47$
 
 ### Opgave 21
 
+$n_{NaOH}  = 1,58 \ mol$  
+$c_{fosforzuur} =  1 \ M$  
+$pH = 7,35$  
 
+a.  
+Totaalreactie:
+$H_3PO_4 + 3NaOH \rightleftarrows Na_3PO_4 + 3H_2O$  
+
+In stapjes: 
+
+$H_3PO_4 + NaOH \rightleftarrows NaH_2PO_4 + H_2O$  
+
+$NaH_2PO_4 + NaOH \rightleftarrows Na_2HPO_4 + H_2O$  
+
+$Na_2HPO_4 + NaOH \rightleftarrows Na_3PO_4 + H_2O$  
+
+Fosforzuur is een zwak zuur en natriumhydroxide is een sterke base. Daarom produceren ze een evenwichtszuur-base-neutralisatiereactie waarbij natriumfosfaat en water als producten worden gevormd.
+
+
+Als we Natrium buiten beschouwing laten vinden we de geconjugeerde zuur/basen paren:  
+
+$H_3PO_4  + H_2O \rightleftarrows H_2PO_4^- + H_3O^+$  
+
+$H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
+
+$HPO_4^{2-} + H_2O \rightleftarrows PO_4^{3-} + H_3O^+$  
+
+b.  
+Eerste overgang:  
+Zuur: $H_3PO_4$  
+Base: $H_2PO_4^-$  
+
+c.  
+$H_3PO_4 + H_2O \rightleftarrows H_2PO_4^- + H_3O^+$  
+
+d.  
+Berekenen hoeveel natronloog afgewogen moet worden (63,9 g).  
+Oplossen tot 500 mL in water (denk om volumetoename).  
+Hieraan langzaam 500 mL 2M fosforzuur toevoegen.  
+Doe dit in de zuurkast met handschoenen aan en een veiligheidsbril op!  
 
 
 --- 

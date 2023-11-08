@@ -39,6 +39,8 @@
 - [Buffers](./uitwerkingen/19_buffers.md)
 
 
+## Bijlagen:
+- [pKa waarden](./uitwerkingen/25_pka.md)
 
 --- 
 
