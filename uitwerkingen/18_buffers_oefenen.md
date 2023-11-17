@@ -17,7 +17,7 @@ Base: $K_2HPO_4$
 b.  
 $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
 c.  
-$K_a = 8,12 x 10^{-8}$  
+$K_a = 8,12 \cdot 10^{-8}$  
 $pK_a = -\log{8,12 x 10^{-8}} = 7,09$  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
 $6,8 = 7,09 + \log{\frac{[A^-]}{[HA]}}$  
