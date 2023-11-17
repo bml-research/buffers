@@ -45,6 +45,8 @@ Reactievergelijking: $CaCO_3 \rightleftarrows CaO + CO_2$
 
 $K_{eq} = \frac{[CaO] \cdot [CO_2]}{[CaCO_3]} = 1,9\cdot10^{-23}$  
 
+$m = 5 \ g$  
+
 $n = \frac{m}{M_w} = \frac{5}{100,09} = 0,050\ M$  
 
 $x^2 = 1,9\cdot10^{-23}(0,050 -x)$  
@@ -64,53 +66,53 @@ Dus:
 $K_{eq} = \frac{x \cdot x}{[CaCO_3] -x} = 1,9\cdot10^{-23}$  
 $K_{eq} = \frac{x \cdot x}{[CaCO_3] -0} = 1,9\cdot10^{-23}$  
 
-$x^2 = 1,9\cdot10^{-23} \cdot 0,05 = 9,5 \cdot10^{-25}$
-$x = \sqrt{9,5 \cdot10^{-25}} = 9,75 \cdot10^{-13} \ mol$
+$x^2 = 1,9\cdot10^{-23} \cdot 0,05 = 9,5 \cdot10^{-25}$  
+$x = \sqrt{9,5 \cdot10^{-25}} = 9,75 \cdot10^{-13} \ mol$  
 
 Omrekenen naar massa:  
 $M_{w \ CaO} = 56,0774 \ mol/g$  
-$m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56,0774 = 5,47\cdot10^{-11} \ g$
+$m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56,0774 = 5,47\cdot10^{-11} \ g$  
 
 
 ### Opgave 2
 
-$N_2 + 3H_2 \rightleftarrows 2NH_3$
+$N_2 + 3H_2 \rightleftarrows 2NH_3$  
 
-$Q = \frac{[NH_3]^2}{[N_2]\cdot[H_2]^3} = 1,7\cdot10^2$
+$Q = \frac{[NH_3]^2}{[N_2]\cdot[H_2]^3} = 1,7\cdot10^2$  
 
-$n_{N_2} = 1,57 \ mol$
-$n_{H_2} = 1,92 \ mol$
-$n_{NH_3} = 8,13 \ mol$
+$n_{N_2} = 1,57 \ mol$  
+$n_{H_2} = 1,92 \ mol$  
+$n_{NH_3} = 8,13 \ mol$  
 
-$V = 20\ L$
+$V = 20\ L$  
 
-$c_{N_2} = \frac{1,57}{20} = 0,0785 \ mol/L$
-$c_{H_2} = \frac{1,92}{20} = 0,096 \ mol/L$
-$c_{NH_3} = \frac{8,13}{20} = 0,415 \ mol/L$
+$c_{N_2} = \frac{1,57}{20} = 0,0785 \ mol/L$  
+$c_{H_2} = \frac{1,92}{20} = 0,096 \ mol/L$  
+$c_{NH_3} = \frac{8,13}{20} = 0,415 \ mol/L$  
 
-Dus:
+Dus:  
 
-$Q = \frac{(0,4065)^2}{(0,0785 * (0,096)^3} = 2379$
+$Q = \frac{(0,4065)^2}{(0,0785 * (0,096)^3} = 2379$  
 
->2379 > 170 dus meer product dan verwacht
-Evenwicht schuift dus naar links
+>2379 > 170 dus meer product dan verwacht  
+Evenwicht schuift dus naar links  
 
 ### Opgave 3
 
-$K_{eq}$ = heel klein dus weinig product en veel reactant in de evenwichtssituatie. 
+$K_{eq}$ = heel klein dus weinig product en veel reactant in de evenwichtssituatie.  
 
-$H_2 \rightleftarrows 2H $
+$H_2 \rightleftarrows 2H $  
 
-Dus:
+Dus:  
 
-$K_{eq} = \frac{[H]^2}{[H_2]}$
+$K_{eq} = \frac{[H]^2}{[H_2]}$  
 
 ### Opgave 4
 
 
-$S_2 + 2H_2 \rightleftarrows 2H_2S$
+$S_2 + 2H_2 \rightleftarrows 2H_2S$  
 
-$K_{eq} =\frac{[H_2S]^2}{[S_2]} \cdot [H_2]^2$
+$K_{eq} =\frac{[H_2S]^2}{[S_2]} \cdot [H_2]^2$  
 
 $K_{eq} = \frac{(7,3\cdot10^{-1})^2}{1,1\cdot10^{-6}\cdot(2,1\cdot10^{-1})^2} = 1,1 \cdot 10^7$  
 
