@@ -11,16 +11,16 @@
 
 ### Opgave 1
 
-$KOH + HCl \rightarrow K^+ + Cl^- + H_2O$
+$KOH + HCl \rightarrow K^+ + Cl^- + H_2O$  
 
 
 ### Opgave 2
 
-$KOH + C_9H_8O_4 \rightarrow K^+ + C_9H_7O_4^- + H_2O$
+$KOH + C_9H_8O_4 \rightarrow K^+ + C_9H_7O_4^- + H_2O$  
 
 ### Opgave 3
 
-$C_{13}H_{18}O_2 + C_8H_9NO_2  \rightleftarrows C_{13}H_{17}O_2^- + C_8H_{10}NO_2^+$
+$C_{13}H_{18}O_2 + C_8H_9NO_2  \rightleftarrows C_{13}H_{17}O_2^- + C_8H_{10}NO_2^+$  
 
 ---
 
@@ -50,12 +50,12 @@ $v = \frac{2,28 \cdot 10^{-3}}{4} = 5,70 \cdot 10^{-5} \ L = 0,570 \ mL$
 
 c.  
 
-$\frac{500}{6} \cdot 100 = 8333\%$
+$\frac{500}{6} \cdot 100 = 8333\%$  
 
 d.  
 $m = 267 \ mg/100\ g$  
 $m_{100\% \ ADH} = 6\ mg$  
-$m_{200\% \ ADH} = 12 \ mg$
+$m_{200\% \ ADH} = 12 \ mg$  
 dus:  
 $\frac{267}{12} = 22,25 \ maal$  
 1 tablet weegt dus:  
@@ -170,15 +170,3 @@ $pOH = 14-2,9= 11,1$
 
 [Terug naar de hoofdpagina ](../index.md)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>

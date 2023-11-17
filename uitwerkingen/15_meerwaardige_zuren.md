@@ -11,7 +11,7 @@
 
 ### Opgave 1
 a.  
-$C_6H_8O_7 + H_2O \rightleftarrows C_6H_7O_7^- + H_3O^+$  
+$C_6H_8O_7 + H_2O \rightleftarrows C_6  H_7O_7^- + H_3O^+$  
 $C_6H_7O_7^- + H_2O \rightleftarrows C_6H_6O_7^{2-} + H_3O^+$  
 $_C6H_6O_7^{2-}+ H_2O \rightleftarrows C_6H_5O_7^{3-} + H_3O^+$  
 
@@ -29,7 +29,7 @@ $C_6H_8O_7$ (zuur) en $C_6H_7O_7^-$ (geconjugeerde base)
 
 $C_6H_7O_7^-$ (zuur) en $C_6H_6O_7^{2-}$ (geconjugeerde base)  
 
-$C_6H_6O_7^{2-}$ (zuur) en $C_6H_5O_7^{3-}$ (geconjugeerde base)
+$C_6H_6O_7^{2-}$ (zuur) en $C_6H_5O_7^{3-}$ (geconjugeerde base)  
 
 d.  
 $C_6H_5O_7^{3-} + H_2O \rightleftarrows C_6H_6O_7^{2-} + OH^-$  
@@ -46,7 +46,7 @@ $K_{b2} = \frac{[C_6H_7O_7^-][OH^-]}{[C_6H_6O_7^{2-}]}$
 $K_{b3} = \frac{[C_6H_8O_7][OH^-]}{[C_6H_7O_7^-]}$  
 
 f.  
-$K_{b2}$, want $C_6H_6O_7^{2-}$ reageert als base in de tweede reactie van de basen. En $K_{a3}$, want $C_6H_6O_7^{2-}$ reageert als zuur in de derde reactie van de zuren.
+$K_{b2}$, want $C_6H_6O_7^{2-}$ reageert als base in de tweede reactie van de basen. En $K_{a3}$, want $C_6H_6O_7^{2-}$ reageert als zuur in de derde reactie van de zuren.  
 
 ### Opgave 2
 
@@ -146,15 +146,3 @@ $C_2O_4^{2-}$ heeft geen Ka, want het is geen zuur.
 
 [Terug naar de hoofdpagina ](../index.md)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
