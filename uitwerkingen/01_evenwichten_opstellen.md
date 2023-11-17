@@ -27,7 +27,7 @@ $K_{eq} = \frac{[CH_4]\cdot[H_2O]^2}{[H_2]^4\cdot[CO_2]}$
 
 ### Opgave 3
 
-$C_6H_{12}O6 \rightleftarrows 3CH_3COO^- + 3H^+$
+$C_6H_{12}O_6 \rightleftarrows 3CH_3COO^- + 3H^+$
 
 $k_{eq}= \frac{[CH_3COO^-]^3\cdot[H^+]^3}{[C_6H_{12}O_6]}$
 
