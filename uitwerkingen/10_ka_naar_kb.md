@@ -15,7 +15,7 @@ a. $C_3H_6O_3 + H_2O \rightleftarrows C_3H_5O_3^- + H_3O^+$
 b. $C_3H_5O_3^-$  
 c. $K_b = \frac{10^{-14}}{1,4\cdot10^{-4}} = 7,14\cdot10^{-11}$  
 d. $C_3H_5O_3^- + H_2O \rightleftarrows C_3H_6O_3 + OH^-$  
-$K_b = \frac{[C_3H_6O_3][OH^-]}{[C_3H_5O_3^-]}$
+$K_b = \frac{[C_3H_6O_3][OH^-]}{[C_3H_5O_3^-]}$  
 
 ### Opgave 2
 
