@@ -44,15 +44,19 @@ $V = 2 \ mL$
 $c = 1 \ mol/L = 1 \cdot 10^{-3} \ mol/mL = 2 \cdot 10^{-3} \ mol/2 \ mL$  
 Voor toevoegen:  
 
-$pH = 7,09 + \log{\frac{0,0332}{0,0168}}$  
+$pH = 7,09 + \log{\frac{0,0332 \ M}{0,0168 \ M}}$  
+
+In 500 mL:
+
+$pH = 7,09 + \log{\frac{0,0166 \ mol}{0,0084 \ mol}}$  
 
 Na toevoegen HCl:  
 
-$[A^-] = 0,0332 - 0,002 = 0,0312 \ mol$  
+$[A^-] = 0,0166 - 0,002 = 0,0146 \ mol$  
 
-$[HA] = 0,0168 + 0,002 =  0,0188 \ mol$  
+$[HA] = 0,0084 + 0,002 =  0,0104 \ mol$  
 
-$pH = 7,09 + \log{\frac{0,0312}{0,0188}} = 7,3$  
+$pH = 7,09 + \log{\frac{0,0146}{0,0104}} = 8,0$  
 
 
 ### Opgave 2
@@ -103,7 +107,49 @@ Zolang de verhouding zuur en base gelijk blijft zal de pH gelijk zijn.
 
 ### Opgave 3
 
+a.  
+$pK_a = -\log{6,3 \cdot 10^{-8}} = 7,2$
 
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
+$6,8 = 7,2 + \log{\frac{[A^-]}{[HA]}}$  
+
+$\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,2 = -0,4$  
+
+$\frac{[A^-]}{[HA]} = 10^{-0,4} = 0,398 = \frac{0,398}{1}$  
+
+Dus:  
+$Zuur:base = 1:0,398$ (1,398 delen)  
+
+$V_{KH_2PO_4} = \frac{600}{1,398} = 429 \ mL$  
+$V_{K_2HPO_4} = 600 - 429 = 171 \ mL$  
+
+b.  
+Jim neemt 300 mL buffer.  
+Dus:  
+$c = \frac{n}{V}$  
+$n = c \cdot V$  
+$n = 0,3 \cdot 0,2 = 0,06 \ mol$  
+
+$n_{KH_2PO_4} = \frac{0,06}{1,398} \cdot 1 = 0,0429 \ mol$  
+$n_{K_2HPO_4} = 0,06 - 0,0429 = 0,0171 \ mol$  
+
+2 mL 1M HCl toegevoegd  
+Dit titreert de base naar het zuur.  
+1-waardig zuur dus reageert 1 op 1.  
+Dus:  
+Zuur: $KH_2PO_4$ wordt meer.  
+Base: $K_2HPO_4$ wordt minder  
+$V = 2 \ mL$  
+$c = 1 \ mol/L = 1 \cdot 10^{-3} \ mol/mL = 2 \cdot 10^{-3} \ mol/2 \ mL$  
+
+Na toevoegen HCl:  
+
+$[A^-] = 0,0171 - 0,002 = 0,0151 \ mol$  
+
+$[HA] = 0,0429 + 0,002 =  0,0449 \ mol$  
+
+$pH = 7,2 + \log{\frac{0,0151}{0,0449}} = 6,7$  
 
 --- 
 
