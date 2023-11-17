@@ -34,9 +34,8 @@
 - [Zuur-base reacties](./uitwerkingen/14_zuur_base_reacties.md)
 - [Meerwaardige zuren](./uitwerkingen/15_meerwaardige_zuren.md)
 - [Amfolieten](./uitwerkingen/16_amfolieten.md)
-- [Werkcollege opgaven](./uitwerkingen/17_werkcollege_opgaven.md)
-- [De Henderson Hasselbalch-vergelijking](./uitwerkingen/18_henderson_hasselbach.md)
-- [Buffers](./uitwerkingen/19_buffers.md)
+- [De Henderson Hasselbalch-vergelijking](./uitwerkingen/17_henderson_hasselbach.md)
+- [Buffers](./uitwerkingen/18_buffers.md)
 
 
 ## Bijlagen:
