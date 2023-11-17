@@ -11,14 +11,11 @@
 
 ### Opgave 1
 
-
 a. Oplossingen 1 en 3  
 b. Oplossing 3 (grotere buffercapaciteit)  
 
-### Opgave 2
-Bijvoorbeeld azijnzuur ($Ka = 1,8 \cdot 10^{-5}$) of citroenzuur ($K_{a2} = 1,7 \cdot 10^{-5}$). Alle zuren met een $K_a$ in de buurt van $1,0 \cdot 10^{-5}$ zijn in principe geschikt, maar het liefst niet te duur en niet te giftig.  
 
-### Opgave 3
+### Opgave 2
 
 a.  
 $H_3PO_4  + H_2O \rightleftarrows H_2PO_4^- + H_3O^+$  
@@ -27,7 +24,7 @@ $HPO_4^{2-} + H_2O \rightleftarrows PO_4^{-3} + H_3O+$
 
 b.  
 $pK_a2 = -\log{6,2 \cdot 10^{-8}} = 7,2$  
-$pK_a1 = -\log{7,3 \cdot^{-3}} = 2,14$
+$pK_a1 = -\log{7,3 \cdot^{-3}} = 2,14$  
 $pK_b = 14 - 2,14 = 11,86$  
 $K_b = 10^{-11,86} = 1,4 10^{-12}$  
 
@@ -52,7 +49,7 @@ $pK_a1 = -\log{7,3 \cdot 10^{-3}} = 2,1$
 $pK_a3 = -\log{4,8 \cdot 10^{-13}} = 12,3$  
 
 
-### Opgave 4
+### Opgave 3
 
 Het belangrijkste zuur-base paar voor de buffering bij pH = 10,40 is $HCO_3^-$ (zuur) en $CO_3^{2-}$ (base).  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
@@ -63,23 +60,14 @@ $\frac{[A^-]}{[HA]} = 10^{0,15} = 1,41$
 Dus:  
 $[CO_3^{2-}]:[HCO^{3-}] = 1,41:1$  
 
-### Opgave 5
 
-a.  
-Omdat het bloed gebufferd is. Bovendien wordt het$CO_2$ ook weer afgevoerd via de longen.  
-b.  
-$V_1 \cdot c_1 = V_2 \cdot c_2$  
-$ 6,1 \cdot c_1 = 0,1 \cdot 0,1$  
-$c_1 = 0,00164 \ M$  
-$pH = -\log{0,00164} = 2,8$  
-pH wordt 2,8. Dat betekent een pH-sprong van -4,56 (2,79 - 7,35).  
 
-### Opgave 6
+### Opgave 4
 
 a.  
 $C_6H_8O_7$ (zuur) en $C_6H_7O_7^-$ (base). Dichtste bij de $pK_{a1}$.  
 b.  
-$pKa1 = -\log{7,1 \cdot 10^{-4}} = 3,15$
+$pKa1 = -\log{7,1 \cdot 10^{-4}} = 3,15$  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
 $2,8 = 3,15 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 2,8 - 3,15 = -0,35$  
@@ -91,8 +79,8 @@ Dus percentage $C_6H_8O_7$ = 69%
 
 
 c.  
-$pK{a3} = -\log{4,1 \cdot 10^{-7}} = 6,4$  
-$pK{a2} = -\log{1,7 \cdot 10^{-5}} = 4,77$  
+$pK_{a3} = -\log{4,1 \cdot 10^{-7}} = 6,4$  
+$pK_{a2} = -\log{1,7 \cdot 10^{-5}} = 4,77$  
 $pK_b = 14 - 4,77 = 9,23$  
 $K_b = 10^{-9,23} = 5,9 \cdot 10^{-10}$  
 
@@ -107,7 +95,7 @@ Dus $C_6H_6O_7^{2-}$ en $C_6H_5O_7^{3-}$.
 f.  
 Meer geschikt voor het bufferen van zuren.  
 De $pK_a$ van 6,4 is zuur.  
-Dicht bij de $pK_a$ is de buffercapaciteit het hoogste.  
+Dicht bij de $pK_a$ is de buffercapaciteit het hoogst.  
 
 g.  
 
