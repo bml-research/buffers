@@ -21,7 +21,7 @@ $HCO_3^- + H_2O \rightleftarrows H_2CO_3 + OH^-$
 
 c.  
 
-$K_a = 	\frac{[CO_3^{2-}][ H_3O^+]}{[HCO_3^-]}$
+$K_a = 	\frac{[CO_3^{2-}][ H_3O^+]}{[HCO_3^-]}$  
 
 
 $K_b = 	\frac{[H_2CO_3][OH^-]}{[HCO_3^-]}$  
@@ -29,9 +29,9 @@ $K_b = 	\frac{[H_2CO_3][OH^-]}{[HCO_3^-]}$
 d.  
 De $K_a$ van $HCO_3^-$ is de $Ka_2$ van $H_2CO_3 = 5,6 \cdot 10^{-11}$  
 Volledige uitleg:  
-$H_2CO_3 + H_2O \rightleftarrows HCO_3^- + H_3O^+$      (1)
-$HCO_3^- + H_2O \rightleftarrows CO_3^{2-} + H_3O^+$    (2)
-Het is dus de tweede $K_a$ in de tabel.
+$H_2CO_3 + H_2O \rightleftarrows HCO_3^- + H_3O^+$      (1)  
+$HCO_3^- + H_2O \rightleftarrows CO_3^{2-} + H_3O^+$    (2)  
+Het is dus de tweede $K_a$ in de tabel.  
 
 e.  
 
