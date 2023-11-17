@@ -33,6 +33,29 @@ $n = \frac{m}{M}$
 $m_{K_2HPO_4} = n \cdot M = 0,0332 \cdot 174 = 5,78 \ g/L = 2,89 \ g/500\ mL$  
 $m_{KH_2PO_4} = n \cdot M = 0,0168 \cdot 136 = 2,28\ g/L = 1,14 \ g/500\ mL$  
 
+d.  
+2 mL 1M HCl toegevoegd  
+Dit titreert de base naar het zuur.  
+1-waardig zuur dus reageert 1 op 1.  
+Dus:  
+Zuur: $KH_2PO_4$ wordt meer.  
+Base: $K_2HPO_4$ wordt minder  
+$V = 2 \ mL$  
+$c = 1 \ mol/L = 1 \cdot 10^{-3} \ mol/mL = 2 \cdot 10^{-3} \ mol/2 \ mL$  
+Voor toevoegen:  
+
+$pH = 7,09 + \log{\frac{0,0332}{0,0168}}$  
+
+Na toevoegen HCl:  
+
+$[A^-] = 0,0332 - 0,002 = 0,0312 \ mol$  
+
+$[HA] = 0,0168 + 0,002 =  0,0188 \ mol$  
+
+$pH = 7,09 + \log{\frac{0,0312}{0,0188}} = 7,3$  
+
+
+### Opgave 2
 
 
 
