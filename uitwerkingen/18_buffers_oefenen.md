@@ -57,8 +57,51 @@ $pH = 7,09 + \log{\frac{0,0312}{0,0188}} = 7,3$
 
 ### Opgave 2
 
+a.  
 
+$c_{CH_3COOH} = \frac{0,1}{0,750} = 0,133 \ M$  
 
+$c_{NaCH_3COO} = \frac{0,2}{0,750} = 0,267 \ M$  
+
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
+$pH = 4,77 + \log{\frac{0,267}{0,133}} = 5,1$  
+
+b.  
+
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
+$4,3 = 4,77 + \log{\frac{[A^-]}{[HA]}}$  
+
+$\log{\frac{[A^-]}{[HA]}} = 4,3 - 4,77 = -0,47$  
+
+$\frac{[A^-]}{[HA]} = 10^{-0,47} = 0,339 = \frac{0,339}{1}$  
+
+Dus:  
+$Zuur:base = 1:0,331$  
+
+Om 750 ml van de buffer te maken:  
+
+$V_{CH_3COOH} = \frac{750}{1,339} \cdot 1 = 560 \ mL$  
+
+$V_{NaCH_3COO} = 750 - 560 = 190 \ mL$  
+
+Let op dat doordat beide oplossingen 0,2 M zijn de condentratie niet verandert. Je mengt ze immers met elkaar. 0,2 M + 0,2 M (in welke verhouding dan ook) blijft altijd 0,2 M.  
+
+c.  
+Deze blijft gelijk (maar de buffercapaciteit neemt af).  
+
+Met berekening:  
+
+$pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
+
+$pH = 4,77 + \log{\frac{0,339}{1}} = 4,3$  
+
+$pH = 4,77 + \log{\frac{0,0339}{0,1}} = 4,3$  
+
+Zolang de verhouding zuur en base gelijk blijft zal de pH gelijk zijn.  
+
+### Opgave 3
 
 
 
