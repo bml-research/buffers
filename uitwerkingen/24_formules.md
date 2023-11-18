@@ -26,7 +26,7 @@ Je kan eventueel een bestaande wiskundige expressie gebruiken om een bestaande f
 
 $2 \cdot 6 = 3 \cdot 4$  
 
-Nu stelt $V_1$ de 2 voor dus:
+Nu stelt $V_1$ de 2 voor dus:  
 
 $2 = \frac{3 \cdot 4}{6}$  
 
@@ -56,21 +56,21 @@ Op deze manier kun je alle onderstaande formules eenvoudig omschrijven.
 
 ## Formules:
 
-Voor dit vak zijn maar een paar formules nodig.
+Voor dit vak zijn maar een paar formules nodig.  
 
 > Deze formules zijn zo belangrijk tijdens je opleiding dat je ze uit je hoofd moet kennen!
 
 ### Verdunnen vanuit stock oplossing:
 
-$V_1 \cdot c_1 = V_2 \cdot c_2$ 
+$V_1 \cdot c_1 = V_2 \cdot c_2$  
 
 Waarbij:  
-$V = volume$
-$c = concentratie$
+$V = volume$  
+$c = concentratie$  
 
 ### Gram naar mol
 
-$n = \frac{m}{M_w}$ 
+$n = \frac{m}{M_w}$  
 
 Waarbij:  
 $n = aantal \ mol$  
@@ -83,7 +83,7 @@ $c = \frac{m}{V}$
 Waarbij:  
 $c = concentratie$  
 $m = massa$  
-$V = volume$    
+$V = volume$  
 
 ### Concentratie (molair)
 
@@ -92,8 +92,28 @@ $c = \frac{n}{V}$
 Waarbij:  
 $c = concentratie$  
 $n = aantal \ mol$  
-$V = volume$    
+$V = volume$  
 
+### Soortelijke massa
+
+$\rho = \frac{m}{V}$  
+
+Waarbij:  
+$c\rho = soortelijke massa$  
+$m = massa$  
+$V = volume$  
+
+### Keq
+
+Voor reactie:
+$aA + bB \rightleftarrows cC + dD$  
+geldt:  
+$K_{eq} = \frac{[C]^c\cdot[D]^d}{[A]^a\cdot[B]^ b}$  
+
+Waarbij:  
+$K_{eq} = evenwichtsconstante$  
+$A = molecuul \ A$  
+$a = aantal \ molecuul \ A$  
 
 ### pH
 
@@ -101,11 +121,34 @@ $pH = -\log{[H^+]}$
 
 Waarbij:  
 $pH = zuurgraad (negatieve \ logaritme \ concentratie \ protonen)$  
-$[H^+] = concentratie \ protonen$
+$[H^+] = concentratie \ protonen$  
+
+### pKa
+
+$pKa = -\log{K_a}$  
+
+Waarbij:  
+$pK_a =$ negatieve logaritme van de zuurdissociatie constante  
+$K_a = $ zuurdissociatie constante  
+
+### Henderson–Hasselbalch equation
+
+$pH = pK_a +\log{\frac{[A^-]}{[HA]}}$  
+
+Waarbij:  
+$pH = zuurgraad (negatieve \ logaritme \ concentratie \ protonen)$  
+$pK_a = -\log{K_a}$  
+$[A^-] = concentratie \ base \ ionen$  
+$[HA] = concentratie \ zuur \ moleculen$  
 
 
+## Constanten
 
---- 
+
+### Constante van Avogadro
+
+$N_A = 6,022 \cdot 10^{23} \ mol^{−1}$  
+
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-
