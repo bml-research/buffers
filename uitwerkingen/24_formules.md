@@ -129,7 +129,7 @@ $a = aantal \ molecuul \ A$
 $pH = -\log{[H^+]}$  
 
 Waarbij:  
-$pH = zuurgraad (negatieve \ logaritme \ concentratie \ protonen)$  
+$pH = zuurgraad \ (negatieve \ logaritme \ concentratie \ protonen)$  
 $[H^+] = concentratie \ protonen$  
 
 ### pKa
@@ -145,7 +145,7 @@ $K_a = $ zuurdissociatie constante
 $pH = pK_a +\log{\frac{[A^-]}{[HA]}}$  
 
 Waarbij:  
-$pH = zuurgraad (negatieve \ logaritme \ concentratie \ protonen)$  
+$pH = zuurgraad \ (negatieve \ logaritme \ concentratie \ protonen)$  
 $pK_a = -\log{K_a}$  
 $[A^-] = concentratie \ base \ ionen$  
 $[HA] = concentratie \ zuur \ moleculen$  
@@ -156,11 +156,11 @@ $[HA] = concentratie \ zuur \ moleculen$
 
 $N_A = 6,022 \cdot 10^{23} \ mol^{−1}$  
 
-Volgens de definitie van 2006 is de constante van Avogadro gelijk aan het aantal atomen in twaalf gram van de koolstofisotoop koolstof-12.
+Volgens de definitie van 2006 is de constante van Avogadro gelijk aan het aantal atomen in twaalf gram van de koolstofisotoop koolstof-12 (koolstof heeft atoomnummer 6 en een atoommassa van 12).
 
-Maar het is eenvoudiger om de volgende definitie gebaseerd op waterstof (ons lichtste atoom) te onthouden (al klopt deze door het bestaan van isotopen niet helemaal):
+Maar tegenwoordig is de constante hier niet meer aan gekoppeld.
 
->De constante van Avogadro is gelijk aan het aantal atomen dat zich bevindt in 1 gram waterstof.
+>De constante van Avogadro is gelijk aan $6,022 \cdot 10^{23} \ mol^{−1}$ moleculen.  
 
 ---
 
