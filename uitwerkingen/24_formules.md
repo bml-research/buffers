@@ -59,7 +59,7 @@ Er is een verschil tussen grootheden en eenheden. Volume is bijvoorbeeld een gro
 Daarnaast kun je voor bijvoorbeeld gram nog aangeven of het om milligram of kilogram gaat. Dit zijn [SI-voorvoegsels](https://nl.wikipedia.org/wiki/SI-voorvoegsel).   
 
 Sommige eenheden die wij in het lab veel gebruiken zijn geen [SI-eenheid](https://nl.wikipedia.org/wiki/SI-stelsel).
-Zo gebruiken wij de liter voor volume terwijl de SI-eenheid de kubieke meter is (afgeleide van de grootheid `lengte`). Dit wordt echter zo algemeen gedaan in het lab dat wij hier niet van afwijken. 
+Zo gebruiken wij de liter voor volume terwijl de SI-eenheid de kubieke meter is (afgeleide van de grootheid `lengte`). Dit wordt echter zo algemeen gedaan in het lab dat wij toch de eenheid liter gebruiken.  
 
 De standaard SI-eenheid van massa is vreemd genoeg de kilogram (om historische redenen) en niet de gram. In het lab gebruiken we echter de gram omdat de molaire massa in gram per mol wordt uitgedrukt.
 
