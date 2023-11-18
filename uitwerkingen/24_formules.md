@@ -13,11 +13,15 @@ Voor deze cursus heb je een aantal verschillende formules nodig.
 
 >We raden aan om met formules te werken. In het werkveld wordt namelijk ook **altijd** met formules gewerkt.  
 
+Hoe moet je deze nu omzetten?  
+
+Stel we hebben de volgende formule:  
+
 $V_1 \cdot c_1 = V_2 \cdot c_2$  
 
 Stel je wil $V_1$ isoleren. Wat moet je nu doen om de expressie kloppend te krijgen?  
 
-Je kan eventueel een bestaande wiskundige expressie gebruiken om een bestaande formule om te zetten:  
+Je kan eventueel een eenvoudige en kloppende wiskundige expressie gebruiken om een bestaande formule om te zetten:  
 
 $2 \cdot 6 = 3 \cdot 4$  
 
