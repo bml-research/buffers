@@ -150,13 +150,17 @@ $pK_a = -\log{K_a}$
 $[A^-] = concentratie \ base \ ionen$  
 $[HA] = concentratie \ zuur \ moleculen$  
 
-
 ## Constanten
-
 
 ### Constante van Avogadro
 
 $N_A = 6,022 \cdot 10^{23} \ mol^{−1}$  
+
+Volgens de definitie van 2006 is de constante van Avogadro gelijk aan het aantal atomen in twaalf gram van de koolstofisotoop koolstof-12.
+
+Maar het is eenvoudiger om de volgende definitie gebaseerd op waterstof (ons lichtste atoom) te onthouden (al klopt deze door het bestaan van isotopen niet helemaal):
+
+>De constante van Avogadro is gelijk aan het aantal atomen dat zich bevindt in 1 gram waterstof.
 
 ---
 
