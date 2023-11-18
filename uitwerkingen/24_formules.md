@@ -160,7 +160,7 @@ Volgens de definitie van 2006 is de constante van Avogadro gelijk aan het aantal
 
 Maar tegenwoordig is de constante hier niet meer aan gekoppeld.
 
->De constante van Avogadro is gelijk aan $6,022 \cdot 10^{23} \ mol^{−1}$ moleculen.  
+>De constante van Avogadro is gelijk aan $6,022 \cdot 10^{23}$ moleculen.  
 
 ---
 
