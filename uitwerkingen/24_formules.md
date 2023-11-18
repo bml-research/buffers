@@ -13,14 +13,9 @@ Voor deze cursus heb je een aantal verschillende formules nodig.
 
 >We raden aan om met formules te werken. In het werkveld wordt namelijk ook **altijd** met formules gewerkt.  
 
-
-
 $V_1 \cdot c_1 = V_2 \cdot c_2$  
 
-
-
 Stel je wil $V_1$ isoleren. Wat moet je nu doen om de expressie kloppend te krijgen?  
-
 
 Je kan eventueel een bestaande wiskundige expressie gebruiken om een bestaande formule om te zetten:  
 
@@ -53,6 +48,16 @@ $m = n \cdot M_w$
 
 Op deze manier kun je alle onderstaande formules eenvoudig omschrijven.  
 
+## Grootheden en eenheden
+
+Er is een verschil tussen grootheden en eenheden. Volume is bijvoorbeeld een grootheid. Die kun je uitdrukken in verschillende eenheden. Bijvoorbeeld de eenheid kubieke meter ($m^3$) of liter (L).  
+
+Daarnaast kun je voor bijvoorbeeld gram nog aangeven of het om milligram of kilogram gaat. Dit zijn [SI-voorvoegsels](https://nl.wikipedia.org/wiki/SI-voorvoegsel).   
+
+Sommige eenheden die wij in het lab veel gebruiken zijn geen [SI-eenheid](https://nl.wikipedia.org/wiki/SI-stelsel).
+Zo gebruiken wij de liter voor volume terwijl de SI-eenheid de kubieke meter is (afgeleide van de grootheid `lengte`). Dit wordt echter zo algemeen gedaan in het lab dat wij hier niet van afwijken. 
+
+De standaard SI-eenheid van massa is vreemd genoeg de kilogram (om historische redenen) en niet de gram. In het lab gebruiken we echter de gram omdat de molaire massa in gram per mol wordt uitgedrukt.
 
 ## Formules:
 
