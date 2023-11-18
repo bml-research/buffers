@@ -108,13 +108,13 @@ $V = volume$
 $\rho = \frac{m}{V}$  
 
 Waarbij:  
-$c\rho = soortelijke massa$  
+$\rho = soortelijke \ massa$  
 $m = massa$  
 $V = volume$  
 
 ### Keq
 
-Voor reactie:
+Voor reactie:  
 $aA + bB \rightleftarrows cC + dD$  
 geldt:  
 $K_{eq} = \frac{[C]^c\cdot[D]^d}{[A]^a\cdot[B]^ b}$  
