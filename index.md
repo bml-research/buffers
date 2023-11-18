@@ -39,6 +39,7 @@
 
 
 ## Bijlagen:
+- [Formules, variabelen en constanten](./uitwerkingen/24_formules.md)
 - [pKa waarden](./uitwerkingen/25_pka.md)
 
 --- 
