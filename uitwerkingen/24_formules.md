@@ -150,6 +150,16 @@ $pK_a = -\log{K_a}$
 $[A^-] = concentratie \ base \ ionen$  
 $[HA] = concentratie \ zuur \ moleculen$  
 
+### ABC formule
+
+Tweedegraads polynoom:  
+
+$y = ax^2 + bx +c$  
+
+ABC formule:  
+
+$x = \frac{-b \ \pm \sqrt{b^2-4ac}}{2a}$  
+
 ## Constanten
 
 ### Constante van Avogadro
