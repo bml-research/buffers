@@ -109,7 +109,7 @@ $K_{eq} = \frac{[H]^2}{[H_2]}$
 
 $S_2 + 2H_2 \rightleftarrows 2H_2S$  
 
-$K_{eq} =\frac{[H_2S]^2}{[S_2]} \cdot [H_2]^2$  
+$K_{eq} =\frac{[H_2S]^2}{[S_2]\cdot [H_2]^2}$  
 
 $K_{eq} = \frac{(7,3\cdot10^{-1})^2}{1,1\cdot10^{-6}\cdot(2,1\cdot10^{-1})^2} = 1,1 \cdot 10^7$  
 
