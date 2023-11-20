@@ -16,6 +16,10 @@
 
 - [Docenten](./docenten/docenten.md)
 
+## Reader
+
+- [Reader (pdf)](./reader/reader.pdf)
+
 ## Inhoud
 
 - [Evenwichten opstellen](./uitwerkingen/01_evenwichten_opstellen.md)  
