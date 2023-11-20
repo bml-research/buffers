@@ -41,7 +41,6 @@ $[H3O+] = 10^{-9,3} = 5,01\cdot10^{-10} \ M$
 $pOH = 14 - 2,2 = 11,8$  
 5b. Oplossing is zuur want pH < 7  
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

@@ -17,9 +17,6 @@ b.
 $pOH = 14 - \log{0,01} = 12$  
 c.  
 
-
-
 --- 
 
 [Terug naar de hoofdpagina ](../index.md)
-

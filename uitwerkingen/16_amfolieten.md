@@ -11,7 +11,6 @@
 
 ### Opgave 1
 
-
 a.  
 $HCO_3^-+ H_2O \rightleftarrows CO_3^{2-} + H_3O^+$  
 
@@ -21,10 +20,9 @@ $HCO_3^- + H_2O \rightleftarrows H_2CO_3 + OH^-$
 
 c.  
 
-$K_a = 	\frac{[CO_3^{2-}][ H_3O^+]}{[HCO_3^-]}$  
+$K_a = \frac{[CO_3^{2-}][ H_3O^+]}{[HCO_3^-]}$  
 
-
-$K_b = 	\frac{[H_2CO_3][OH^-]}{[HCO_3^-]}$  
+$K_b = \frac{[H_2CO_3][OH^-]}{[HCO_3^-]}$  
 
 d.  
 De $K_a$ van $HCO_3^-$ is de $Ka_2$ van $H_2CO_3 = 5,6 \cdot 10^{-11}$  
@@ -42,7 +40,6 @@ $K_b = 10^{-7,63} = 2,3 \cdot 10^{-8}$
 
 f.  
 Als base, dit amfoliet is een sterkere base dan een zuur want de $K_b$ is groter dan de $K_a$.  
-
 
 ### Opgave 2
 
@@ -70,7 +67,7 @@ $pK_a = -\log{7,5 \cdot 10^{-3}} = 2,12$
 $pK_b = 14 - 2,12 = 11,88$  
 $K_b = 10^{-11,88} = 1,3 \cdot 10^{-12}$  
 
-d. 
+d.  
 Als zuur, dit amfoliet is een sterker zuur dan base want de $K_a$ is groter dan de $K_b$.  
 
 ### Opgave 3
@@ -86,8 +83,6 @@ $pK_b = 14 - 3,15 = 10,85$
 $K_b = 10^{-10,85} = 1,4 \cdot 10^{-11}$  
 Dit amfoliet is een sterker zuur dan base want de $K_a$ is groter dan de $K_b$.  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

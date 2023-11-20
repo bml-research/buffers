@@ -45,7 +45,6 @@ Als stelregel hiervoor geldt dat als de beginconcentratie van het zuur meer dan 
 $x^2 = 5,8 \cdot 10^{-5} \cdot 1 = 5,8 \cdot 10^{-5}$  
 $x = \sqrt{5,8 \cdot 10^{-5}} = 0.00762 \ M$  
 
-
 De pH van de oplossing is dan:  
 
 $pH = -\log{H_3O^+} = -\log{7,62\cdot10^{-3}} = 2,1$  
@@ -59,7 +58,6 @@ $m = 1 \ g$
 $n =\frac{m}{M_w} = \frac{1}{180,16} = 5,55\cdot10^{-3} \ mol$  
 
 b.  
-
 $c = \frac{n}{V} = \frac{5,55\cdot10^{-3}}{0,1} = 5,55\cdot10^{-2} \ M$  
 
 c.  
@@ -71,11 +69,9 @@ g.
 $x^2 = 3,3\cdot10^{-4} \cdot 5,55\cdot10^{-2} = 1,83 \cdot 10^{-5}$  
 $x = \sqrt{1,83 \cdot 10^{-5}} = 4,28 \cdot 10^{-3}\ M$  
 
-
 2h. $4,28 \cdot 10^{-3}\ M$.  
 
 2i. $pH = -\log{4,28 \cdot 10^{-3}} = 2,4$  
-
 
 ### Opgave 3
 
@@ -143,7 +139,6 @@ $x = \sqrt{8,46 \cdot10^{-6}} = 2,91 \cdot 10^{-3} \ M$
 $pOH = -\log{2,91 \cdot 10^{-3}} = 2,53$  
 $pH = 14-2,53 = 11,5$  
 
-
 ### Opgave 7
 
 a.  
@@ -184,4 +179,3 @@ $V_{dodelijk} = \frac{m_{dodelijk}}{c} = \frac{0,123}{10} = 0,0123 \ L = 12,3 \ 
 ---
 
 [Terug naar de hoofdpagina ](../index.md)
-

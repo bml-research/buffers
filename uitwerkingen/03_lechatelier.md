@@ -3,7 +3,7 @@
 
 [Terug naar de hoofdpagina ](../index.md)
 
-# Uitwerkingen Evenwichten 
+# Uitwerkingen Evenwichten
 
 ---
 
@@ -32,8 +32,7 @@ c. Dan zou de concentratie van A toenemen. Evenwicht 1 verschuift naar links.
 a. Meer H zorgt voor een verschuiving van evenwicht 1. Hierdoor verschuift ook evenwicht 2. Beide evenwichten verschuiven dus naar rechts. Uitleg door middel van formule: $K_{eq} = \frac{[I]\cdot[J]}{[G]\cdot[H]}$. Als H groter wordt, dan wordt de noemer groter. Dus de breuk in totaal (evenwichtsconstante) wordt een kleiner getal. Dus evenwicht verschuift naar rechts. Dit geldt ook voor evenwicht 2 (je hebt imers meer J).  
 b. Evenwicht 1 verschuift naar links en evenwicht 2 verschuift naar rechts.  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
 

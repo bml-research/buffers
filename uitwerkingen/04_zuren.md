@@ -3,7 +3,7 @@
 
 [Terug naar de hoofdpagina ](../index.md)
 
-# Uitwerkingen Zuren 
+# Uitwerkingen Zuren
 
 ---
 
@@ -40,9 +40,9 @@ $C_8H_9NO_2 + H_2O \rightleftarrows C_8H_8NO_2^- + H_3O^+$
 
 ### Opgave 3
 
-$HI + H_2O \rightarrow I^- + H_3O^+$. Let op dat de pijl naar rechts staat (aflopende reactie).  
+$HI + H_2O \rightarrow I^- + H_3O^+$.  
+Let op dat de pijl naar rechts staat (aflopende reactie).  
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

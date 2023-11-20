@@ -25,9 +25,8 @@ d. $[H_3O^+] = 10^{-14,6}= 2,5\cdot10^{-15}$
 
 a. $n = \frac{m}{M_w} = \frac{5}{127,911} = 3,9\cdot10^{-2} \ mol$  
 b. $c = 7,8\cdot10^{-2} \ M$  
-c. $HI + H_2O \rightarrow H_3O^ + I^-$  
+c. $HI + H_2O \rightarrow H_3O^+ + I^-$  
 d. $pH = -\log{H_3O^+} = -\log{7,8\cdot10^{-2}} = 1,1$  
-
 
 ### Opgave 4
 
@@ -48,8 +47,6 @@ $m = n \cdot M_w = 0,00025 \cdot 36,5 = 0,0092 \ g/L$
 dus:  
 $0,0092 * 3,7 = 0,034 \ g = 34 \ mg$  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

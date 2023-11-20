@@ -3,7 +3,7 @@
 
 [Terug naar de hoofdpagina ](../index.md)
 
-# Uitwerkingen De Waterconstante 
+# Uitwerkingen De Waterconstante
 
 ---
 
@@ -39,8 +39,6 @@ $[OH^-] = \frac{10^{-14}}{3,7 \cdot10^{-12}} = 2,7\cdot10^{-3} \ mol/L$
 
 b. Deze oplossing is basisch  
 
-
 ---
 
 [Terug naar de hoofdpagina ](../index.md)
-

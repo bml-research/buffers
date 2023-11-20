@@ -34,8 +34,6 @@ $C_9H_8O_4 + H_2O \rightleftarrows C_9H_7O_4^- + H_3O^+$
 
 $C_{10}H_{14}N_2 + H_2O \rightleftarrows C_{10}H_{15}N_2^++ OH^-$  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

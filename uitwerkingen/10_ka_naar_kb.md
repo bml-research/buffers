@@ -24,8 +24,6 @@ b. $C_{10}H_{15}N_2^+$
 c. $K_a = \frac{10^{-14}}{1,05\cdot10^{-4}} = 9,52\cdot10^{-9}$  
 d. $K_b = \frac{[C_{10}H_{14}N_2][H_3O^+]}{[C_{10}H_{15}N_2^+]}$  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

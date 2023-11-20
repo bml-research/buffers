@@ -3,7 +3,7 @@
 
 [Terug naar de hoofdpagina ](../index.md)
 
-# Uitwerkingen Baseconstanten 
+# Uitwerkingen Baseconstanten
 
 ---
 
@@ -35,8 +35,7 @@ Ethylamine is een sterkere base dan pyridine. De basenconstante (Kb) van ethylam
 
 Op basis van de basenconstante kan worden geconcludeerd dat ethylamine een sterkere base is dan pyridine.  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
 

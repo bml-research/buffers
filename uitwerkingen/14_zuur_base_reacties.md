@@ -22,8 +22,6 @@ $KOH + C_9H_8O_4 \rightarrow K^+ + C_9H_7O_4^- + H_2O$
 
 $C_{13}H_{18}O_2 + C_8H_9NO_2  \rightleftarrows C_{13}H_{17}O_2^- + C_8H_{10}NO_2^+$  
 
-
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

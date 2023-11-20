@@ -14,7 +14,6 @@
 a. Oplossingen 1 en 3  
 b. Oplossing 3 (grotere buffercapaciteit)  
 
-
 ### Opgave 2
 
 a.  
@@ -48,7 +47,6 @@ Bij pH = 2,1 en pH = 12,3 want dit ligt dicht bij de andere pKa waarden.
 $pK_a1 = -\log{7,3 \cdot 10^{-3}} = 2,1$  
 $pK_a3 = -\log{4,8 \cdot 10^{-13}} = 12,3$  
 
-
 ### Opgave 3
 
 Het belangrijkste zuur-base paar voor de buffering bij pH = 10,40 is $HCO_3^-$ (zuur) en $CO_3^{2-}$ (base).  
@@ -59,8 +57,6 @@ $\log{\frac{[A^-]}{[HA]}} = 10,40 - 10,25 = 0,15$
 $\frac{[A^-]}{[HA]} = 10^{0,15} = 1,41$  
 Dus:  
 $[CO_3^{2-}]:[HCO^{3-}] = 1,41:1$  
-
-
 
 ### Opgave 4
 
@@ -76,7 +72,6 @@ $\frac{[A^-]}{[HA]} = \frac{0,447}{1}$
 $[HA] = \frac{1}{0,447 + 1} * 100\% = 69\%$  
 
 Dus percentage $C_6H_8O_7$ = 69%  
-
 
 c.  
 $pK_{a3} = -\log{4,1 \cdot 10^{-7}} = 6,4$  
@@ -98,15 +93,17 @@ De $pK_a$ van 6,4 is zuur.
 Dicht bij de $pK_a$ is de buffercapaciteit het hoogst.  
 
 g.  
+Deze opgave klopt niet. Het betreft immers (zoals nu geformuleerd) geen buffer. Een betere opgave zou zijn:  
 
 Je hebt een buffer van 1 deciliter 1,0 M citroenzuur bij pH = 2,8.  
 Hieraan voeg je 1,5 ml 10 M NaOH toe. Wat zal de pH van de oplossing worden?  
+
+De uitwerking wordt dan:  
 
 $V_{citroenzuur} = 0,1 \ L$  
 $c_{citroenzuur} = 1 \ M$  
 $n_{citroenzuur} = 1 \cdot 0,1 = 0,1 \ mol$  
 $pH = 2,8$  
-
 
 $V_{NaOH} = 0,015 \ L$  
 $c_{NaOH} = 10 \ M$  
@@ -142,7 +139,6 @@ $pH = pKa + \log{\frac{[A^-]}{[HA]}}$
 $pH = 3,15 + log{\frac{0,046}{0,054}}$  
 $pH = 3,08$  
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

@@ -10,6 +10,7 @@
 ## Meerwaardige Zuren
 
 ### Opgave 1
+
 a.  
 $C_6H_8O_7 + H_2O \rightleftarrows C_6  H_7O_7^- + H_3O^+$  
 $C_6H_7O_7^- + H_2O \rightleftarrows C_6H_6O_7^{2-} + H_3O^+$  
@@ -22,7 +23,6 @@ $K_{a1} = \frac{[C_6H_7O_7^-][H_3O^+]}{[C_6H_8O_7]}$
 $K_{a2} = \frac{[C_6H_6O_7^{2-}][H_3O^+]}{[C_6H_7O_7^-]}$  
 
 $K_{a3} = \frac{[C_6H_5O_7{3-}][H_3O+]}{[C_6H_6O_7^{2-}]}$  
-
 
 c.  
 $C_6H_8O_7$ (zuur) en $C_6H_7O_7^-$ (geconjugeerde base)  
@@ -142,7 +142,6 @@ f.
 $K_{b1}$, want $C_2O_4^{2-}$ reageert in de eerste reactie van de basen als base.  
 $C_2O_4^{2-}$ heeft geen Ka, want het is geen zuur.  
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

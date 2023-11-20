@@ -24,7 +24,7 @@ $x = \frac{-b\pm\sqrt{b^2-4ac}}{2a} = \frac{-1,9\cdot10^{-23}\pm\sqrt{-1,9\cdot1
 $x = -6,61\cdot10^{-13}\  mol$  
 $x = 6,61\cdot10^{-13}\  mol$  
 Omrekenen naar massa:  
-$M_{w \ CaO} = 56.0774 \ mol/g$  
+$M_{w \ CaO} = 56.0774 \ g/mol$  
 $m=n\cdot M_w = 6,62\cdot10^{-13} \cdot 56,0774 = 3,71\cdot10^{-11} \ g$  
 
 Of (eenvoudiger):  
@@ -35,9 +35,8 @@ $K_{eq} = \frac{x \cdot x}{[CaCO_3] -0} = 1,9\cdot10^{-23}$
 $x^2 = 1,9\cdot10^{-23} \cdot 0,023 = 4,37 \cdot10^{-25}$  
 $x = \sqrt{4,37 \cdot10^{-25}} = 6,61 \cdot10^{-13} \ mol$  
 Omrekenen naar massa:  
-$M_{w \ CaO} = 56.0774 \ mol/g$  
+$M_{w \ CaO} = 56.0774 \ g/mol$  
 $m=n\cdot M_w = 6,62\cdot10^{-13} \cdot 56,0774 = 3,71\cdot10^{-11} \ g$  
-
 
 ### Opgave 1
 
@@ -55,7 +54,7 @@ $x = \frac{-b\pm\sqrt{b^2-4ac}}{2a} = \frac{-1,9\cdot10^{-23}\pm\sqrt{(-1,9\cdot
 $x = -9,75\cdot10^{-13}\  mol$  
 $x = 9,75\cdot10^{-13}\  mol$  
 Omrekenen naar massa:  
-$M_{w \ CaO} = 56,0774 \ mol/g$  
+$M_{w \ CaO} = 56,0774 \ g/mol$  
 $m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56,0774 = 5,47\cdot10^{-11} \ g$  
 
 Of (eenvoudiger):  
@@ -70,9 +69,8 @@ $x^2 = 1,9\cdot10^{-23} \cdot 0,05 = 9,5 \cdot10^{-25}$
 $x = \sqrt{9,5 \cdot10^{-25}} = 9,75 \cdot10^{-13} \ mol$  
 
 Omrekenen naar massa:  
-$M_{w \ CaO} = 56,0774 \ mol/g$  
+$M_{w \ CaO} = 56,0774 \ g/mol$  
 $m=n\cdot M_w = 9,75\cdot10^{-13} \cdot 56,0774 = 5,47\cdot10^{-11} \ g$  
-
 
 ### Opgave 2
 
@@ -109,7 +107,6 @@ $K_{eq} = \frac{[H]^2}{[H_2]}$
 
 ### Opgave 4
 
-
 $S_2 + 2H_2 \rightleftarrows 2H_2S$  
 
 $K_{eq} =\frac{[H_2S]^2}{[S_2]} \cdot [H_2]^2$  
@@ -136,7 +133,6 @@ $889< 6,9\cdot10^5$
 
 Er zal meer product gevormd worden om het in evenwicht te brengen. Dus reactie zal dus naar rechts verschuiven.  
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-

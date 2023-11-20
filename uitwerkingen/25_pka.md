@@ -16,7 +16,6 @@
 |Phosphoric     |$H_3PO_4$            |2.12       |7.21       |12.32    |
 |Tris           |$C_4H_{11}NO_3$     |8.08       |           |         |
 
---- 
+---
 
 [Terug naar de hoofdpagina ](../index.md)
-
