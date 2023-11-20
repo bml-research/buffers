@@ -40,6 +40,7 @@
 - [Amfolieten](./uitwerkingen/16_amfolieten.md)
 - [Buffers](./uitwerkingen/17_buffers.md)
 - [Buffers en nu oefenen oefenen oefenen](./uitwerkingen/18_buffers_oefenen.md)
+- [Extra Oefenopgaven](./uitwerkingen/19_extra_oefenopgaven.md)
 
 
 ## Bijlagen:
