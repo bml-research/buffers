@@ -24,6 +24,8 @@ d.
 $pH = 14 - 7,8 = 6,2$  
 e.  
 Niet te zeggen. Verhoudingen zuur/base niet bekend.  
+>Let op: op een tentamen wordt geen strikvraag gesteld!
+
 f.  
 Niet te zeggen. Verhoudingen zuur/base niet bekend.  
 Merk op dat de $K_a$ gelijk is aan de voorgaande opgave:  
@@ -31,7 +33,7 @@ $K_b = 5,9 \cdot 10^{-10}$
 $pK_b = -\log{5,9 \cdot 10^{-10}} = 9,23$  
 $pK_a = 14 - 9,23 = 4,77$  
 $K_a = 10^{-4,77} = 1,7 \cdot 10^{-5}$  
-
+>Let op: op een tentamen wordt geen strikvraag gesteld!
 
 ### Opgave 2
 
@@ -61,6 +63,27 @@ $\frac{[A^-]}{[HA]} = 10^{6,7-7,09} = 0,407 = \frac{0,407}{1}$
 Dus:  
 $V_{NaH_2PO_4} = \frac{375}{1,407} = 266 \ mL$  
 $V_{Na_2HPO_4} = 375 - 266 = 109 \ mL$  
+
+### Opgave 3
+
+a.  
+$[H_3O^+] = 10^{-2,7} = 2,0 \cdot 10^{-3}$  
+$[OH^-] = 10^{-(14-2,7)} = 5,0 \cdot 10^{-12}$  
+b.  
+$[H_3O^+] = 10^{-13,4} = 4,0 \cdot 10^{-14}$  
+$[OH^-] = 10^{-(14-13,4)} = 2,5 \cdot 10^{-1}$  
+c.  
+$pK_a = 4,8$  
+$K_a = 10^{-4,8} = 1,6 \cdot 10^{-5}$  
+$x = [H^+] = \sqrt{0,1 \cdot 1,6 \cdot 10^{-5}} = 1,26 \cdot 10^{-3} \ M$  
+$pH = -\log{1,26 \cdot 10^{-3}} = 2,9$  
+$pOH = 14 - 2,9 = 11,1$  
+$[OH^-] = 10^{-11,1} = 7,9 \cdot 10^{-12} \ M$  
+d.  
+$x = [H^+] = \sqrt{0,01 \cdot 1,7 \cdot 10^{-5}} = 4,12 \cdot 10^{-4} \ M$  
+$pH = -\log{4,12 \cdot 10^{-4}} = 3,4$  
+$pOH = 14 - 3,4 = 10,6$  
+$[OH^-] = 10^{-10,6} = 2,4 \cdot 10^{-11}$  
 
 ---
 
