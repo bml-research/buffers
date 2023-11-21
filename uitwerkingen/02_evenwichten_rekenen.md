@@ -86,11 +86,11 @@ $V = 20\ L$
 
 $c_{N_2} = \frac{1,57}{20} = 0,0785 \ mol/L$  
 $c_{H_2} = \frac{1,92}{20} = 0,096 \ mol/L$  
-$c_{NH_3} = \frac{8,13}{20} = 0,415 \ mol/L$  
+$c_{NH_3} = \frac{8,13}{20} = 0,407 \ mol/L$  
 
 Dus:  
 
-$Q = \frac{(0,4065)^2}{(0,0785 * (0,096)^3} = 2379$  
+$Q = \frac{(0,407)^2}{(0,0785 * (0,096)^3} = 2379$  
 
 >2379 > 170 dus meer product dan verwacht  
 Evenwicht schuift dus naar links  
