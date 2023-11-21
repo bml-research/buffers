@@ -85,6 +85,24 @@ $pH = -\log{4,12 \cdot 10^{-4}} = 3,4$
 $pOH = 14 - 3,4 = 10,6$  
 $[OH^-] = 10^{-10,6} = 2,4 \cdot 10^{-11}$  
 
+### Opgave 4
+
+a.  
+$M_w = 46,03 g/mol$  
+$n = \frac{m}{M_w} = \frac{0,237}{46,03} = 5,15 \cdot 10^{-3} \ mol$  
+$c = \frac{n}{V} = \frac{5,15 \cdot 10^{-3}}{0,150} = 0,034 \ mol/L$  
+b.  
+$M_w = 74,079 g/mol$  
+$n = \frac{m}{M_w} = \frac{0,875}{74,079} = 0,0118 \ mol$  
+$c = \frac{n}{V} = \frac{0,0118}{0,075} = 0,157 \ mol/L$  
+c.  
+$c = 50 \ ppm = 50 \ mg/L$  
+$M_w = 46,03 g/mol$  
+$n = \frac{m}{M_w} = \frac{0,050}{46,03} = 1,09 \cdot 10^{-3} \ mol$  
+$c = \frac{n}{V} = \frac{1,09 \cdot 10^{-3} }{150} = 7,24 \cdot 10{-3} \ mol/L$  
+
+### Opgave 5
+
 ---
 
 [Terug naar de hoofdpagina ](../index.md)
