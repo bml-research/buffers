@@ -17,7 +17,7 @@ Dus:
 
 $[OH^-] = \frac{10^{-14}}{7,9 \cdot10^{-5}} = 1,3\cdot10^{-10} \ mol/L$  
 
-b. Deze oplossing is zuur  
+b. Deze oplossing is zuur want $[H_3O^+] >[OH^-]$  
 
 ### Opgave 2
 
@@ -27,7 +27,7 @@ Dus:
 
 $[H_3O^+] = \frac{10^{-14}}{1 \cdot10^{-4,5}} = 3,2\cdot10^{-10} \ mol/L$  
 
-b. Deze oplossing is basisch  
+b. Deze oplossing is basisch want $[H_3O^+] < [OH^-]$  
 
 ### Opgave 3
 
@@ -37,7 +37,7 @@ Dus:
 
 $[OH^-] = \frac{10^{-14}}{3,7 \cdot10^{-12}} = 2,7\cdot10^{-3} \ mol/L$  
 
-b. Deze oplossing is basisch  
+b. Deze oplossing is basisch want $[H_3O^+] < [OH^-]$  
 
 ---
 
