@@ -147,6 +147,32 @@ $x^2 = 2,0 \cdot 10^{-3} \cdot 1,00 = 2,0 \cdot 10^{-3}$
 $[H_3O^+] = \sqrt{2,0 \cdot 10^{-3}} = 0,0447$  
 $pH = -\log{0,0447} = 1,4$  
 
+### Opgave 9
+
+$pK_a = -\log{8,2 \cdot 10^{-8}} = 7,09$  
+$pH = pK_a + \log \frac{A^-}{HA}$  
+$6,3 = 7,09 + \log \frac{A^-}{HA}$  
+$\log \frac{A^-}{HA} = 6,3 - 7,09 = -0,79$  
+$\frac{A^-}{HA} = 10^{-0,79} = 0,162 = \frac{0,162}{1}$ (1,162 delen)  
+Dus:  
+$HA = \frac{150}{1,162} = 129 \ mL$  
+$A^- = 150 - 129 = 21 \ mL$  
+
+Dus 129 mL  0,05 M $KH_2PO_4$ en 21 mL 0,05 M $K_2HPO_4$.  
+
+### Opgave 10
+
+>Let op: De pijl ontbreekt.
+
+Opgave moet zijn:
+
+$Q(aq) + Z(aq) + energie \rightleftarrows V(aq) + X(g)$  
+
+a. Naar rechts (meer gas)  
+b. Naar rechts (zodat de temperatuur verlaagt)  
+c. Naar rechts.  
+d. Niets, een katalysator versnelt het bereiken van het evenwicht maar verandert de ligging er van niet.  
+
 
 
 ---
