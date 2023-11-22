@@ -19,9 +19,11 @@ c.
 $c = 0,01 \ M$  
 $K_a = 1,7 \cdot 10^{-5}$  
 $x = \sqrt{0,01 \cdot 1,7 \cdot 10^{-5}} = 4,12 \cdot 10^{-4} \ M$  
-$pH = -\log{4,12 \cdot 10^{-4}} = 7,8$  
+$pH = -\log{4,12 \cdot 10^{-4}} = 3,4$  
 d.  
-$pH = 14 - 7,8 = 6,2$  
+$K_b = \frac{10^{-14}}{1,7 \cdot 10^{-5}} = 5,9 \cdot 10^{-10}$  
+$x = \sqrt{0,01 \cdot 5,9 \cdot 10^{-10}} = 2,43 \cdot 10^{-6} \ M$  
+$pH = -\log{2,43 \cdot 10^{-6}} = 5,6$  
 e.  
 Niet te zeggen. Verhoudingen zuur/base niet bekend.  
 >Let op: op een tentamen wordt geen strikvraag gesteld!
