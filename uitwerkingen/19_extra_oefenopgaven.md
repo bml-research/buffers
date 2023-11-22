@@ -99,7 +99,7 @@ c.
 $c = 50 \ ppm = 50 \ mg/L$  
 $M_w = 46,03 g/mol$  
 $n = \frac{m}{M_w} = \frac{0,050}{46,03} = 1,09 \cdot 10^{-3} \ mol$  
-$c = \frac{n}{V} = \frac{1,09 \cdot 10^{-3} }{150} = 7,24 \cdot 10{-3} \ mol/L$  
+$c = \frac{n}{V} = \frac{1,09 \cdot 10^{-3} }{150} = 7,24 \cdot 10^{-3} \ mol/L$  
 
 ### Opgave 5
 
