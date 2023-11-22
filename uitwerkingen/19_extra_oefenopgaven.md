@@ -25,7 +25,7 @@ $K_b = \frac{10^{-14}}{1,7 \cdot 10^{-5}} = 5,9 \cdot 10^{-10}$
 $x = \sqrt{0,01 \cdot 5,9 \cdot 10^{-10}} = 2,43 \cdot 10^{-6} \ M$  
 Dus:  
 $[OH^-] = 2,43 \cdot 10^{-6} \ M$  
-$[H_3O^+] = \frac{10^{-14}}{2,43 \cdot 10^{-6}} = 4,12 \cdot 10^{-9}$  
+$[H_3O^+] = \frac{10^{-14}}{2,43 \cdot 10^{-6}} = 4,12 \cdot 10^{-9} \ M$  
 $pH = -\log{4,12 \cdot 10^{-9}} = 8,4$  
 e.  
 Niet te zeggen. Verhoudingen zuur/base niet bekend.  
