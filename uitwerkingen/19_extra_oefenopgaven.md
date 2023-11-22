@@ -134,6 +134,19 @@ Dit valt niet onder de huidige lesstof.
 
 ### Opgave 8
 
+a.  
+$C_8H9NO_5 + H_2O \rightleftarrows C_8H_8NO_5^- + H_3O^+$  
+b.  
+$K_a = \frac{[C_8H_8NO_5^-] [H_3O^+]}{[C_8H9NO_5]}$  
+c.  
+$n = \frac{0,2}{199,2} = 1,00 \cdot 10^{-3} \ mol$  
+$c = \frac{n}{V} = \frac{1,00 \cdot 10^{-3}}{1,00 \cdot 10^{-3}} = 1,00 \ M$  
+d.  
+$K_a = 10^-2,7 = 2,0 \cdot 10^{-3}$  
+$x^2 = 2,0 \cdot 10^{-3} \cdot 1,00 = 2,0 \cdot 10^{-3}$  
+$[H_3O^+] = \sqrt{2,0 \cdot 10^{-3}} = 0,0447$  
+$pH = -\log{0,0447} = 1,4$  
+
 
 
 ---
