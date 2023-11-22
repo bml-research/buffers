@@ -109,12 +109,31 @@ $c = 100 \ \mu M$
 $V = \frac{n}{c} = \frac{0,0215}{100} = 2,15 \cdot 10^{-4} L = 0,215 \ mL = 215 \ \mu L$  
 b.  
 $V_2 = \frac{c_1 \cdot V_1}{c_2} = \frac{100  \cdot 1}{0,1} = 1000 \ \mu L$  
-Omdat je al 1 ul hebt dus nog 999 μL toevoegen.  
+Omdat je al 1 μL hebt dus nog 999 μL toevoegen.  
 c.  
 $n = \frac{25}{199,2} = 0,126 \ \mu mol$  
 $V = \frac{n}{c} = \frac{0,126}{100} = 1,26 \cdot 10^{-3} \ L = 1,26 \ mL$  
 
 ### Opgave 6
+a.  
+$V_1 = \frac{c_2 \cdot V_2}{c_1} = \frac{100 \cdot 2}{100} = 2 \ \mu L$  
+Dus 2 μL stock aanvullen tot 100 μL met water.  
+b.  
+$m = 10\% (w/v) = 10 \ g/100 \ mL = 1 \ g/10 mL$  
+c.  
+$n = c \cdot V = 5,56 \cdot 10^{-3} \cdot 0,010 = 5,56 \cdot 10^{-5}\ mol$  
+$m = n \cdot M_w = 5,56 \cdot 10^{-5} \cdot 180 = 0,010 \ g = 10 \ mg$  
+Dus 10 mg glucose afwegen en aanvullen tot 10 mL.  
+d.  
+25 μL stock en 75 μL water.  
+
+### Opgave 7
+
+Dit valt niet onder de huidige lesstof.  
+> Mag je overslaan!
+
+### Opgave 8
+
 
 
 ---
