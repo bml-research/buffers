@@ -168,12 +168,10 @@ Opgave moet zijn:
 
 $Q(aq) + Z(aq) + energie \rightleftarrows V(aq) + X(g)$  
 
-a. Naar rechts (meer gas)  
-b. Naar rechts (zodat de temperatuur verlaagt)  
+a. Naar rechts (meer gas).  
+b. Naar rechts (zodat de temperatuur verlaagt).  
 c. Naar rechts.  
 d. Niets, een katalysator versnelt het bereiken van het evenwicht maar verandert de ligging er van niet.  
-
-
 
 ---
 
