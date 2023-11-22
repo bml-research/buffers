@@ -156,6 +156,15 @@ Waarbij:
 $pH = zuurgraad \ (negatieve \ logaritme \ concentratie \ protonen)$  
 $pOH = negatieve \ logaritme \ concentratie \ hydroxide \ ionen$  
 
+### Relatie Ka en Kb
+
+$K_a \cdot K_b = K_w$  
+
+Waarbij:  
+$K_a = dissociatie \ constante \ zuur$  
+$K_b = dissociatie \ constante \ base$  
+$K_w = disssociatie \ constante \ water \ (10^{-14})$  
+
 
 ### Henderson–Hasselbalch equation
 
@@ -188,6 +197,13 @@ Volgens de definitie van 2006 is de constante van Avogadro gelijk aan het aantal
 Maar tegenwoordig is de constante hier niet meer aan gekoppeld.
 
 >De constante van Avogadro is gelijk aan het getal $6,022 \cdot 10^{23}$. Een mol bevat $6,022 \cdot 10^{23}$ moleculen.  
+
+### Waterconstante (Kw)
+
+Water is een bijzonder molecuul. Het is een amfiprotisch molecuul, wat betekent dat het zowel als zuur als base kan optreden. Bovendien kan het met zichzelf reageren tot $H3O^+$ en $OH^-$ in een reactie  die we zelf-ionisatie noemen:  
+$H_2O \rightleftarrows H_3O^+ + OH^-$  
+
+>De constante van de zelf-ionisatie van water noemen we de waterconstante (Kw) en deze is altijd $10^{-14}$.  
 
 ---
 
