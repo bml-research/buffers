@@ -132,6 +132,14 @@ Waarbij:
 $pH = zuurgraad \ (negatieve \ logaritme \ concentratie \ protonen)$  
 $[H^+] = concentratie \ protonen$  
 
+### pOH
+
+$pOH = -\log{[OH^-]}$  
+
+Waarbij:  
+$pOH = negatieve \ logaritme \ concentratie \ hydroxide \ ionen$  
+$[OH^-] = concentratie \ hydroxide \ ionen$  
+
 ### pKa
 
 $pKa = -\log{K_a}$  
@@ -139,6 +147,15 @@ $pKa = -\log{K_a}$
 Waarbij:  
 $pK_a =$ negatieve logaritme van de zuurdissociatie constante  
 $K_a = $ zuurdissociatie constante  
+
+### Relatie pOH en pH
+
+$pH + pOH = 14$  
+
+Waarbij:  
+$pH = zuurgraad \ (negatieve \ logaritme \ concentratie \ protonen)$  
+$pOH = negatieve \ logaritme \ concentratie \ hydroxide \ ionen$  
+
 
 ### Henderson–Hasselbalch equation
 
