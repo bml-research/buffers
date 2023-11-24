@@ -25,15 +25,21 @@ $\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,09 = -0,29$
 $\frac{[A^-]}{[HA]} = 10^{-0,29} = 0,513$  
 dus:  
 $\frac{[A^-]}{[HA]} = \frac{0,513}{1}$  
->vanaf hier verbeteren!
+
+Dus 1,513 delen  
 
 $c = 0,05 \ M$  
 dus:  
-$c_{K_2HPO_4} = \frac{0,05}{2,96} \cdot 1,96 = 0,0332 \ M$  
-$c_{KH_2PO_4} = 0,05 - 0,0332 = 0,0168 \ M$  
+
+$c_{KH_2PO_4} = \frac{0,05}{1,513} = 0,033 \ M$  
+
+$c_{K_2HPO_4} = 0,05 - 0,033 = 0,0169 \ M$  
+
 $n = \frac{m}{M}$  
-$m_{K_2HPO_4} = n \cdot M = 0,0332 \cdot 174 = 5,78 \ g/L = 2,89 \ g/500\ mL$  
-$m_{KH_2PO_4} = n \cdot M = 0,0168 \cdot 136 = 2,28\ g/L = 1,14 \ g/500\ mL$  
+
+$m_{KH_2PO_4} = n \cdot M = 0,033 \cdot 136 = 4,44\ g/L = 2,24 \ g/500\ mL$  
+
+$m_{K_2HPO_4} = n \cdot M = 0,0169 \cdot 174 = 2,95 \ g/L = 1,47 \ g/500\ mL$  
 
 d.  
 2 mL 1M HCl toegevoegd  
@@ -46,19 +52,19 @@ $V = 2 \ mL$
 $c = 1 \ mol/L = 1 \cdot 10^{-3} \ mol/mL = 2 \cdot 10^{-3} \ mol/2 \ mL$  
 Voor toevoegen:  
 
-$pH = 7,09 + \log{\frac{0,0332 \ M}{0,0168 \ M}}$  
+$pH = 7,09 + \log{\frac{0,0168 \ M}{0,0332\ M}}$  
 
 In 500 mL:
 
-$pH = 7,09 + \log{\frac{0,0166 \ mol}{0,0084 \ mol}}$  
+$pH = 7,09 + \log{\frac{0,0084 \ mol}{0,0166 \ mol}}$  
 
 Na toevoegen HCl:  
 
-$n_{base} = 0,0166 - 0,002 = 0,0146 \ mol$  
+$n_{zuur} = 0,0166 + 0,002 = 0,0168 \ mol$  
 
-$n_{zuur} = 0,0084 + 0,002 =  0,0104 \ mol$  
+$n_{base} = 0,0084 - 0,002 =  0,0082 \ mol$  
 
-$pH = 7,09 + \log{\frac{0,0146}{0,0104}} = 8,0$  
+$pH = 7,09 + \log{\frac{0,0168}{0,0082}} = 7,4$  
 
 ### Opgave 2
 
