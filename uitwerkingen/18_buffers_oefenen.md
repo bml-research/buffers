@@ -22,24 +22,24 @@ $pK_a = -\log{8,12 x 10^{-8}} = 7,09$
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
 $6,8 = 7,09 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,09 = -0,29$  
-$\frac{[A^-]}{[HA]} = 10^{-0,29} = 0,513$  
+$\frac{[A^-]}{[HA]} = 10^{-0,29} = 0,5129$  
 dus:  
-$\frac{[A^-]}{[HA]} = \frac{0,513}{1}$  
+$\frac{[A^-]}{[HA]} = \frac{0,5129}{1}$  
 
-Dus 1,513 delen  
+Dus 1,5129 delen  
 
 $c = 0,05 \ M$  
 dus:  
 
-$c_{KH_2PO_4} = \frac{0,05}{1,513} = 0,033 \ M$  
+$c_{KH_2PO_4} = \frac{0,05}{1,5129} = 0,03305 \ M$  
 
-$c_{K_2HPO_4} = 0,05 - 0,033 = 0,0169 \ M$  
+$c_{K_2HPO_4} = 0,05 - 0,03305 = 0,01695 \ M$  
 
 $n = \frac{m}{M}$  
 
-$m_{KH_2PO_4} = n \cdot M = 0,033 \cdot 136 = 4,44\ g/L = 2,24 \ g/500\ mL$  
+$m_{KH_2PO_4} = n \cdot M = 0,03305 \cdot 136 = 4,49\ g/L = 2,25 \ g/500\ mL$  
 
-$m_{K_2HPO_4} = n \cdot M = 0,0169 \cdot 174 = 2,95 \ g/L = 1,47 \ g/500\ mL$  
+$m_{K_2HPO_4} = n \cdot M = 0,01695 \cdot 174 = 2,95 \ g/L = 1,47 \ g/500\ mL$  
 
 d.  
 2 mL 1M HCl toegevoegd  
@@ -52,19 +52,19 @@ $V = 2 \ mL$
 $c = 1 \ mol/L = 1 \cdot 10^{-3} \ mol/mL = 2 \cdot 10^{-3} \ mol/2 \ mL$  
 Voor toevoegen:  
 
-$pH = 7,09 + \log{\frac{0,0168 \ M}{0,0332\ M}}$  
+$pH = 7,09 + \log{\frac{0,01695 \ M}{0,03305\ M}}$  
 
 In 500 mL:
 
-$pH = 7,09 + \log{\frac{0,0084 \ mol}{0,0166 \ mol}}$  
+$pH = 7,09 + \log{\frac{0,0085 \ mol}{0,0165 \ mol}}$  
 
 Na toevoegen HCl:  
 
-$n_{zuur} = 0,0166 + 0,002 = 0,0168 \ mol$  
+$n_{zuur} = 0,0165 + 0,002 = 0,0167 \ mol$  
 
-$n_{base} = 0,0084 - 0,002 =  0,0082 \ mol$  
+$n_{base} = 0,0085 - 0,002 =  0,0082 \ mol$  
 
-$pH = 7,09 + \log{\frac{0,0168}{0,0082}} = 7,4$  
+$pH = 7,09 + \log{\frac{0,0167}{0,0082}} = 7,4$  
 
 ### Opgave 2
 
