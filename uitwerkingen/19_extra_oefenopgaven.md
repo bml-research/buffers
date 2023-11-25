@@ -3,11 +3,11 @@
 
 [Terug naar de hoofdpagina ](../index.md)
 
-# Uitwerkingen Extra Oefenopgraven
+# Uitwerkingen Extra Oefenopgaven
 
 ---
 
-## Extra Oefenopgraven
+## Extra Oefenopgaven
 
 ### Opgave 1
 
