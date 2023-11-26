@@ -86,7 +86,7 @@ Dat betekent dat $H_2SO_4$ een sterk zuur (en $HSO_4^-$ is een zwak zuur).
 ### Opgave 3
 
 a.  
-$Na^+ + CO_3^{2-} + H_2O \rightleftarrows HCO_ 3^- + OH^- + Na^+$  
+$2Na^+ + CO_3^{2-} + H_2O \rightleftarrows HCO_ 3^- + OH^- + 2Na^+$  
 
 b.  
 Het natrium kun je wegstrepen uit de reactie. Het doet verder niets met de reactie (toeschouwer) en je kunt hem daarom wegstrepen. Dit maakt het opstellen van de evenwichtsvoorwaarde een stuk overzichtelijker:  
