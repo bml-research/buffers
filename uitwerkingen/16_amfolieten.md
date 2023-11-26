@@ -37,6 +37,8 @@ De $K_b$ kun je omrekenen uit de $K_{a1}$ van $H_2CO_3$ ($4,3 \cdot 10^{-7}$).
 $pK_b = -\log{4,3 \cdot 10^{-7}} = 6,37$  
 $pK_a = 14 - 6,87 = 7,63$  
 $K_b = 10^{-7,63} = 2,3 \cdot 10^{-8}$  
+Of:  
+$K_b = \frac{K_w}{K_a} = \frac{10^{-14}}{4,3 \cdot 10^{-7}} = 2,3 \cdot 10^{-8}$  
 
 f.  
 Als base, dit amfoliet is een sterkere base dan een zuur want de $K_b$ is groter dan de $K_a$.  
