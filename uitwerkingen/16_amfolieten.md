@@ -32,8 +32,9 @@ $HCO_3^- + H_2O \rightleftarrows CO_3^{2-} + H_3O^+$    (2)
 Het is dus de tweede $K_a$ in de tabel.  
 
 e.  
-
-De $K_b$ kun je omrekenen uit de $K_{a1}$ van $H_2CO_3$ ($4,3 \cdot 10^{-7}$).  
+De $K_b$ van $HCO3^-$ kun je omrekenen uit de $K_{a1}$ van $H_2CO_3$ ($4,3 \cdot 10^{-7}$).  
+Het betreft immers de reactie:  
+$HCO_3^- + H_2O \rightleftarrows H_2CO_3 + OH^-$  
 $pK_b = -\log{4,3 \cdot 10^{-7}} = 6,37$  
 $pK_a = 14 - 6,87 = 7,63$  
 $K_b = 10^{-7,63} = 2,3 \cdot 10^{-8}$  
@@ -66,7 +67,7 @@ $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$ (2)
 Dus de tweede reactie.  
 
 De $K_b$ van $H_2PO4^-$ kun je omrekenen uit de $K_{a1}$ van $H_3PO_4$ ($7,5 \cdot 10^{-3}$).  
-Het is immers de omgekeerde reactie:  
+Het betreft immers de reactie:  
 $H_2PO_4^- + H_2O \rightleftarrows  H_3PO_4 + OH^-$  
 $pK_a = -\log{7,5 \cdot 10^{-3}} = 2,12$  
 $pK_b = 14 - 2,12 = 11,88$  
