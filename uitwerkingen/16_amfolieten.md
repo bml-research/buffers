@@ -57,7 +57,7 @@ $K_a = \frac{[HPO_4^{2-}][H_3O^+]}{[H_2PO_4^-]}$
 
 $K_b = 	\frac{[H_3PO_4][OH^-]}{[H_2PO_4^-]}$  
 
-c.
+c.  
 $K_a = 6,2 \cdot 10^{-8}$  
 Dit is de $pK_{a2}$ van $H_3PO_4$  
 want:  
