@@ -21,12 +21,30 @@ $K_a = 1,7 \cdot 10^{-5}$
 $x = \sqrt{0,01 \cdot 1,7 \cdot 10^{-5}} = 4,12 \cdot 10^{-4} \ M$  
 $pH = -\log{4,12 \cdot 10^{-4}} = 3,4$  
 d.  
+Merk op dat het hier een base betreft:  
+$CH_3COO^- + H_2O \rightleftarrows CH_3COOH + OH^-$  
+De $K_b$ is dus te berekenen vanuit de $K_a$:  
 $K_b = \frac{10^{-14}}{1,7 \cdot 10^{-5}} = 5,9 \cdot 10^{-10}$  
+Nu we de $K_b$ hebben kunnen we de evenwichtsvoorwaarde opstellen:  
+
+$K_b = \frac{[CH_3COOH][OH^-]}{[CH_3COO^-]}$  
+
+$K_b = \frac{x \cdot x}{0,01 - x}$  
+
+Omdat $\frac{[CH_3COO^-]}{K_b} > 100$ mogen we x verwaarlozen in de min som:  
+
 $x = \sqrt{0,01 \cdot 5,9 \cdot 10^{-10}} = 2,43 \cdot 10^{-6} \ M$  
 Dus:  
 $[OH^-] = 2,43 \cdot 10^{-6} \ M$  
+Van hieruit kunnen we weer de concentratie protonen berekenen:  
 $[H_3O^+] = \frac{10^{-14}}{2,43 \cdot 10^{-6}} = 4,12 \cdot 10^{-9} \ M$  
 $pH = -\log{4,12 \cdot 10^{-9}} = 8,4$  
+
+Andere mogelijkheid:  
+
+$pOH = -\log{2,43 \cdot 10^{-6}} = 5,61$  
+$pH = 14 - 5,61 = 8,4$  
+
 e.  
 Niet te zeggen. Verhoudingen zuur/base niet bekend.  
 >Let op: op een tentamen wordt geen strikvraag gesteld!
