@@ -48,6 +48,8 @@ $K_{b3} = \frac{[C_6H_8O_7][OH^-]}{[C_6H_7O_7^-]}$
 f.  
 $K_{b2}$, want $C_6H_6O_7^{2-}$ reageert als base in de tweede reactie van de basen. En $K_{a3}$, want $C_6H_6O_7^{2-}$ reageert als zuur in de derde reactie van de zuren.  
 
+> Tip: zoek naar $C_6H_6O_7^{2-}$ in de noemer van opgave b en e. Daar is $C_6H_6O_7^{2-}$ immers reactant!  
+
 ### Opgave 2
 
 a.  
