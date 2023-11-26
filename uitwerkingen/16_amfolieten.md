@@ -46,8 +46,9 @@ Als base, dit amfoliet is een sterkere base dan een zuur want de $K_b$ is groter
 ### Opgave 2
 
 a.  
+Zuur:  
 $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$  
-
+Base:  
 $H_2PO_4^- + H_2O \rightleftarrows H_3PO_4 + OH^-$  
 
 b.  
