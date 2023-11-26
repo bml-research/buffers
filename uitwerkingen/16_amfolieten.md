@@ -89,6 +89,8 @@ De $K_b$ kun je omrekenen uit de $K_{a1}$ van $C_6H_8O_6$ ($7,1 \cdot 10^{-4}$).
 $pK_a = -\log{7,1 \cdot 10^{-4}} = 3,15$  
 $pK_b = 14 - 3,15 = 10,85$  
 $K_b = 10^{-10,85} = 1,4 \cdot 10^{-11}$  
+Of:  
+$K_b = \frac{K_w}{K_a} = \frac{10^{-14}}{7,1 \cdot 10^{-4}} = 1,4 \cdot 10^{-11}$  
 Dit amfoliet is een sterker zuur dan base want de $K_a$ is groter dan de $K_b$.  
 
 ---
