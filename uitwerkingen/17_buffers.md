@@ -1,7 +1,7 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
-[Terug naar de hoofdpagina ](../index.md)
+[Terug naar de hoofdpagina](../index.md)
 
 # Uitwerkingen Buffers
 
@@ -128,7 +128,6 @@ dus:
 $c_{HA} = 69\% \cdot 0,1 = 0,069 \ mol$  
 $c_{A^-} = 31\% \cdot 0,1 = 0,031 \ mol$  
 
-
 Na de toevoeging NaOH:  
 $[A^-] = 0,031 + 0,015 = 0,046 \ mol$  
 $[HA] = 0,069 - 0,015 =  0,054 \ mol$  
@@ -141,4 +140,4 @@ $pH = 3,08$
 
 ---
 
-[Terug naar de hoofdpagina ](../index.md)
+[Terug naar de hoofdpagina](../index.md)
