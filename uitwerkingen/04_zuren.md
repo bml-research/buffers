@@ -45,4 +45,4 @@ Let op dat de pijl naar rechts staat (aflopende reactie).
 
 ---
 
-[Terug naar de hoofdpagina ](../index.md)
+[Terug naar de hoofdpagina](../index.md)
