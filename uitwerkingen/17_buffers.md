@@ -31,7 +31,7 @@ c.
 Als zuur want de $K_{a2}$ is hoger dan de $K_b$ waarde.  
 
 d.  
-$H_2PO_4^{2-}$ (zuur) en $HPO_4^{2-}$ (base)  
+$H_2PO_4^{-}$ (zuur) en $HPO_4^{2-}$ (base)  
 
 e.  
 $pH = pKa + \log{\frac{[A^-]}{[HA]}}$  
@@ -40,7 +40,7 @@ $\log{\frac{[A^-]}{[HA]}} = 7,4 - 7,2 = 0,2$
 $\frac{[A^-]}{[HA]} = 10^{0,2} = 1,6$  
 $\frac{[A^-]}{[HA]} = \frac{1,6}{1}$  
 
-$[HPO_4^{2-}]: [HPO_4^{2-}] = 1,6:1$  
+$[HPO_4^{2-}]: [H_2PO_4^{-}] = 1,6:1$  
 
 f.  
 Bij pH = 2,1 en pH = 12,3 want dit ligt dicht bij de andere pKa waarden.  
@@ -54,9 +54,9 @@ $pH = pKa + \log{\frac{[A^-]}{[HA]}}$
 $pK_a = -\log{5,6 \cdot 10^{-11}} = 10,25$  
 $10,40 = 10,25 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 10,40 - 10,25 = 0,15$  
-$\frac{[A^-]}{[HA]} = 10^{0,15} = 1,41$  
+$\frac{[A^-]}{[HA]} = 10^{0,15} = 1,41 = \frac{1,41}{1}$  
 Dus:  
-$[CO_3^{2-}]:[HCO^{3-}] = 1,41:1$  
+$[CO_3^{2-}]:[HCO_3^-] = 1,41:1$  
 
 ### Opgave 4
 
