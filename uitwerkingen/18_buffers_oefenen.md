@@ -64,7 +64,9 @@ $n_{zuur} = 0,0165 + 0,002 = 0,0167 \ mol$
 
 $n_{base} = 0,0085 - 0,002 =  0,0082 \ mol$  
 
-$pH = 7,09 + \log{\frac{0,0167}{0,0082}} = 7,4$  
+$pH = 7,09 + \log{\frac{0,0082}{0,0167}} = 6,8$  
+
+De pH blijft dus nagenoeg gelijk.  
 
 ### Opgave 2
 
