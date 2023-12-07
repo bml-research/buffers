@@ -60,13 +60,13 @@ $pH = 7,09 + \log{\frac{0,0085 \ mol}{0,0165 \ mol}}$
 
 Na toevoegen HCl:  
 
-$n_{zuur} = 0,0165 + 0,002 = 0,0167 \ mol$  
+$n_{zuur} = 0,0165 + 0,0020 = 0,0185 \ mol$  
 
-$n_{base} = 0,0085 - 0,002 =  0,0082 \ mol$  
+$n_{base} = 0,0085 - 0,0020 =  0,0065 \ mol$  
 
-$pH = 7,09 + \log{\frac{0,0082}{0,0167}} = 6,8$  
+$pH = 7,09 + \log{\frac{0,0065}{0,0185}} = 6,6$  
 
-De pH blijft dus nagenoeg gelijk.  
+De pH wordt dus maar een beetje lager.  
 
 ### Opgave 2
 
