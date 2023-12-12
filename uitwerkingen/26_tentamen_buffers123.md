@@ -20,6 +20,7 @@ $pK_{a3} = -\log{4,2 \cdot 10^{–13}} = 12,4$
 Dus gebruiken zuur/base paar dat het dichtst bij de pKa ligt:
 Zuur/Base:
 $H_2PO_4^-/HPO_4^{2-}$ [1p]  
+De zuur/base paar met Ka2 ook goed.  
 
 e.  
 $pH = -\log{0.01} = 2,0$  
