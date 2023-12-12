@@ -23,7 +23,8 @@ $H_2PO_4^-/HPO_4^{2-}$ [1p]
 De zuur/base paar met $K_{a2}$ ook goed.  
 
 e.  
-$pH = -\log{0.01} = 2,0$  
+$pH = -\log{0.01}$ [1p]  
+$pH  = 2,0$ [1p]  
 
 ## Opgave 2
 
