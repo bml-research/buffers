@@ -42,7 +42,7 @@ $V_{K_2HPO_4} = 275 - 90 = 185 \ mL$ [3p]
 Indien methodiek wel goed maar zuur en base omgekeerd dan voor laatste onderdeel: [2p]  
 c.  
 $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$ [2p]  
--1p indien kleine fout zoals lading vergeten  
+-1p indien kleine fout zoals lading links en rechts niet kloppend.  
 d.  
 $V_{10 \ druppels} = 0,5 \ mL = 0,5 \cdot 10^{-3} \ L$  
 $n = c \cdot V = 1 \cdot 0,5 \cdot 10^{-3} = 0,5 \cdot 10^{-3} \ mol$  
