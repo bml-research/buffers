@@ -45,7 +45,7 @@ $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$ [2p]
 -1p indien kleine fout zoals lading links en rechts niet kloppend.  
 d.  
 $V_{10 \ druppels} = 0,5 \ mL = 0,5 \cdot 10^{-3} \ L$  
-$n = c \cdot V = 1 \cdot 0,5 \cdot 10^{-3} = 0,5 \cdot 10^{-3} \ mol$  
+$n = c \cdot V = 1 \cdot 0,5 \cdot 10^{-3} = 0,5 \cdot 10^{-3} \ mol$ [1p]  
 
 $n_{zuur} = c \cdot V = 0,01 \cdot 0,150 = 1,5 \cdot 10^{-3} \ mol$  
 $n_{base} = c \cdot V = 0,01 \cdot 0,250 = 2,5 \cdot 10^{-3} \ mol$  
@@ -54,7 +54,7 @@ Titratie:
 $n_{HA} = 1,5 \cdot 10^{-3} - 0,5 \cdot 10^{-3} = 1,0 \cdot 10^{-3} \ mol$  
 $n_{A^-} = 2,5 \cdot 10^{-3} + 0,5 \cdot 10^{-3} = 3,0 \cdot 10^{-3} \ mol$  
 
-$pH = 7,09 + \log{\frac{3,0 \cdot 10^{-3}}{1,0 \cdot 10^{-3}}} = 7,6$  
+$pH = 7,09 + \log{\frac{3,0 \cdot 10^{-3}}{1,0 \cdot 10^{-3}}} = 7,6$ [2p]  
 
 ## Opgave 3
 
