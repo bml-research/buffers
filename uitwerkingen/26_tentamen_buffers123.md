@@ -14,12 +14,12 @@ $pK_a = -\log{6,3 \cdot 10^{-8}}$ [1p]
 $pK_a = 7,2$ [1p]  
 d.  
 $pK_{a1} = -\log{7,5 \cdot 10^{–3}} = 2,1$  
-$pK_{a2} = -\log{6,2 \cdot 10^{–8}} = 7,2$  
+$pK_{a2} = -\log{6,2 \cdot 10^{–8}} = 7,2$ [1p]  
 $pK_{a3} = -\log{4,2 \cdot 10^{–13}} = 12,4$  
 
-Dus gebruiken:
+Dus gebruiken zuur/base paar dat het dichtst bij de pKa ligt:
 Zuur/Base:
-$H_2PO_4^-/HPO_4^{2-}$
+$H_2PO_4^-/HPO_4^{2-}$ [1p]  
 
 e.  
 $pH = -\log{0.01} = 2,0$  
