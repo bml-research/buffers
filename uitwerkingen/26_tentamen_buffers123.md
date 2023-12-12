@@ -34,8 +34,8 @@ $pH = pK_a + \log{\frac{A^-}{HA}}$
 $pH = 7,09 + \log{\frac{250}{150}} = 7,3$ [3p]  
 Indien methodiek wel goed maar zuur en base omgekeerd dan voor laatste onderdeel: [2p]  
 b.  
-$\log{\frac{A^-}{HA}} = 7,4 - 7,09 = 0,31$ [2p]  
-$\frac{A^-}{HA} = 10^{0,31} = 2,04 = \frac{2,04}{1}$
+$\log{\frac{A^-}{HA}} = 7,4 - 7,09 = 0,31$  
+$\frac{A^-}{HA} = 10^{0,31} = 2,04 = \frac{2,04}{1}$ [2p]  
 Dus 3,04 delen.
 $V_{NaH_2PO_4} = \frac{275}{3,04} = 90 \ mL$  
 $V_{K_2HPO_4} = 275 - 90 = 185 \ mL$ [3p]  
