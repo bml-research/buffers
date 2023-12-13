@@ -73,7 +73,8 @@ $pH = 7,09 + \log{\frac{1,125 \cdot 10^{-3}}{0}}$ [1p]
 ## Opgave 3
 
 a.  
-$CH_3NH_2 + H_2O \rightleftarrows CH_3NH_3^+ + OH^-$  
+$CH_3NH_2 + H_2O \rightleftarrows CH_3NH_3^+ + OH^-$ [2p]  
+-1p indien kleine fout zoals lading links en rechts niet kloppend.  
 b.  
 $n = \frac{m}{M_w} = \frac{0,250}{31} = 8,06 \cdot 10^{-3} \ mol$  
 $c = \frac{n}{V} = \frac{8,06 \cdot 10^{-3}}{0,3} = 0,027 \ M$  
