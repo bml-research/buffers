@@ -84,7 +84,7 @@ $pH = 14 - 2,90 = 11,1$
 Beoordelen op methodiek:
 Aantal mol NaOH goed berekend: [1p]
 Titratie uitgevoerd waarbij Zuur weggetitreerd werd naar de zwakke base: [1p]
-Hierdoor een hogere pH dan start pH: [1p]  
+Nieuwe Henderson-Hasselbalch uitgevoerd: [1p]  
 
 
 ## Opgave 3
