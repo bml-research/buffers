@@ -58,7 +58,7 @@ $n_{base} = \frac{2,5 \cdot 10^{-3}}{4} = 6,25 \cdot 10^{-4} \ mol$
 
 Titratie:  
 $n_{zuur} = 3,75 \cdot 10^{-4} - 5 \cdot 10^{-4} = -1,25 \cdot 10^{-4} \ mol$  
->Deze nu op 0 zetten. Al het zuur is weggetitreert!  
+>Deze nu op 0 zetten. Al het zuur is verbruikt!  
 
 Dus:
 $n_{zuur} = 0 \ mol$  
