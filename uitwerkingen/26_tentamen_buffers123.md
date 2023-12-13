@@ -53,8 +53,7 @@ $n_{base} = c \cdot V = 0,01 \cdot 0,250 = 2,5 \cdot 10^{-3} \ mol$
 
 In 100 mL:  
 $n_{zuur} = \frac{1,5 \cdot 10^{-3}}{4} = 3,75 \cdot 10^{-4} \ mol$  
-$n_{base} = \frac{2,5 \cdot 10^{-3}}{4} = 6,25 \cdot 10^{-4} \ mol$  
-[1p]  
+$n_{base} = \frac{2,5 \cdot 10^{-3}}{4} = 6,25 \cdot 10^{-4} \ mol$ [1p]  
 
 Titratie:  
 $n_{zuur} = 3,75 \cdot 10^{-4} - 5 \cdot 10^{-4} = -1,25 \cdot 10^{-4} \ mol$  
