@@ -96,7 +96,7 @@ $CH_3NH_2 + H_2O \rightleftarrows CH_4NH_2^+ + OH^-$ [2p]
 Amino groep nog niet behandeld.  
 b.  
 $n = \frac{m}{M_w} = \frac{0,250}{31} = 8,06 \cdot 10^{-3} \ mol$ [1p]  
-$c = \frac{n}{V} = \frac{8,06 \cdot 10^{-3}}{0,3} = 0,027 \ M$ [1p]  
+$c = \frac{n}{V} = \frac{8,06 \cdot 10^{-3}}{0,1} = 0,0806 \ M$ [1p]  
 c.  
 $K_b = 10^{-3,36} = 4,37 \cdot 10^{-4}$  
 $[OH^-] = \sqrt{4,37 \cdot 10^{-4} \cdot 0,027} = 3,43 \cdot 10^{-3} \ M$  
