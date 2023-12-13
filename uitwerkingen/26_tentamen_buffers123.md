@@ -69,6 +69,23 @@ $pH = 7,09 + \log{\frac{1,125 \cdot 10^{-3}}{0}}$ [1p]
 
 >Delen door 0 is flauwekul!  
 
+Er blijft over:  
+
+$n_{OH^-} = 5 \cdot 10^{-4} - 3,75 \cdot 10^{-4} = 1,25 \cdot 10^{-4} \ mol  $  
+
+Dus:  
+
+$c_{OH^-} = \frac{n}{V} = \frac{1,25 \cdot 10^{-4}}{0,1} = 1,23 \cdot 10^{-3} \ M$  
+
+$pOH = -\log{1,23 \cdot 10^{-3}} = 2,90$  
+
+$pH = 14 - 2,90 = 11,1$  
+
+>Deze vraag is zo niet bedoeld.  
+Beoordelen op methodiek:
+Aantal mol NaOH goed berekend: [1p]
+Titratie uitgevoerd waarbij Zuur weggetitreerd werd naar de zwakke base: [1p]  
+
 
 ## Opgave 3
 
