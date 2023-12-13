@@ -83,7 +83,8 @@ $pH = 14 - 2,90 = 11,1$
 >Deze vraag is zo niet bedoeld.  
 Beoordelen op methodiek:
 Aantal mol NaOH goed berekend: [1p]
-Titratie uitgevoerd waarbij Zuur weggetitreerd werd naar de zwakke base: [1p]  
+Titratie uitgevoerd waarbij Zuur weggetitreerd werd naar de zwakke base: [1p]
+Hierdoor een hogere pH dan start pH: [1p]  
 
 
 ## Opgave 3
