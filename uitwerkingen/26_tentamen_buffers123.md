@@ -90,11 +90,16 @@ Nieuwe Henderson-Hasselbalch uitgevoerd: [1p]
 ## Opgave 3
 
 a.  
-$CH_3NH_2 + H_2O \rightleftarrows CH_3NH_3^+ + OH^-$ [2p]  
--1p indien kleine fout zoals lading links en rechts niet kloppend.  
+$CH_3NH_2 + H_2O \rightleftarrows CH_3NH_3^+ + OH^-$ [1p]  
+[-0.5p] indien kleine fout zoals lading links en rechts niet kloppend.  
 Ook alle punten toegekend indien:  
-$CH_3NH_2 + H_2O \rightleftarrows CH_4NH_2^+ + OH^-$ [2p]  
+$CH_3NH_2 + H_2O \rightleftarrows CH_4NH_2^+ + OH^-$ [1p]  
 Amino groep nog niet behandeld.  
+
+Evenwichtsvoorwaarde:  
+
+$K_b = \frac{[CH_3NH_3^+] [OH^-]}{[CH_3NH_2]}$ [1p]  
+
 b.  
 $n = \frac{m}{M_w} = \frac{0,250}{31} = 8,06 \cdot 10^{-3} \ mol$ [1p]  
 $c = \frac{n}{V} = \frac{8,06 \cdot 10^{-3}}{0,1} = 0,0806 \ M$ [1p]  
