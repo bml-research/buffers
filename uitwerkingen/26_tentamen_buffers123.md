@@ -45,16 +45,30 @@ $H_2PO_4^- + H_2O \rightleftarrows HPO_4^{2-} + H_3O^+$ [2p]
 -1p indien kleine fout zoals lading links en rechts niet kloppend.  
 d.  
 $V_{10 \ druppels} = 0,5 \ mL = 0,5 \cdot 10^{-3} \ L$  
-$n = c \cdot V = 1 \cdot 0,5 \cdot 10^{-3} = 0,5 \cdot 10^{-3} \ mol$ [1p]  
+$n = c \cdot V = 1 \cdot 0,5 \cdot 10^{-3} = 0,5 \cdot 10^{-3} \ mol = 5 \cdot 10^{-4} \ mol$ [1p]  
 
+In 400 mL:  
 $n_{zuur} = c \cdot V = 0,01 \cdot 0,150 = 1,5 \cdot 10^{-3} \ mol$  
 $n_{base} = c \cdot V = 0,01 \cdot 0,250 = 2,5 \cdot 10^{-3} \ mol$  
 
-Titratie:  
-$n_{HA} = 1,5 \cdot 10^{-3} - 0,5 \cdot 10^{-3} = 1,0 \cdot 10^{-3} \ mol$  
-$n_{A^-} = 2,5 \cdot 10^{-3} + 0,5 \cdot 10^{-3} = 3,0 \cdot 10^{-3} \ mol$  
+In 100 mL:
+$n_{zuur} = \frac{1,5 \cdot 10^{-3}}{4} = 3,75 \cdot 10^{-4} \ mol$  
+$n_{base} = \frac{2,5 \cdot 10^{-3}}{4} = 6,25 \cdot 10^{-4} \ mol$  
+[1p]  
 
-$pH = 7,09 + \log{\frac{3,0 \cdot 10^{-3}}{1,0 \cdot 10^{-3}}} = 7,6$ [2p]  
+Titratie:  
+$n_{zuur} = 3,75 \cdot 10^{-4} - 5 \cdot 10^{-4} = -1,25 \cdot 10^{-4} \ mol$  
+>Deze nu op 0 zetten. Al het zuur is weggetitreert!  
+
+Dus:
+$n_{zuur} = 0 \ mol$  
+
+$n_{base} = 6,25 \cdot 10^{-4} + 5 \cdot 10^{-4} = 1,125 \cdot 10^{-3} \ mol$  
+
+$pH = 7,09 + \log{\frac{1,125 \cdot 10^{-3}}{0}}$ [1p]  
+
+>Delen door 0 is flauwekul!  
+
 
 ## Opgave 3
 
