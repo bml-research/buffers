@@ -51,7 +51,7 @@ In 400 mL:
 $n_{zuur} = c \cdot V = 0,01 \cdot 0,150 = 1,5 \cdot 10^{-3} \ mol$  
 $n_{base} = c \cdot V = 0,01 \cdot 0,250 = 2,5 \cdot 10^{-3} \ mol$  
 
-In 100 mL:
+In 100 mL:  
 $n_{zuur} = \frac{1,5 \cdot 10^{-3}}{4} = 3,75 \cdot 10^{-4} \ mol$  
 $n_{base} = \frac{2,5 \cdot 10^{-3}}{4} = 6,25 \cdot 10^{-4} \ mol$  
 [1p]  
