@@ -130,10 +130,12 @@ c.
 Indien > 1 dan meer product (evenwicht ligt rechts).  
 Indien < 1 dan meer reactant (evenwicht ligt links).  
 In dit geval dus meer product dan reactant. [1p]  
+Deze vraag nakijken a.d.v. antwoord vraag b.  
 
 d.  
 Deze zal naar rechts verschuiven. Ofwel de lever zal meer glucose afgeven. [2p]  
 
+Uitleg m.b.v. Q:  
 
 Concentratie glucose in het bloed afgenomen:  
 
@@ -144,8 +146,7 @@ Als compensatie reactie verschuift naar rechts (lever maakt glucose vrij):
 $Q = \frac{[producten] \ wordt \ weer \ hoger}{[reactanten] \ wordt \ weer \ lager}$  
 
 e.  
-Deze zal eerst lager zijn omdat de teller van de breuk lager werd (zie d). [2p]  
-
-Wel zal als compensatie daarna K (feitelijk dan Q, want er is tijdelijk geen evenwicht) weer gaan verhogen tot het evenwicht hersteld is (dan is het weer $K_{eq}$).  
+Deze zal gelijk blijven. [2p]  
+Q zal weer gaan verhogen tot het evenwicht hersteld is waarbij: $Q = K_{eq}$.  
 
 ---
