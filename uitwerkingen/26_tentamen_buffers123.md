@@ -132,7 +132,7 @@ Indien < 1 dan meer reactant.
 In dit geval dus meer product dan reactant. [1p]  
 
 d.  
-Deze zal naar rechts verschuiven. [2p]  
+Deze zal naar rechts verschuiven. Ofwel de lever zal meer glucose afgeven. [2p]  
 
 
 Concentratie glucose in het bloed afgenomen:  
