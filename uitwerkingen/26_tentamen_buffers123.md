@@ -112,25 +112,25 @@ $pH = 14 - 2,23 = 11,8$ [1p]
 ## Opgave 4
 
 a.  
-$K_{eq} = \frac{[C_6H_{12}O_6][P]}{[C_6H_{12}O_6-6-P]}$  
+$K_{eq} = \frac{[C_6H_{12}O_6][P]}{[C_6H_{12}O_6-6-P]}$ [2p] alles of niets.  
 b.  
 $C_6H_{12}O_6-6-P \rightleftarrows C_6H_{12}O_6 + P$  
 
 $c_{C_6H_{12}O_6-6-P} = 2,41 \cdot 10^{-4} \ M$  
-$c_{C_6H_{12}O_6} = 0,27 - 2,41 \cdot 10^{-4} = 0,270\ M$  
+$c_{C_6H_{12}O_6} = 0,27 - 2,41 \cdot 10^{-4} = 0,270\ M$ [1p]  
 $c_P = 0,270 \ M$  
 
-$K_{eq} = \frac{0,270 \cdot 0,270}{2,41 \cdot 10^{-4}} = 302$  
+$K_{eq} = \frac{0,270 \cdot 0,270}{2,41 \cdot 10^{-4}} = 302$ [2p]  
 
 c.  
 Indien > 1 dan meer product.  
 Indien < 1 dan meer reactant.
-In dit geval dus meer product dan reactant.  
+In dit geval dus meer product dan reactant. [1p]  
 
 d.  
-Deze zal naar rechts verschuiven.  
+Deze zal naar rechts verschuiven. [2p]  
 
 e.  
-Deze zal eerst lager worden omdat de teller van de breuk lager wordt. Als compensatie zal K (feitelijk dan Q, want er is tijdelijk geen evenwicht) weer gaan verhogen tot het evenwicht hersteld is (dan is het weer K).  
+Deze zal eerst lager worden omdat de teller van de breuk lager wordt. Als compensatie zal K (feitelijk dan Q, want er is tijdelijk geen evenwicht) weer gaan verhogen tot het evenwicht hersteld is (dan is het weer K). [2p]  
 
 ---
