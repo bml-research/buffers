@@ -134,7 +134,16 @@ In dit geval dus meer product dan reactant. [1p]
 d.  
 Deze zal naar rechts verschuiven. [2p]  
 
+
+Concentratie glucose in het bloed afgenomen:  
+
+$Q = \frac{[producten] \ laag}{[reactanten] \ hoog}$  
+
+Als compensatie reactie verschuift naar rechts (lever maakt glucose vrij):  
+
+$Q = \frac{[producten] \ wordt \ weer \ hoger}{[reactanten] \ wordt \ weer \ lager}$  
+
 e.  
-Deze zal eerst lager worden omdat de teller van de breuk lager wordt. Als compensatie zal K (feitelijk dan Q, want er is tijdelijk geen evenwicht) weer gaan verhogen tot het evenwicht hersteld is (dan is het weer K). [2p]  
+Deze zal eerst lager zijn omdat de teller van de breuk lager werd (zie d). Als compensatie zal K (feitelijk dan Q, want er is tijdelijk geen evenwicht) weer gaan verhogen tot het evenwicht hersteld is (dan is het weer $K_{eq}$). [2p]  
 
 ---
