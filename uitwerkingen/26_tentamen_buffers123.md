@@ -127,8 +127,8 @@ $K_{eq} = 302$ [1p]
 >Ik heb deze vraag op alles of niets nagekeken. Het is een onderscheidende vraag voor de studenten die het heel goed snappen.  
 
 c.  
-Indien > 1 dan meer product.  
-Indien < 1 dan meer reactant.
+Indien > 1 dan meer product (evenwicht ligt rechts).  
+Indien < 1 dan meer reactant (evenwicht ligt links).  
 In dit geval dus meer product dan reactant. [1p]  
 
 d.  
