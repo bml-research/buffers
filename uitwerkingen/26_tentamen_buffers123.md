@@ -124,6 +124,8 @@ $K_{eq} = \frac{0,270 \cdot 0,270}{2,41 \cdot 10^{-4}}$ [2p]
 
 $K_{eq} = 302$ [1p]  
 
+>Ik heb deze vraag een beetje alles of niets nagekeken. Het is een onderscheidende vraag voor de studenten die het heel goed snappen.  
+
 c.  
 Indien > 1 dan meer product.  
 Indien < 1 dan meer reactant.
