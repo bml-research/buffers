@@ -81,10 +81,7 @@ $pOH = -\log{1,23 \cdot 10^{-3}} = 2,90$
 $pH = 14 - 2,90 = 11,1$  
 
 >Deze vraag is zo niet bedoeld.  
-Beoordelen op methodiek:
-Aantal mol NaOH goed berekend: [1p]
-Titratie uitgevoerd waarbij Zuur weggetitreerd werd naar de zwakke base: [1p]
-Nieuwe Henderson-Hasselbalch uitgevoerd: [1p]  
+>Vraag komt te vervallen.  
 
 
 ## Opgave 3
