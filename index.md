@@ -47,6 +47,10 @@
 - [Formules, variabelen en constanten](./uitwerkingen/24_formules.md)
 - [pKa waarden](./uitwerkingen/25_pka.md)
 
+
+## Uitwerking tentamen:
+- [uitwerking tentamen](./uitwerkingen/26_tentamen_buffers123.md)
+
 --- 
 
 
