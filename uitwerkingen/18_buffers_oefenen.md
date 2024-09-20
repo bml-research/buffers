@@ -25,11 +25,11 @@ $\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,09 = -0,29$
 $\frac{[A^-]}{[HA]} = 10^{-0,29} = 0,5129$  
 
 dus:  
-$[A^-] = 0,5129 \cdot [HA]$  
+$[A^-] = 0,5129 \cdot [HA]$  (1)
 en:  
-$[A^-] + [HA] = 0,05 \ M$  
+$[A^-] + [HA] = 0,05 \ M$  (2)
 
-Twee vergelijkingen met elk 2 onbekenden: substitutie  
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).    
 
 $0,5129 \cdot [HA] + [HA] = 0,05$  
 $1,5129[HA] = 0,05$  
@@ -39,6 +39,7 @@ Ofwel:
 
 
 $c_{KH_2PO_4} = \frac{0,05}{1,5129} = 0,03305 \ M$  
+
 
 $c_{K_2HPO_4} = 0,05 - 0,03305 = 0,01695 \ M$  
 
