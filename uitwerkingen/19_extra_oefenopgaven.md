@@ -64,10 +64,19 @@ a.
 $pH = pK_a + \log{\frac{[A^-]}{[HA]}}$  
 $6,3 = 7,09 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 6,3 - 7,09 = -0,79$  
-$\frac{[A^-]}{[HA]} = 10^{-0,79} = 0,162$  
-Dus:  
-$\frac{[A^-]}{[HA]} = \frac{0,162}{1}$ (dus 1,162 delen)  
-Dus:  
+$\frac{[A^-]}{[HA]} = 10^{-0,79} = 0,162$   
+
+dus:  
+$[A^-] = 0,162 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 375 \ mL$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+$0,162 \cdot [HA] + [HA] = 375$  
+$1,162 [HA] = 375$  
+$[HA] = \frac{375}{1,162}$  
+
 $V_{KH_2PO_4} = \frac{375}{1,162} = 323 \ mL$  
 $V_{K_2HPO_4} = 375 - 323 = 52 \ mL$  
 
@@ -176,7 +185,19 @@ $pK_a = -\log{8,2 \cdot 10^{-8}} = 7,09$
 $pH = pK_a + \log \frac{A^-}{HA}$  
 $6,3 = 7,09 + \log \frac{A^-}{HA}$  
 $\log \frac{A^-}{HA} = 6,3 - 7,09 = -0,79$  
-$\frac{A^-}{HA} = 10^{-0,79} = 0,162 = \frac{0,162}{1}$ (1,162 delen)  
+$\frac{A^-}{HA} = 10^{-0,79} = 0,162)  
+
+dus:  
+$[A^-] = 0,162 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 150 \ mL$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+$0,162 \cdot [HA] + [HA] = 150$  
+$1,162 [HA] = 150$  
+$[HA] = \frac{150}{1,162}$  
+
 Dus:  
 $V_{HA} = \frac{150}{1,162} = 129 \ mL$  
 $V_{A^-} = 150 - 129 = 21 \ mL$  
