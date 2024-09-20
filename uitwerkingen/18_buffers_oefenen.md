@@ -96,18 +96,29 @@ $4,3 = 4,77 + \log{\frac{[A^-]}{[HA]}}$
 
 $\log{\frac{[A^-]}{[HA]}} = 4,3 - 4,77 = -0,47$  
 
-$\frac{[A^-]}{[HA]} = 10^{-0,47} = 0,339 = \frac{0,339}{1}$  
+$\frac{[A^-]}{[HA]} = 10^{-0,47} = 0,339$  
 
 Dus:  
 $Zuur:base = 1:0,331$  
 
+dus:  
+$[A^-] = 0,339 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 750 \ mL$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).    
+
+$0,339 \cdot [HA] + [HA] = 750$  
+$1,339 [HA] = 750$  
+$[HA] = \frac{750}{1,339}$  
+
 Om 750 ml van de buffer te maken:  
 
-$V_{CH_3COOH} = \frac{750}{1,339} \cdot 1 = 560 \ mL$  
+$V_{CH_3COOH} = \frac{750}{1,339} = 560 \ mL$  
 
 $V_{NaCH_3COO} = 750 - 560 = 190 \ mL$  
 
-Let op dat doordat beide oplossingen 0,2 M zijn de condentratie niet verandert. Je mengt ze immers met elkaar. 0,2 M + 0,2 M (in welke verhouding dan ook) blijft altijd 0,2 M.  
+>Let op dat doordat beide oplossingen 0,2 M zijn de condentratie niet verandert. Je mengt ze immers met elkaar. 0,2 M + 0,2 M (in welke verhouding dan ook) blijft altijd 0,2 M.  
 
 c.  
 Deze blijft gelijk (maar de buffercapaciteit neemt af).  
@@ -136,7 +147,18 @@ $\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,2 = -0,4$
 $\frac{[A^-]}{[HA]} = 10^{-0,4} = 0,398 = \frac{0,398}{1}$  
 
 Dus:  
-$Zuur:base = 1:0,398$ (1,398 delen)  
+$Zuur:base = 1:0,398$  
+
+dus:  
+$[A^-] = 0,398 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 600 \ mL$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+$0,398 \cdot [HA] + [HA] = 600$  
+$1,398 [HA] = 600$  
+$[HA] = \frac{600}{1,398}$  
 
 $V_{KH_2PO_4} = \frac{600}{1,398} = 429 \ mL$  
 $V_{K_2HPO_4} = 600 - 429 = 171 \ mL$  
@@ -148,7 +170,7 @@ $c = \frac{n}{V}$
 $n = c \cdot V$  
 $n = 0,3 \cdot 0,2 = 0,06 \ mol$  
 
-$n_{KH_2PO_4} = \frac{0,06}{1,398} \cdot 1 = 0,0429 \ mol$  
+$n_{KH_2PO_4} = \frac{0,06}{1,398} = 0,0429 \ mol$  
 $n_{K_2HPO_4} = 0,06 - 0,0429 = 0,0171 \ mol$  
 
 2 mL 1M HCl toegevoegd  
