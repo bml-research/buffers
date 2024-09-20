@@ -25,9 +25,9 @@ $\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,09 = -0,29$
 $\frac{[A^-]}{[HA]} = 10^{-0,29} = 0,5129$  
 
 dus:  
-$[A^-] = 0,5129 \cdot [HA]$  (1)
+$[A^-] = 0,5129 \cdot [HA]$ (1)  
 en:  
-$[A^-] + [HA] = 0,05 \ M$  (2)
+$[A^-] + [HA] = 0,05 \ M$ (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).    
 
@@ -102,9 +102,9 @@ Dus:
 $Zuur:base = 1:0,331$  
 
 dus:  
-$[A^-] = 0,339 \cdot [HA]$  (1)
+$[A^-] = 0,339 \cdot [HA]$ (1)  
 en:  
-$[A^-] + [HA] = 750 \ mL$  (2)
+$[A^-] + [HA] = 750 \ mL$ (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).    
 
@@ -150,9 +150,9 @@ Dus:
 $Zuur:base = 1:0,398$  
 
 dus:  
-$[A^-] = 0,398 \cdot [HA]$  (1)
+$[A^-] = 0,398 \cdot [HA]$ (1)  
 en:  
-$[A^-] + [HA] = 600 \ mL$  (2)
+$[A^-] + [HA] = 600 \ mL$ (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
 

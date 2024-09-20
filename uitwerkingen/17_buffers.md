@@ -70,9 +70,9 @@ $\log{\frac{[A^-]}{[HA]}} = 2,8 - 3,15 = -0,35$
 $\frac{[A^-]}{[HA]} = 10^{-0,35} = 0,447$  
 
 dus:  
-$[A^-] = 0,447 \cdot [HA]$  (1)
+$[A^-] = 0,447 \cdot [HA]$ (1)  
 en:  
-$[A^-] + [HA] = 100\%$  (2)
+$[A^-] + [HA] = 100\%$  (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
 
@@ -135,9 +135,9 @@ $\log{\frac{[A^-]}{[HA]}} = 2,8 - 3,15 = -0,38$
 $\frac{[A^-]}{[HA]} = 10^{-0,38} = 0,447$  
 
 dus:  
-$[A^-] = 0,447 \cdot [HA]$  (1)
+$[A^-] = 0,447 \cdot [HA]$  (1)  
 en:  
-$[A^-] + [HA] = 100\%$  (2)
+$[A^-] + [HA] = 100\%$  (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
 

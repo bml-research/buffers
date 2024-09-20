@@ -67,9 +67,9 @@ $\log{\frac{[A^-]}{[HA]}} = 6,3 - 7,09 = -0,79$
 $\frac{[A^-]}{[HA]} = 10^{-0,79} = 0,162$   
 
 dus:  
-$[A^-] = 0,162 \cdot [HA]$  (1)
+$[A^-] = 0,162 \cdot [HA]$ (1)  
 en:  
-$[A^-] + [HA] = 375 \ mL$  (2)
+$[A^-] + [HA] = 375 \ mL$ (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
 
@@ -188,9 +188,9 @@ $\log \frac{A^-}{HA} = 6,3 - 7,09 = -0,79$
 $\frac{A^-}{HA} = 10^{-0,79} = 0,162)  
 
 dus:  
-$[A^-] = 0,162 \cdot [HA]$  (1)
+$[A^-] = 0,162 \cdot [HA]$ (1)  
 en:  
-$[A^-] + [HA] = 150 \ mL$  (2)
+$[A^-] + [HA] = 150 \ mL$ (2)  
 
 >We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
 
