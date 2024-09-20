@@ -35,8 +35,19 @@ $pH = 7,09 + \log{\frac{250}{150}} = 7,3$ [3p]
 Indien methodiek wel goed maar zuur en base omgekeerd dan voor laatste onderdeel: [2p]  
 b.  
 $\log{\frac{A^-}{HA}} = 7,4 - 7,09 = 0,31$  
-$\frac{A^-}{HA} = 10^{0,31} = 2,04 = \frac{2,04}{1}$ [2p]  
-Dus 3,04 delen.
+$\frac{A^-}{HA} = 10^{0,31} = 2,04$ [2p]  
+
+dus:  
+$[A^-] = 2,04 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 275 \ mL$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+$2,04 \cdot [HA] + [HA] = 275$  
+$3,04 [HA] = 275$  
+$[HA] = \frac{275}{3,04}$  
+
 $V_{NaH_2PO_4} = \frac{275}{3,04} = 90 \ mL$  
 $V_{K_2HPO_4} = 275 - 90 = 185 \ mL$ [3p]  
 Indien methodiek wel goed maar zuur en base omgekeerd dan voor laatste onderdeel: [2p]  
