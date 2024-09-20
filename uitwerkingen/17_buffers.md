@@ -68,8 +68,19 @@ $pH = pKa + \log{\frac{[A^-]}{[HA]}}$
 $2,8 = 3,15 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 2,8 - 3,15 = -0,35$  
 $\frac{[A^-]}{[HA]} = 10^{-0,35} = 0,447$  
-$\frac{[A^-]}{[HA]} = \frac{0,447}{1}$  
-$[HA] = \frac{1}{0,447 + 1} * 100\% = 69\%$  
+
+dus:  
+$[A^-] = 0,447 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 100\%$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+$0,447 \cdot [HA] + [HA] = 100$  
+$1,447 [HA] = 100$  
+$[HA] = \frac{100}{1,447}$  
+
+$[HA] = 69\%$  
 
 Dus percentage $C_6H_8O_7$ = 69%  
 
@@ -122,8 +133,18 @@ $pH = pKa + \log{\frac{[A^-]}{[HA]}}$
 $2,8 = 3,15 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 2,8 - 3,15 = -0,38$  
 $\frac{[A^-]}{[HA]} = 10^{-0,38} = 0,447$  
-$\frac{[A^-]}{[HA]} = \frac{0,447}{1}$  
-$[HA] = \frac{1}{0,447 + 1} * 100\% = 69\%$  
+
+dus:  
+$[A^-] = 0,447 \cdot [HA]$  (1)
+en:  
+$[A^-] + [HA] = 100\%$  (2)
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+$0,447 \cdot [HA] + [HA] = 100$  
+$1,447 [HA] = 100$  
+$[HA] = \frac{100}{1,447}$  
+$[HA] = 69\%$  
 dus:
 $c_{HA} = 69\% \cdot 0,1 = 0,069 \ mol$  
 $c_{A^-} = 31\% \cdot 0,1 = 0,031 \ mol$  
