@@ -23,13 +23,20 @@ $pH = pKa + \log{\frac{[A^-]}{[HA]}}$
 $6,8 = 7,09 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = 6,8 - 7,09 = -0,29$  
 $\frac{[A^-]}{[HA]} = 10^{-0,29} = 0,5129$  
-dus:  
-$\frac{[A^-]}{[HA]} = \frac{0,5129}{1}$  
 
-Dus 1,5129 delen  
-
-$c = 0,05 \ M$  
 dus:  
+$[A^-] = 0,5129 \cdot [HA]$  
+en:  
+$[A^-] + [HA] = 0,05 \ M$  
+
+Twee vergelijkingen met elk 2 onbekenden: substitutie  
+
+$0,5129 \cdot [HA] + [HA] = 0,05$  
+$1,5129[HA] = 0,05$  
+$[HA] = \frac{0,05}{1,5129}$  
+
+Ofwel:
+
 
 $c_{KH_2PO_4} = \frac{0,05}{1,5129} = 0,03305 \ M$  
 
