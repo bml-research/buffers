@@ -1,5 +1,6 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
+
 [Terug naar de hoofdpagina ](../index.md)
 
 # Uitwerking Oefententamen 1
