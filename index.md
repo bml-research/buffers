@@ -48,8 +48,10 @@
 - [pKa waarden](./uitwerkingen/25_pka.md)
 
 
-## Uitwerking tentamen:
-- [uitwerking tentamen](./uitwerkingen/26_tentamen_buffers123.md)
+## Uitwerking Oefententamen:
+- [uitwerking oefententamen 1](./uitwerkingen/26_oefententamen_01.md)
+- [uitwerking oefententamen 2](./uitwerkingen/27_oefententamen_02.md)
+- [uitwerking oefententamen 3](./uitwerkingen/28_oefententamen_03.md)
 
 --- 
 
