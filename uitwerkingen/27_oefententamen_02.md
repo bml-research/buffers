@@ -1,4 +1,7 @@
 {% include head.html %}
+![Hanze](../hanze/hanze.png)
+[Terug naar de hoofdpagina ](../index.md)
+
 
 # Uitwerking Oefententamen 2
 
@@ -223,4 +226,4 @@ $pH = -\log{1,05 \cdot 10^{-5}} = 5,0$
 
 ---
 
-
+[Terug naar de hoofdpagina ](../index.md)

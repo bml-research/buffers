@@ -1,4 +1,6 @@
 {% include head.html %}
+![Hanze](../hanze/hanze.png)
+[Terug naar de hoofdpagina ](../index.md)
 
 # Uitwerking Oefententamen 1
 
@@ -186,3 +188,5 @@ $pH = pK_a + \log{\frac{A^-}{HA}}$
 $pH = 4,86 + \log{\frac{0,0104}{0,0522}} = 4,1$  
 
 ---
+
+[Terug naar de hoofdpagina ](../index.md)

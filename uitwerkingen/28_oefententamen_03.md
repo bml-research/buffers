@@ -1,4 +1,7 @@
 {% include head.html %}
+![Hanze](../hanze/hanze.png)
+[Terug naar de hoofdpagina ](../index.md)
+
 
 # Uitwerking Oefententamen 3
 
@@ -158,3 +161,5 @@ Deze zal gelijk blijven. [2p]
 Q zal weer gaan verhogen tot het evenwicht hersteld is waarbij: $Q = K_{eq}$.  
 
 ---
+
+[Terug naar de hoofdpagina ](../index.md)
