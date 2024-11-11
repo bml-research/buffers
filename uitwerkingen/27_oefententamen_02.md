@@ -27,11 +27,24 @@ b.
 $pH = Pka + \log{\frac{[A^-]}{[HA]}}$  
 $4,3 = 4,77 + \log{\frac{[A^-]}{[HA]}}$  
 $\log{\frac{[A^-]}{[HA]}} = -0,47$  
-$\frac{[A^-]}{[HA]} = 10^{-0,47} = 0,34 = \frac{0,34}{1}$ (1,34 delen)  
+$\frac{[A^-]}{[HA]} = 10^{-0,47} = 0,34$   
 
-c.   
-$HA=\frac{750}{1,34}=560 \ mL$ zuur  
+c.  
+dus:  
+
+$[A^-] = 0,34 \cdot [HA]$ (1)  
+en:  
+$[A^-] + [HA] = 750 \ mL$ (2)  
+
+>We hebben nu twee vergelijkingen met elk 2 onbekenden. Dit is op te lossen via substitutie. We zorgen dan dat we de concentratie van het zuur (vergelijking 1) invullen in vergelijking 2 in plaats van de concentratie base. We houden dan nog maar 1 onbekende over (namelijk [HA]).  
+
+dus:
+
+$0,34 \cdot [HA] + [HA] = 750$  
+$1,34 [HA] = 750$  
+$[HA] = \frac{750}{1,34} =560 \ mL$ zuur  
 $A^- = 750-560 = 190 \ mL$  
+
 
 d.  
 $pH = Pk_a + \log{\frac{[A^-]}{[HA]}}$  
