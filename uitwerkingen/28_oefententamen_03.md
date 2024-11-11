@@ -1,6 +1,6 @@
 {% include head.html %}
 
-# Uitwerking Tentamen Buffers
+# Uitwerking Oefententamen 3
 
 ## Opgave 1
 a.  
