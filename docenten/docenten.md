@@ -10,11 +10,6 @@
 ![hofg](../impression/hofg.jpg)
 
 **Gert Hofstede**
-<!---
-![hjur](../impression/hjur.jpg)
-
-**Jurre Hageman**
--->
 
 
 --- 
