@@ -49,9 +49,9 @@
 
 
 ## Uitwerking Oefententamen:
-- [uitwerking oefententamen 1](./uitwerkingen/26_oefententamen_01.md)
-- [uitwerking oefententamen 2](./uitwerkingen/27_oefententamen_02.md)
-- [uitwerking oefententamen 3](./uitwerkingen/28_oefententamen_03.md)
+- [Uitwerking oefententamen 1](./uitwerkingen/26_oefententamen_01.md)
+- [Uitwerking oefententamen 2](./uitwerkingen/27_oefententamen_02.md)
+- [Uitwerking oefententamen 3](./uitwerkingen/28_oefententamen_03.md)
 
 --- 
 
