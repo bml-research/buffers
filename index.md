@@ -48,6 +48,12 @@
 - [pKa waarden](./uitwerkingen/25_pka.md)
 
 
+## Oefententamens
+- [Oefententamen 1](./oefententamens/oefententamen1.pdf)
+- [Oefententamen 2](./oefententamens/oefententamen2.pdf)
+- [Oefententamen 3](./oefententamens/oefententamen3.pdf)
+
+
 ## Uitwerking Oefententamen:
 - [Uitwerking oefententamen 1](./uitwerkingen/26_oefententamen_01.md)
 - [Uitwerking oefententamen 2](./uitwerkingen/27_oefententamen_02.md)
