@@ -18,7 +18,7 @@
 
 ## Reader
 
-- [Reader (pdf)](./reader/reader.pdf)
+- The reader can be found on Brightspace
 
 ## Inhoud
 
