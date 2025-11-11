@@ -12,13 +12,6 @@
 ![Pic](./impression/impression.png)
 *<sub>pH meters in 1937, 1960 and 2008. Bron: https://en.wikipedia.org/wiki/PH_meter</sub>*
 
-## Docenten
-
-- [Docenten](./docenten/docenten.md)
-
-## Reader
-
-- The reader can be found on Brightspace
 
 ## Inhoud
 
