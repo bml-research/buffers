@@ -10,6 +10,7 @@
 
 a.  
 $n = \frac{m}{M_w}= \frac{0,4}{176} = 0,0023 \ mol$  
+$c = \frac{n}{V} = \frac{2,3 \cdot 10^{-3}}{0,250} = 9,1​ \cdot 10^{-3} \ mol/L$  
 b.  
 $C_6H_8O_6 + H_2O \rightleftarrows C_6H_7O_6^- + H_3O^+$  
 c.  
