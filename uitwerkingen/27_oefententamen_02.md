@@ -119,7 +119,7 @@ $x = \frac{6,25 \cdot 10^{-6} + 4,5 \cdot 10^{-7}}{1,8 \cdot 10^{-4}}$
 $x = 0,037 \ M$  
 
 d.  
-$n_{zuur} = c \cdot v = 0,1 \cdot 0,2 = 0,02 \ mol$  
+$n_{zuur} = c \cdot v = 0,2 \cdot 0,1 = 0,02 \ mol$  
 $n_{base} = c \cdot  v = 0,15 \cdot 0,2 = 0,03 \ mol$  
 $pKa = 4,80$  
 $pH = 4,80 + \log{\frac{0,03}{0,02}}$  
